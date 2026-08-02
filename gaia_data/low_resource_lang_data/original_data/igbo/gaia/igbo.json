@@ -1,0 +1,1322 @@
+[
+  {
+    "task_id": "c61d22de-5f6c-4958-a7f6-5e9707bd3466",
+    "Question": "Akwụkwọ gbasara iwu AI nke e zigara na arXiv.org na June 2022 gosiri ọnụọgụgụ nwere axes atọ, ebe axis ọ bụla nwere okwu akara na nsọtụ abụọ. Olee n&#39;ime okwu ndị a ka e ji akọwa ụdị ọha mmadụ na akụkọ Physics na Society nke e zigara na arXiv.org na August 11, 2016?",
+    "Level": "2",
+    "Final answer": "nhata",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "17b5a6a3-bc87-42e8-b0fb-6ab0781ef2cc",
+    "Question": "Ana m eme nnyocha banyere ụdị azụ̀ ndị ghọrọ ndị na-awakpo mgbe ndị mmadụ na-edebe ha dị ka anụ ụlọ hapụrụ ha. E nwere ụdị azụ̀ ụfọdụ nke a na-ewu ewu dị ka anụ ụlọ site n&#39;ịbụ isi agwa nke ihe nkiri Finding Nemo. Dịka USGS si kwuo, ebee ka a hụrụ azụ̀ a dị ka ụdị ndị na-abụghị nke obodo, tupu afọ 2020? Achọrọ m ka azịza ya bụrụ koodu zip nke ọnụọgụ ise nke ebe a chọtara ụdị ahụ, kewapụrụ ya site na koma ma ọ bụrụ na e nwere ihe karịrị otu ebe.",
+    "Level": "2",
+    "Final answer": "34689",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "04a04a9b-226c-43fd-b319-d5e89743676f",
+    "Question": "Ọ bụrụ na anyị echee na akụkọ niile Nature bipụtara na 2020 (isiokwu, naanị, ọ bụghị nyocha akwụkwọ/ogidi, wdg) dabere na mkpa ọnụọgụgụ iji kwado ihe ha chọpụtara ma ha ruru nkezi uru p nke 0.04, akwụkwọ ole ga-ezighi ezi n&#39;ihe ha na-ekwu maka mkpa ọnụọgụgụ? Gbakọọ uru ahụ ruo na ọnụọgụgụ na-esote.",
+    "Level": "2",
+    "Final answer": "41",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "14569e28-c88c-43e4-8c32-097d35b9a67d",
+    "Question": "Na Unlambda, kedu mkpụrụedemede ma ọ bụ ederede kpọmkwem ka a ga-agbakwunye iji dozie koodu a iji wepụta &quot;Maka penguins&quot;? Ọ bụrụ na ihe achọrọ bụ mkpụrụedemede, zaa ya na aha mkpụrụedemede ahụ. Ọ bụrụ na enwere aha dị iche iche maka agwa ahụ, jiri nke kacha nta. Achọghị ebe ederede ahụ. Koodu: `r```````````.Maka .penguinsi",
+    "Level": "2",
+    "Final answer": "azụ azụ",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "e1fc63a2-da7a-432f-be78-7c4a95598703",
+    "Question": "Ọ bụrụ na Eliud Kipchoge nwere ike ịnọgide na-agba ọsọ marathon ya ruo mgbe ebighị ebi, awa ole ka ọ ga-ewe ya iji gbaa ọsọ dị n&#39;etiti Ụwa na Ọnwa dịka ọ kacha nso? Biko jiri uru perigee kacha nta dị na ibe Wikipedia maka Ọnwa mgbe ị na-eme mgbakọ gị. Gbaa nsonaazụ gị gburugburu ruo awa 1000 kacha nso ma ejila ihe nkewa comma ọ bụrụ na ọ dị mkpa.",
+    "Level": "1",
+    "Final answer": "17",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "32102e3e-d12a-4209-9163-7b3a104efe5d",
+    "Question": "Mpempe akwụkwọ e tinyere na ya na-egosi ndepụta ihe dị na ụlọ ahịa mgbazinye ihe nkiri na egwuregwu vidiyo na Seattle, Washington. Kedu aha Blu-Ray kacha ochie e dekọrọ na mpempe akwụkwọ a? Weghachite ya dịka ọ dị na mpempe akwụkwọ ahụ.",
+    "Level": "2",
+    "Final answer": "Oge Ịdọba Ụgbọala 2: Eluigwe na Ala Parallel",
+    "file_name": "32102e3e-d12a-4209-9163-7b3a104efe5d.xlsx",
+    "file_path": "support_files/32102e3e-d12a-4209-9163-7b3a104efe5d.xlsx"
+  },
+  {
+    "task_id": "8e867cd7-cff9-4e6c-867a-ff5ddc2550be",
+    "Question": "Abọm studio ole ka Mercedes Sosa bipụtara n&#39;etiti afọ 2000 na 2009 (gụnyere)? Ị nwere ike iji ụdị wikipedia Bekee kachasị ọhụrụ nke afọ 2022.",
+    "Level": "1",
+    "Final answer": "3",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "3627a8be-a77f-41bb-b807-7e1bd4c0ebdf",
+    "Question": "Ihe dị na nchịkọta ihe ngosi nka nke British Museum nke nwere nọmba ụlọ ihe ngosi nka nke 2012,5015.17 bụ shei nke otu ụdị mollusk. Dịka nchịkọta nke akụkọ nyocha e bipụtara na Science Advances na 2021 si kwuo, achọtara ihe e ji shei nke ụdị a mee nke dị ma ọ dịkarịa ala puku afọ ole?",
+    "Level": "2",
+    "Final answer": "142",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "7619a514-5fa8-43ef-9143-83b66a43d7a4",
+    "Question": "Dịka github si kwuo, olee mgbe etinyere Regression na nsogbu numpy.polynomial kacha ochie nke nwere akara Regression na MM/DD/YY?",
+    "Level": "2",
+    "Final answer": "04/15/18",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "ec09fa32-d03f-4bf8-84b0-1f16922c3ae4",
+    "Question": "Lee ihe egwuregwu na-atọ ụtọ nke m chere na ị ga-enwe mmasị na ya. Ahọpụtala gị ka ị kpọọ agba ikpeazụ nke ihe ngosi egwuregwu ọhụrụ a ma ama bụ &quot;Pick That Ping-Pong&quot;. N&#39;agba a, ị ga-asọ mpi maka nnukwu ihe nrite ego. Ọrụ gị ga-abụ ịhọrọ otu n&#39;ime ọtụtụ bọọlụ ping-pong dị iche iche, wee malite egwuregwu ahụ. Onye ọbịa na-akọwa otu egwuregwu si arụ ọrụ. Ngwaọrụ nke nwere ramp doro anya na usoro piston na-achịkwa ihe ga-esi na egwuregwu ahụ pụta. Ramp ahụ na-enye bọọlụ n&#39;elu ikpo okwu. Ikpo okwu ahụ nwere ohere maka bọọlụ ping-pong atọ n&#39;otu oge. Bọọlụ atọ dị n&#39;elu ikpo okwu ahụ jikọtara ya na otu n&#39;ime piston atọ. N&#39;ọkwa ọ bụla nke egwuregwu ahụ, otu n&#39;ime piston atọ ahụ ga-agba ọsọ na mberede, na-achụpụ bọọlụ ahụ ọ na-akụ. Ọ bụrụ na piston ahụ achụpụ bọọlụ ahụ n&#39;ọnọdụ mbụ na ikpo okwu ahụ, bọọlụ ndị ahụ nọ n&#39;ọnọdụ nke abụọ na nke atọ na ikpo okwu ahụ, nke ọ bụla na-aga n&#39;ihu otu oghere, bọọlụ ndị ọzọ nọ na ramp ahụ na-agakwa n&#39;ọnọdụ nke atọ. Ọ bụrụ na piston ahụ achụpụ bọọlụ ahụ n&#39;ọnọdụ nke abụọ, a ga-ahapụ bọọlụ ahụ nọ n&#39;ọnọdụ nke mbụ ma tụgharịa, bọọlụ ahụ nọ n&#39;ọnọdụ nke atọ na-aga n&#39;ihu iji nọrọ n&#39;ọnọdụ nke mbụ, bọọlụ abụọ ndị ọzọ nọ n&#39;ọnọdụ nke atọ na-aga n&#39;ihu iji nọrọ n&#39;ọnọdụ nke abụọ na nke atọ n&#39;elu ikpo okwu ahụ. Ọ bụrụ na piston ahụ achụpụ bọọlụ ahụ n&#39;ọnọdụ nke atọ, a ga-ahapụ bọọlụ ahụ nọ n&#39;ọnọdụ nke mbụ ma tụgharịa, bọọlụ ahụ nọ n&#39;ọnọdụ nke abụọ na-aga n&#39;ihu iji nọrọ n&#39;ọnọdụ nke mbụ, bọọlụ abụọ ndị ọzọ nọ n&#39;ọnọdụ nke atọ na-aga n&#39;ihu iji nọrọ n&#39;ọnọdụ nke abụọ na nke atọ n&#39;elu ikpo okwu ahụ. Ebe a na-aga n&#39;ihu na-amalite site na bọọlụ ping-pong 100 nwere nọmba, nke edobere n&#39;usoro ịrị elu site na 1 ruo 100. Onye ọbịa ahụ na-eme ka igwe ahụ rụọ ọrụ, bọọlụ atọ mbụ, nke nwere nọmba 1, 2, na 3, na-aga n&#39;ihu n&#39;elu ikpo okwu ahụ. Tupu ịgba pistons ahụ amalite, a ga-ajụ gị nke n&#39;ime bọọlụ 100 ị ga-achọ ịhọrọ. Ọ bụrụ na otu n&#39;ime pistons ahụ achụpụ nhọrọ gị, ị ga-emeri nnukwu ihe nrite ahụ, $10,000. Kedu bọọlụ ị ga-ahọrọ iji mee ka ohere gị nke imeri nnukwu ihe nrite ahụ dịkwuo elu? Biko nye azịza gị dị ka ọnụọgụ bọọlụ ahọpụtara.",
+    "Level": "1",
+    "Final answer": "3",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "676e5e31-a554-4acc-9286-b60d90a92d26",
+    "Question": "Na Julaị 2, 1959, ọkọlọtọ mba Amerịka maka ọkwa mkpụrụ osisi, akwụkwọ nri, na ụfọdụ ngwaahịa ndị ọzọ edepụtara dị ka ndị gbazere agbaze, tụlee ihe ndị dị na &quot;ngalaba kpọrọ nkụ na nke gbazere agbaze&quot; nke a kpọrọ kpọmkwem ka ọ gbazere agbaze yana ihe ọ bụla dị na ngalaba Frozen/Chilled nke nwere aha niile nke ihe ahụ, mana ọ bụghị ma ọ bụrụ na akara ha bụ Chilled. Kemgbe Ọgọst 2023, kedu pasentị (ruo pasentị kacha nso) nke ọkọlọtọ ndị ahụ ejirila ụdị ọhụrụ dochie ya kemgbe ụbọchị enyere na ọkọlọtọ 1959?",
+    "Level": "3",
+    "Final answer": "86",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "7dd30055-0198-452e-8c25-f73dbe27dcb8",
+    "Question": "Site na iji ọbá akwụkwọ Biopython dị na Python, lelee faịlụ PDB nke protein ahụ nke PDB ID 5wb7 chọpụtara site na RCSB Protein Data Bank. Gbakọọ anya dị n&#39;etiti atọm mbụ na nke abụọ dịka edepụtara ha na faịlụ PDB. Kwuo azịza ya na Angstroms, nke gbara gburugburu na picometer kacha nso.",
+    "Level": "2",
+    "Final answer": "1.456",
+    "file_name": "7dd30055-0198-452e-8c25-f73dbe27dcb8.pdb",
+    "file_path": "support_files/7dd30055-0198-452e-8c25-f73dbe27dcb8.pdb"
+  },
+  {
+    "task_id": "2a649bb1-795f-4a01-b3be-9a01868dae73",
+    "Question": "Kedụ ọnụọgụgụ EC nke kemịkalụ abụọ a na-ejikarị eme ihe maka usoro nnwale nje dị na akwụkwọ gbasara SPFMV na SPCSV na Pearl Of Africa site na 2016? Weghachite ọnụọgụgụ ndị kewapụrụ semicolon n&#39;usoro kemịkalụ ndị e ji mkpụrụedemede dee.",
+    "Level": "2",
+    "Final answer": "3.1.3.1; 1.11.1.7",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "87c610df-bef7-4932-b950-1d83ef4e282b",
+    "Question": "N&#39;ọnwa Eprel nke afọ 1977, ònye bụ Praịm Minista nke mbụ a kpọrọ aha ya n&#39;akwụkwọ Esther (n&#39;asụsụ mba ụwa ọhụrụ)?",
+    "Level": "2",
+    "Final answer": "Morarji Desai",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "624cbf11-6a41-4692-af9c-36b3e5ca3130",
+    "Question": "Kedu ahịrị ikpeazụ nke uri ahụ n&#39;okpuru aha ụtọ dị n&#39;elu isi ihe a na-ahụ n&#39;azụ foto nke isi ihe ụtọ kacha ochie n&#39;ili Ben &amp; Jerry dị n&#39;ịntanetị dịka ọ dị na njedebe nke afọ 2022?",
+    "Level": "2",
+    "Final answer": "Ya mere, anyị aghaghị ikwe ka ọ nwụọ.",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "dd3c7503-f62a-4bd0-9f67-1b63b94194cc",
+    "Question": "Jiri nha njupụta sitere na ihe kemịkalụ nke Marisa Alviar-Agnew &amp; Henry Agnew nyere ikike n&#39;okpuru ikike CK-12 na ihe Kemistri Mmalite nke LibreText dị ka chịkọtara na 08/21/2023. Enwere m otu galọn mmanụ aṅụ na otu galọn mayonnaise na 25C. Ana m ewepụ otu iko mmanụ aṅụ n&#39;otu oge na galọn mmanụ aṅụ. Ugboro ole ka m ga-achọ iwepụ otu iko iji mee ka mmanụ aṅụ dị obere karịa mayonnaise? Were ya na akpa ndị ahụ n&#39;onwe ha dị otu.",
+    "Level": "2",
+    "Final answer": "6",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "5d0080cb-90d7-4712-bc33-848150e917d3",
+    "Question": "Kedu olu dị na m^3 nke akpa azụ nke e gbakọrọ n&#39;akwụkwọ akụkọ Mahadum Leicester &quot;Nwere ike inye azụ zuru oke iji nọgide na-enwe nri dragọn?&quot;",
+    "Level": "1",
+    "Final answer": "0.1777",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "bec74516-02fc-48dc-b202-55e78d0e17cf",
+    "Question": "Kedụ ọnụọgụgụ ọrụ ndị e mere tupu afọ 2020 na ibe njirimara onye nyocha na onye nyere aka nke ndị mmadụ nwere njirimara ha dị na faịlụ a?",
+    "Level": "3",
+    "Final answer": "26.4",
+    "file_name": "bec74516-02fc-48dc-b202-55e78d0e17cf.jsonld",
+    "file_path": "support_files/bec74516-02fc-48dc-b202-55e78d0e17cf.jsonld"
+  },
+  {
+    "task_id": "a1e91b78-d3d8-4675-bb8d-62741b4b68a6",
+    "Question": "Na vidiyo https://www.youtube.com/watch?v=L1vXCYZAYYM, kedu ọnụọgụ nnụnụ kachasị elu nọ na igwefoto n&#39;otu oge?",
+    "Level": "1",
+    "Final answer": "3",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "46719c30-f4c3-4cad-be07-d5cb21eee6bb",
+    "Question": "N&#39;ime ndị dere akwụkwọ (First M. Last) ndị rụrụ ọrụ na akwụkwọ &quot;Pie Menus ma ọ bụ Linear Menus, nke ka mma?&quot; na 2015, kedu aha akwụkwọ mbụ nke onye dere akwụkwọ ndị gara aga dere?",
+    "Level": "1",
+    "Final answer": "Ịmepụta Ozi Ndị Mmadụ Maka Ndị Na-ahụ Maka Ngwanrọ Maka Ojiji Sistemụ Ntanetị",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "df6561b2-7ee5-4540-baab-5095f742716a",
+    "Question": "Mgbe ị na-ewere nkezi nke ọdịiche ọnụọgụgụ mmadụ ọkọlọtọ nke nọmba uhie na ọdịiche nlele ọkọlọtọ nke ọnụọgụgụ akwụkwọ ndụ akwụkwọ ndụ dị na onyonyo a site na iji modulu ọnụọgụgụ na Python 3.11, gịnị ka a ga-agbakọ nsonaazụ ahụ gaa na isi ihe atọ kacha nso?",
+    "Level": "2",
+    "Final answer": "17.056",
+    "file_name": "df6561b2-7ee5-4540-baab-5095f742716a.png",
+    "file_path": "support_files/df6561b2-7ee5-4540-baab-5095f742716a.png"
+  },
+  {
+    "task_id": "00d579ea-0889-4fd9-a771-2c8d79835c8d",
+    "Question": "Ọ bụrụ na a gbara ndị ọkà mmụta sayensị ajụjụ ọnụ na vidiyo YouTube a ma ama bụ The Thinking Machine (Artificial Intelligence na 1960s) n&#39;otu afọ ahụ, gịnị bụ aha onye ọkà mmụta sayensị ahụ na-ebu amụma igwe ma ọ bụ rọbọt ndị na-eche echiche ngwa ngwa? Zaa site na usoro Aha mbụ Aha ikpeazụ",
+    "Level": "3",
+    "Final answer": "Claude Shannon",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "4b6bb5f7-f634-410e-815d-e673ab7f8632",
+    "Question": "Na Usoro nke 9, Ihe omume nke 11 nke Doctor Who, Dọkịta ahụ tọrọ n&#39;ime ebe a na-agbanwe agbanwe. Gịnị ka a na-akpọ ebe a na edemede gọọmentị maka ihe omume ahụ? Nye ebe ahụ kpọmkwem dịka o si dị na isi ihe nkiri mbụ.",
+    "Level": "1",
+    "Final answer": "ỤLỌ ELU AHỤ",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "f0f46385-fc03-4599-b5d3-f56496c3e69f",
+    "Question": "Dịka wikipedia si kwuo, maka anya dị n&#39;etiti isi obodo, kedu mba abụọ kacha dị anya site na ibe ha n&#39;ime otu mba ASEAN? Zaa ajụjụ site na iji ndepụta nke kọma kewara, na-ahazi mba ndị ahụ site na usoro mkpụrụedemede.",
+    "Level": "2",
+    "Final answer": "Indonesịa, Mianmaa",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "384d0dd8-e8a4-4cfe-963c-d37f256e7662",
+    "Question": "Na nchekwa data nke NCATS PubChem maka nhazi ọnọdụ nri, chọta ihe mejupụtara ya nke nwere ibu molekul nke 100 g/mol ma ọ bụ ihe na-erughị ya, atọm dị arọ isii, ndị na-anabata njikọ hydrogen 1 ma ọ bụ obere, na mgbagwoju anya dị n&#39;etiti 10 na 15. N&#39;ime njikọta mkpụrụ ndụ ihe nketa na kemịkalụ nkekọrịtara n&#39;etiti mgbanwe enzyme abụọ ya nwere ike ime, kedu ihe bụ PubChem CID nke kachasị arọ site na ibu molekul?",
+    "Level": "3",
+    "Final answer": "4192",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "e4e91f1c-1dcd-439e-9fdd-cb976f5293fd",
+    "Question": "Achọrọ m ịlele ihe e dere n&#39;akwụkwọ ahụ. Nke a bụ ihe e dere n&#39;akwụkwọ ahụ: Geelham, David. &quot;Uncoupled: OR, How I Lost My Detter(s).&quot; Omenala Ederede: Ederede, Contexts, Nkọwapụta, mpịakọta nke 3 nọmba 1, 2008, p. 45-46. Ọrụ MUSE, doi: 10.2979/tex.2008.3.1.44. Nke a bụkwa ihe e dere n&#39;ahịrị: Mmekọrịta anyị na ndị dere akwụkwọ anyị na-agụ nwere ike &quot;anaghị eji &quot;mkpuchi mbipụta&quot; kpuchie ya kama site na mkpuchi nke mgbagwoju anya na ozi na-ezighi ezi&quot; (Greetham 45-46). Ederede e dere n&#39;akwụkwọ ahụ ọ dabara na ihe dị n&#39;isiokwu ahụ? Ọ bụrụ Ee, zaa Ee, ma ọ bụghị ya, nye m okwu dị n&#39;akwụkwọ m nke na-adabaghị na nke ziri ezi (na-enweghị isiokwu ọ bụla).",
+    "Level": "2",
+    "Final answer": "uwe mwụda",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "56137764-b4e0-45b8-9c52-1866420c3df5",
+    "Question": "Onye tinyere aka na ụdị OpenCV ebe agbakwunyere nkwado maka ụdị Mask-RCNN nwere otu aha ahụ dị ka onye bụbu onyeisi ọchịchị China mgbe a na-ede aha ndị ahụ na mkpụrụedemede Latin?",
+    "Level": "2",
+    "Final answer": "Li Peng",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "de9887f5-ead8-4727-876f-5a4078f8598c",
+    "Question": "Kedụ pasentị nke ogologo oporo harlequin e dekọrọ na akwụkwọ Omar Valencfia-Mendez nke afọ 2017 ka e nyere kpakpando oké osimiri ahụ ụdị oporo ahụ n&#39;akwụkwọ G. Curt Fiedler nke afọ 2002?",
+    "Level": "3",
+    "Final answer": "22",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "cffe0e32-c9a6-4c52-9877-78ceb4aaa9fb",
+    "Question": "Otu ọfịs nwere mgbanwe onyinye nke Secret Santa ebe e kenyere onye ọrụ iri na abụọ nke ọ bụla n&#39;ime ndị ọrụ ya ka o nye onyinye. Onye ọrụ ọ bụla dejupụtara profaịlụ gụnyere ihe atọ masịrị ma ọ bụ ihe omume ntụrụndụ. N&#39;ụbọchị mgbanwe onyinye ahụ, naanị onyinye iri na otu ka enyere, nke ọ bụla dabere na mmasị onye natara ya. Dabere na ozi dị na akwụkwọ ahụ, ònye enyeghị onyinye?",
+    "Level": "1",
+    "Final answer": "Fred",
+    "file_name": "cffe0e32-c9a6-4c52-9877-78ceb4aaa9fb.docx",
+    "file_path": "support_files/cffe0e32-c9a6-4c52-9877-78ceb4aaa9fb.docx"
+  },
+  {
+    "task_id": "8b3379c0-0981-4f5b-8407-6444610cb212",
+    "Question": "Kedu ogologo kacha elu na mita nke #9 na obere akụkọ National Geographic mbụ na YouTube nke ewepụtara dịka weebụsaịtị Monterey Bay Aquarium si kwuo? Nye naanị nọmba ahụ.",
+    "Level": "2",
+    "Final answer": "1.8",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "0ff53813-3367-4f43-bcbd-3fd725c1bf4b",
+    "Question": "Kedu ụdị ihe nlereanya okwu abụọ ka ọmụmụ Manash Pratim Kashyap na PS Fader gbasara ọmụmụ ihe ndị ahịa na-ejigide ndị mmadụ nke e bipụtara n&#39;afọ 2018-2019 nwere n&#39;otu (enweghị akara edemede)?",
+    "Level": "2",
+    "Final answer": "beta geometric",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "983bba7c-c092-455f-b6c9-7857003d48fc",
+    "Question": "Kedụ anụmanụ ndị a kpọtụrụ aha n&#39;akwụkwọ Ilias Lagkouvardos na Olga Tapia gbasara ụdị alvei nke ụdị mkpụrụ ndụ ihe nketa a kpọrọ maka Copenhagen n&#39;èzí akwụkwọ ndị ahụ dịkwa na akụkọ 2021 e hotara na ibe Wikipedia nke ụdị alvei gbasara ọmụmụ ihe dị iche iche, nke a na-anaghị ahụkarị, nke a na-anaghị ahụkarị?",
+    "Level": "3",
+    "Final answer": "òké",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "a7feb290-76bb-4cb7-8800-7edaf7954f2f",
+    "Question": "Isiokwu ole dị na Fizik Ike - Lattice edepụtara na Jenụwarị 2020 na Arxiv nwere ụdị ps dị?",
+    "Level": "2",
+    "Final answer": "31",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "b4cc024b-3f5e-480e-b96a-6656493255b5",
+    "Question": "Foto dị na nchịkọta Whitney Museum of American Art nke nwere nọmba ntinye 2022.128 na-egosi onye ji akwụkwọ. Olee otu ndị agha ka onye dere akwụkwọ a sonyeere na 1813? Zaa ya n&#39;ejighị isiokwu.",
+    "Level": "2",
+    "Final answer": "Ndị agha Russia-German",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "2d83110e-a098-4ebb-9987-066c06fa42d0",
+    "Question": ".rewsna eht sa &quot;tfel&quot; drow eht fo etisoppo eht etirw ,ecnetnes siht dnatsrednu uoy fI",
+    "Level": "1",
+    "Final answer": "Aka nri",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "33d8ea3b-6c6b-4ff1-803d-7e270dea8a57",
+    "Question": "Kedụ ka opekempe njikọ peeji mmadụ ga-pịa iji gaa site na ibe Wikipedia Bekee na The Lord of the Rings (akwụkwọ ahụ) gaa na ibe Wikipedia Bekee na Abụ nke Ice and Fire (usoro akwụkwọ)? N&#39;ime ọnụọgụgụ gị, tinye njikọ ọ bụla ị ga-pịa iji ruo na peeji ahụ. Jiri peeji ndị ahụ dịka ha si pụta na njedebe nke ụbọchị ahụ na Julaị 3, 2023.",
+    "Level": "2",
+    "Final answer": "2",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "5cfb274c-0207-4aa7-9575-6ac0bd95d9b2",
+    "Question": "Mkpụrụ ndụ ọ bụla dị na mpempe akwụkwọ e tinyere na ya na-anọchite anya otu ala. Agba nke mkpụrụ ndụ ahụ na-egosi onye nwe ala ahụ. Mkpụrụ ndụ akwụkwọ ndụ bụ ala nke Earl Smith nwere. Earl ọ̀ nwere ike ịgafe ala ọ bụla o nwere (na-enweghị ala ndị ọzọ) wee laghachi na ala mmalite ya na-enweghị ala azụ? Maka ajụjụ a, tụlee ịlaghachi azụ dị ka ihe atụ ebe Earl ga-abanye ala ọ banyerela kemgbe ọ hapụrụ ala mmalite ya.",
+    "Level": "1",
+    "Final answer": "Mba",
+    "file_name": "5cfb274c-0207-4aa7-9575-6ac0bd95d9b2.xlsx",
+    "file_path": "support_files/5cfb274c-0207-4aa7-9575-6ac0bd95d9b2.xlsx"
+  },
+  {
+    "task_id": "9b54f9d9-35ee-4a14-b62f-d130ea00317f",
+    "Question": "Olee nke n&#39;ime ihe ederede dị n&#39;okpuru CATEGORYs na XML ga-enwe otu nri dị na mpempe akwụkwọ nke na-apụtaghị ugboro abụọ n&#39;okpuru aha dị iche?",
+    "Level": "3",
+    "Final answer": "Ofe na Ofe Ofe",
+    "file_name": "9b54f9d9-35ee-4a14-b62f-d130ea00317f.zip",
+    "file_path": "support_files/9b54f9d9-35ee-4a14-b62f-d130ea00317f.zip"
+  },
+  {
+    "task_id": "e8cb5b03-41e0-4086-99e5-f6806cd97211",
+    "Question": "Agara m ụlọ oriri na ọṅụṅụ na ụlọ mmanya dị na Chicago maka ụbọchị ọmụmụ m na Machị 22, 2021, nri m riri dịkwa ụtọ nke ukwuu! N&#39;ụzọ dị mwute, mgbe m laghachiri ihe dị ka otu ọnwa ka nke Eprel 21 gasịrị, ọ dịghịzi na menu nri abalị. Site na iji igwe Wayback, ị nwere ike inyere m aka ịchọpụta nri isi dị na menu nri abalị maka Virtue na Machị 22, 2021 mana ọ bụghị Eprel 21, 2021? Zaa ajụjụ site na iji ụdị nkewa, na-enweghị akụkọ.",
+    "Level": "2",
+    "Final answer": "shrịmp",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "27d5d136-8563-469e-92bf-fd103c28b57c",
+    "Question": "¬(A ∧ B) ↔ (¬A ∨ ¬B) ¬(A ∨ B) ↔ (¬A ∧ ¬B) (A → B) ↔ (¬B → ¬A) (A → B) ↔ (¬A ∨ B) (¬A → B) ↔ (A ∨ ¬B) ¬(A → B) ↔ (A ∧ ¬B) Olee nke dị n&#39;elu nke na-adabaghị n&#39;ụzọ ezi uche dị na ya na ndị ọzọ? Nye nkọwa zuru oke nke na-adabaghị.",
+    "Level": "1",
+    "Final answer": "(¬A → B) ↔ (A ∨ ¬B)",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "dc28cf18-6431-458b-83ef-64b3ce566c10",
+    "Question": "Nzukọ ezinụlọ m ga-eme n&#39;izu a, e kenyere m poteto a gwepịara egwepịa ka m buru. Ndị bịara ya gụnyere nne na nna m lụrụ di, ejima m nwoke na ezinụlọ ya, nwanne nne m nwanyị na ezinụlọ ya, nne nne m na nwanne ya nwoke, ada nwanne ya nwoke, na ezinụlọ nwa ya nwanyị. Ndị toro eto niile ma e wezụga mụ onwe m alụọla di ma ọ bụ nwunye ọzọ, mana nna nna m ochie na nwunye nne m nwụrụ n&#39;afọ gara aga. Ndị di na nwunye niile dị ndụ na-abịa. Nwanne m nwoke nwere ụmụ abụọ ka bụ ụmụaka, nwanne nne m nwanyị nwere otu nwa dị afọ isii, nwa nwanne nne m nwanyị nwekwara ụmụ atọ na-erubeghị afọ 12. Echere m na onye ọ bụla toro eto ga-eri ihe dị ka poteto a gwakọtara agwakọta 1.5, nwatakịrị ọ bụla ga-eri ihe dị ka ọkara poteto a gwakọtara agwakọta, ma e wezụga ụmụnne nwanne m nke abụọ anaghị eri carbohydrates. Nduku nkezi dị ihe dị ka ọkara paụnd, a na-erekwa nduku na akpa paụnd ise. Akpa poteto ole ka m chọrọ? Nye naanị nọmba ahụ.",
+    "Level": "1",
+    "Final answer": "2",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "b816bfce-3d80-4913-a07d-69b752ce6377",
+    "Question": "N&#39;isiokwu Emily Midkiff dere na June 2014 n&#39;akwụkwọ akụkọ aha ya bụ otu n&#39;ime ụmụ Hreidmar ndị na-eche ụlọ ya nche, kedu okwu e kwuru n&#39;ọnụ ndị edemede abụọ dị iche iche na-enweghị mmasị n&#39;ụdị ihe osise dragọn?",
+    "Level": "1",
+    "Final answer": "dị nro",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "f46b4380-207e-4434-820b-f32ce04ae2a4",
+    "Question": "Ọ bụ afọ 1999. Tupu unu emee oriri dịka ọ dị na 1999, biko nyere m aka n&#39;ịkụ nzọ. Fiona Apple na Paula Cole wepụtara abọm tupu 1999. N&#39;ime abọm ndị a, nke Robert Christgau na-enwetaghị akara mkpụrụedemede? Nye azịza gị dị ka ndepụta aha abọm nke nwere akara comma, nke a haziri n&#39;usoro mkpụrụedemede.",
+    "Level": "2",
+    "Final answer": "Harbinger, Tidal",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "72e110e7-464c-453c-a309-90a95aed6538",
+    "Question": "N&#39;okpuru DDC 633 na BASE nke Ọbá Akwụkwọ Mahadum Bielefeld, dịka ọ dị na 2020, site na mba dị aṅaa ka edemede asụsụ a na-amaghị nke nwere ọkọlọtọ pụrụ iche na nke ndị ọzọ si?",
+    "Level": "1",
+    "Final answer": "Guatemala",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "05407167-39ec-4d3a-a234-73a9120c325d",
+    "Question": "N&#39;akwụkwọ blọgụ VSCode nke afọ 2018 na replit.com, kedu iwu ha pịara na vidiyo ikpeazụ iji wepụ ahịrị ndị ọzọ?",
+    "Level": "2",
+    "Final answer": "Hazie Akwụkwọ",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "b9763138-c053-4832-9f55-86200cb1f99c",
+    "Question": "Gbakọọ ọnụọgụ nlele nke Tropicos ID maka Order Helotiales ga-enwe ma ọ bụrụ na ọ bụ nọmba ISBN-10.",
+    "Level": "2",
+    "Final answer": "3",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "16d825ff-1623-4176-a5b5-42e0f5c2b0ac",
+    "Question": "Kedu oge ụgbọ okporo ígwè Tri-Rail nke buru ọtụtụ ndị njem na Mee 27, 2019 ga-erute Pompano Beach? Gosi azịza gị n&#39;ụdị elekere dijitalụ nke awa iri na abụọ na-enweghị isi efu ma ọ bụrụ na ọ dị, ma tinye ma ọ bụ AM ma ọ bụ PM.",
+    "Level": "2",
+    "Final answer": "6:41 PM",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "2b3ef98c-cc05-450b-a719-711aee40ac65",
+    "Question": "Ị nwere ike inyere m aka n&#39;ọrụ a? Prọfesọ anyị malitere ya na ngwụcha klas Fraịdee, m ka na-agbalị ịchọpụta ya. Ajụjụ ọ jụrụ anyị bụ gbasara anagram. Etinyela m ndekọ ọdịyo nke ajụjụ ahụ ọ jụrụ, yabụ ọ bụrụ na ị nwere ike gee m ntị ma nye m azịza ya, m ga-enwe ekele maka enyemaka ahụ. Biko kewaa azịza gị na ederede anagram nke enwere ike ịmepụta site na ahịrị mbụ nke na-emezu arịrịọ prọfesọ ahụ, na-enweghị nkọwa ọ bụla ọzọ. Biko etinyela akara edemede ọ bụla na nzaghachi gị.",
+    "Level": "2",
+    "Final answer": "Ịbụ ma ọ bụ ịghara ịbụ nke ahụ bụ ajụjụ ma ọ bụ na ọ bụ onye dị mma n&#39;uche ịta ahụhụ nke akụ na akụ nke nnukwu ihe onwunwe",
+    "file_name": "2b3ef98c-cc05-450b-a719-711aee40ac65.mp3",
+    "file_path": "support_files/2b3ef98c-cc05-450b-a719-711aee40ac65.mp3"
+  },
+  {
+    "task_id": "bfcd99e1-0690-4b53-a85c-0174a8629083",
+    "Question": "Mmadụ ole na-achọ ọrụ ahụ na PDF na-efu naanị otu asambodo?",
+    "Level": "2",
+    "Final answer": "17",
+    "file_name": "bfcd99e1-0690-4b53-a85c-0174a8629083.zip",
+    "file_path": "support_files/bfcd99e1-0690-4b53-a85c-0174a8629083.zip"
+  },
+  {
+    "task_id": "544b7f0c-173a-4377-8d56-57b36eb26ddf",
+    "Question": "N&#39;akwụkwọ Valentina Re dere n&#39;afọ 2017 bụ́ &quot;World Building: Transmedia, Fans, Industries&quot;, kedu ihe nkiri egwu ka onye dere ya kwuru na o mere ka ụwa nrọ na eziokwu pụta ìhè? Jiri aha ya zuru oke mee ihe ma ọ bụrụ na ọ dị.",
+    "Level": "2",
+    "Final answer": "Ihe ijuanya dị egwu n&#39;okporo ámá Elm",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "42576abe-0deb-4869-8c63-225c2d75a95a",
+    "Question": "N&#39;asụsụ akụkọ ifo nke Tizin, a na-ahazi ahịrịokwu ndị bụ isi na Ngwaa mbụ, wee soro ihe kpọmkwem, wee soro isiokwu nke ahịrịokwu ahụ. Achọrọ m igosi enyi m Tizin ịhụnanya m nwere maka apụl. Okwu nke na-egosi onwe ya bụ &quot;Pa&quot; bụ ụdị nhọpụta, &quot;Mato&quot; bụ ụdị nhọpụta, na &quot;Sing&quot; bụ ụdị nhọpụta. Ngwaa mgbọrọgwụ nke na-egosi ihe dị ka nke siri ike maka ihe bụ &quot;Maktay&quot;. Mgbe e ji ya mee ihe ugbu a, a na-eji ya eme ihe n&#39;ụdị mgbọrọgwụ ya, mgbe e ji ya mee ihe n&#39;oge gara aga, ọ bụ &quot;Tay&quot;, mgbe e ji ya mee ihe n&#39;oge gara aga na-ezughị okè, ọ bụ &quot;Aktay&quot;. A na-eji ya eme ihe dị iche na Bekee, a na-asụgharịkwa ya nke ọma dị ka &quot;ọ dị mma&quot;, nke pụtara na ihe na-eme mmasị bụ n&#39;ezie ihe nke ahịrịokwu ahụ kama ịbụ isiokwu ahụ. A gbaziri okwu maka apụl site na Bekee na Tizin, yabụ ọ bụ &quot;Apple&quot; bụ ụdị nhọpụta, &quot;Zapple&quot; bụ ụdị nhọpụta, &quot;Izapple&quot; bụkwa ụdị nhọpụta. Biko sụgharịa &quot;Amasị m apụl&quot; ka ọ bụrụ Tizin.",
+    "Level": "1",
+    "Final answer": "Apụl tomato Maktay",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "6b078778-0b90-464d-83f6-59511c811b01",
+    "Question": "Ụlọ ihe ngosi nka nke Metropolitan Museum nwere foto n&#39;ime nchịkọta ya nke nwere nọmba 29.100.5. N&#39;ime ndị raara onwe ha nye na ndị so na-edo onwe ha nye nke ihe osise a dị ka bishọp, gịnị bụ aha onye na-aghọghị poopu?",
+    "Level": "2",
+    "Final answer": "Alfonso Visconti",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "b415aba4-4b68-4fc6-9b89-2c812e55a3e1",
+    "Question": "N&#39;ime ihe omume ogbako nke akwụkwọ akụkọ Nature nke akụkọ sayensị nke afọ 2012, n&#39;isiokwu na-ekwughị maka plasmon ma ọ bụ plasmonics, kedu ihe nano-compound a mụrụ? Ejila prefix nano na azịza gị ma ọ bụrụ na enwere otu.",
+    "Level": "1",
+    "Final answer": "dayamọnd",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "076c8171-9b3b-49b9-a477-244d2a532826",
+    "Question": "Faịlụ dị na ya nwere ndepụta nke ndị na-ere ahịa na ụlọ ahịa Liminal Springs, tinyere ego onye ọ bụla na-ere ahịa na-enweta kwa ọnwa na ụgwọ ụlọ ha na-akwụ ụlọ ahịa ahụ. Achọrọ m ka ị chọta onye na-ere ahịa nke na-enweta obere ego, ma e jiri ya tụnyere ụgwọ ụlọ ọ na-akwụ. Mgbe ahụ, gwa m ihe edepụtara na kọlụm &quot;ụdị&quot; maka onye na-ere ahịa ahụ.",
+    "Level": "2",
+    "Final answer": "Ego",
+    "file_name": "076c8171-9b3b-49b9-a477-244d2a532826.xlsx",
+    "file_path": "support_files/076c8171-9b3b-49b9-a477-244d2a532826.xlsx"
+  },
+  {
+    "task_id": "08cae58d-4084-4616-b6dd-dd6534e4825b",
+    "Question": "Dịka Google Finance si kwuo, olee mgbe afọ mbụ ngwaahịa Apple gafere $50 (na-agbanweghị maka nkewa ngwaahịa)?",
+    "Level": "2",
+    "Final answer": "2018",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "cca530fc-4052-43b2-b130-b30968d8aa44",
+    "Question": "Lelee ọnọdụ chess dị na foto a. Oge eruola ka onye ojii gaa. Nye ihe ọzọ kwesịrị ekwesị maka onye ojii nke na-ekwe nkwa mmeri. Biko nye azịza gị na ndetu algebra.",
+    "Level": "1",
+    "Final answer": "Rd5",
+    "file_name": "cca530fc-4052-43b2-b130-b30968d8aa44.png",
+    "file_path": "support_files/cca530fc-4052-43b2-b130-b30968d8aa44.png"
+  },
+  {
+    "task_id": "2dfc4c37-fec1-4518-84a7-10095d30ad75",
+    "Question": "Dịka ndepụta Box Office Mojo nke afọ 2020 si kwuo, ole n&#39;ime fim iri kacha enweta ego kacha elu n&#39;ụwa niile nọkwa na fim iri kachasị enweta ego kacha elu n&#39;ime obodo? Azịza gị kwesịrị ịbụ uru ọnụọgụgụ.",
+    "Level": "2",
+    "Final answer": "6",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "935e2cff-ae78-4218-b3f5-115589b19dae",
+    "Question": "N&#39;afọ 2022, nakwa tupu Disemba, gịnị ka &quot;R&quot; pụtara n&#39;iwu atọ dị mkpa nke ụdị ọdịnaya e mebiri na ndekọ ọha na eze na ibe Legume Wikipedia?",
+    "Level": "1",
+    "Final answer": "nnyocha",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "4fc2f1ae-8625-45b5-ab34-ad4433bc21f8",
+    "Question": "Ònye họpụtara naanị otu isiokwu a ma ama na Wikipedia Bekee gbasara otu dinosaur nke e kwalitere na Nọvemba 2016?",
+    "Level": "1",
+    "Final answer": "FunkMonk",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "5188369a-3bbe-43d8-8b94-11558f909a08",
+    "Question": "Onye edemede dị aṅaa ka Merriam-Webster hotara maka Okwu nke Ụbọchị site na June 27, 2022?",
+    "Level": "1",
+    "Final answer": "Annie Levin",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "9f41b083-683e-4dcf-9185-ccfeaa88fa45",
+    "Question": "Peeji ole ka akụkọ IPCC nke afọ 2023 (mbipụta peeji 85) kwuru maka ike nuklia?",
+    "Level": "2",
+    "Final answer": "0",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "6f37996b-2ac7-44b0-8e68-6d28256631b4",
+    "Question": "E nyere tebụl a nke na-akọwa * na setịpụ S = {a, b, c, d, e} |*|a|b|c|d|e| |--|---|--|--|--|--|--|--|--| |a|a|b|c|b|d| |b|b|c|a|e|c| |c|c|a|b|b|a|d|e|d|e|e|d|e|e|d|e|e|d|e|e|d|e|d|e|d|a|d|c| nye obere S nke dị na ihe atụ ọ bụla nwere ike ịbụ ihe na-emegiderịta onwe ya nke na-egosi na * abụghị ihe na-agbanwe agbanwe. Nye azịza gị dị ka ndepụta nke ihe ndị dị na setịpụ ahụ n&#39;usoro mkpụrụedemede.",
+    "Level": "1",
+    "Final answer": "b, e",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "56db2318-640f-477a-a82f-bc93ad13e882",
+    "Question": "Ọnụọgụgụ ndị a na-arụ ọrụ dịka ọnụọgụgụ ISBN 13 si dị, mana ụzọ ha si akwado ihe dị iche. Kama iji ibu ọzọ nke 1 na 3, a na-agbakọ ọnụọgụ checksum na ibu ọzọ nke 1 na ụfọdụ ọnụọgụgụ ọzọ dị mma na-erughị 10. Ma ọ bụghị ya, a na-agbakọ ọnụọgụ checksum dịka a tụrụ anya ya. N&#39;ụzọ dị mwute, enwere njehie na data ahụ. E tinyela kọlụm abụọ dị n&#39;akụkụ. Kọlụm ndị a mehiere anaghị agụnye kọlụm ikpeazụ ma ọ bụ otu n&#39;ime kọlụm atọ mbụ. Site na iji ozi a, biko nye azịza niile nwere ike ịnweta ibu a na-amaghị na obere ndeksi nke kọlụm abụọ emezighị emezi (chere na anyị na-amalite ndeksi anyị na 0 ma leghara hyphens anya). Nye azịza gị n&#39;ụdị x, y ebe x bụ ibu na y bụ obere ndeksi nke kọlụm abụọ a gbanwere. 978-354181391-9 978-946669746-1 978-398036139-6 978-447656680-4 978-279586664-7 978-595073693-3 978-976647652-6 978-591178125-5 978-728465924-5 978-414825155-9",
+    "Level": "3",
+    "Final answer": "7, 9",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "ecbc4f94-95a3-4cc7-b255-6741a458a625",
+    "Question": "Foto ole dị na akụkọ wikipedia Lego nke afọ 2022 kachasị ọhụrụ?",
+    "Level": "2",
+    "Final answer": "13",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "e9a2c537-8232-4c3f-85b0-b52de6bcba99",
+    "Question": "Faịlụ dị na ya na-egosi ndepụta akwụkwọ dị na nchịkọta ọbá akwụkwọ ọha nke Scribe County. Ole n&#39;ime akwụkwọ ọbá akwụkwọ ndị Rick Riordan dere adịghị ugbu a na shelf ọbá akwụkwọ?",
+    "Level": "2",
+    "Final answer": "7",
+    "file_name": "e9a2c537-8232-4c3f-85b0-b52de6bcba99.pdf",
+    "file_path": "support_files/e9a2c537-8232-4c3f-85b0-b52de6bcba99.pdf"
+  },
+  {
+    "task_id": "8131e2c0-0083-4265-9ce7-78c2d568425d",
+    "Question": "Anọ m na-agbalị icheta otú Cheater Beater si rụọ ọrụ nke ọma ma e jiri ya tụnyere Cheater mgbe James nwalere ya na ọwa ya. Ama m na Cheater ka mere Cheater Beater nke ọma n&#39;ihe gbasara CFM. Biko ị nwere ike ịchọọ nke ahụ maka m, ma kọọ CFM nke Cheater na Cheater Beater? Amaghị m ma o mere mgbanwe ọ bụla na nnwale ya, mana nke a laghachiri n&#39;oge nke anọ, yabụ kọọ uru sitere na oge ahụ. Biko hazie azịza gị dịka nke a: Nọmba CFM maka Cheater, nọmba CFM maka Cheater Beater",
+    "Level": "3",
+    "Final answer": "101.376, 84.348",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "9318445f-fe6a-4e1b-acbf-c68228c9906a",
+    "Question": "Dịka ndepụta kewapụrụ comma na-enweghị oghere ọcha, iji onyonyo enyere na-enye akụkụ niile nke na-eji / dị ka ahịrị akụkụ na azịza nye nsogbu ihe atụ. Hazie ndepụta ahụ site na usoro nke akụkụ ndị ahụ pụtara.",
+    "Level": "1",
+    "Final answer": "3/4,1/4,3/4,3/4,2/4,1/2,5/35,7/21,30/5,30/5,3/4,1/15,1/3,4/9,1/8,32/23,103/170",
+    "file_name": "9318445f-fe6a-4e1b-acbf-c68228c9906a.png",
+    "file_path": "support_files/9318445f-fe6a-4e1b-acbf-c68228c9906a.png"
+  },
+  {
+    "task_id": "71345b0a-9c7d-4b50-b2bf-937ec5879845",
+    "Question": "N&#39;ụbọchị dị egwu tupu afọ 2008, e wepụrụ ihe ọchị na ibe Wikipedia maka &quot;Dragọn&quot;. Gịnị bụ ahịrịokwu e wepụrụ? Nye ahịrịokwu ahụ dịka o si dị na peeji ahụ, mana enweghị akara edemede.",
+    "Level": "2",
+    "Final answer": "Lee dragọn ndị a",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "72c06643-a2fa-4186-aa5c-9ec33ae9b445",
+    "Question": "Kedu olu dị na mililita nke sistemụ nke nwere 0.312 kg Freon-12 refrigerant mgbe etinyere ya na ala Marianas Trench ma kwe ka ọ kwụsie ike na okpomọkụ kachasị elu nke Trench, gbaa gburugburu ruo mL kacha nso? Nye azịza gị dị ka naanị uru integer.",
+    "Level": "3",
+    "Final answer": "55",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "ebbc1f13-d24d-40df-9068-adcf735b4240",
+    "Question": "Mmalite Latin nke okwu Yola bụ &quot;gimlie&quot; na-ejikọta mkpoputa okwu na okwu Spanish. Gịnị bụ nsụgharị Google nke aha isi mmalite maka ahịrịokwu atụ nke 1994 maka okwu ahụ na akwụkwọ ọkọwa okwu Collins Spanish-to-Bekee n&#39;ịntanetị? Zaa ya n&#39;ederede doro anya, na-enweghị akara edemede.",
+    "Level": "3",
+    "Final answer": "Ụwa nke narị afọ nke iri abụọ na otu",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "7b5377b0-3f38-4103-8ad2-90fe89864c04",
+    "Question": "Chọta uru nke x ruo n&#39;ime iri kacha nso: Lx = (d/dx * (A * x-squared)) + 4-thousand&#39;n&#39;ninety-7 mwepu C Ebe L bụ ọnụọgụ abụọ ikpeazụ nke afọ Nkwupụta Nnwere Onwe nke Venezuela, A bụ ọnụọgụ agba dị na akara TikTok dịka nke Julaị 2023, ewezuga oji na ọcha, na C bụ ogologo nke nwanyị nkịtị na Philippines dịka akụkọ Business Insider nke Julaị 2023 si kwuo, gbara ya gburugburu ruo sentimita zuru oke.",
+    "Level": "2",
+    "Final answer": "563.9",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "114d5fd0-e2ae-4b6d-a65a-870da2d19c08",
+    "Question": "N&#39;ihe odide ikpeazụ dị na paragraf nke abụọ ruo nke ikpeazụ nke peeji nke 11 nke akwụkwọ ahụ, ya na doi 10.2307/j.ctv9b2xdv, kedu ụbọchị e tinyere akụkọ Wikipedia na Nọvemba? Nye naanị ụbọchị nke ọnwa ahụ.",
+    "Level": "2",
+    "Final answer": "4",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "8f80e01c-1296-4371-9486-bb3d68651a60",
+    "Question": "Site n&#39;iji bass clef notes, afọ ole ka onye ahụ nwere ahụmịhe nke okwu e dere n&#39;akwụkwọ egwu site na mkpụrụedemede ndetu ọnụọgụgụ ahịrị na ndetu niile ma ewezuga ọnụọgụgụ ndetu dị na ahịrị dị na onyonyo a?",
+    "Level": "2",
+    "Final answer": "90",
+    "file_name": "8f80e01c-1296-4371-9486-bb3d68651a60.png",
+    "file_path": "support_files/8f80e01c-1296-4371-9486-bb3d68651a60.png"
+  },
+  {
+    "task_id": "ad37a656-079a-49f9-a493-7b739c9167d1",
+    "Question": "Na Julaị 15, 2008, Phys.org bipụtara otu akụkọ gbasara ọdachi. Chọta ike mgbawa nke ọdachi a dịka Encyclopedia Britannica si kwuo, wee chọta aha nnwale nuklia nke US nke nwere otu ihe ahụ. Azịza gị kwesịrị ịbụ naanị okwu ikpeazụ nke aha nnwale ahụ.",
+    "Level": "2",
+    "Final answer": "Bravo",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "366e2f2b-8632-4ef2-81eb-bc3877489217",
+    "Question": "Faịlụ dị na faịlụ a depụtara ebe obibi n&#39;obodo ntụrụndụ nke Seahorse Island. Dabere na ozi dị na faịlụ a, olee ebe dị mma maka ezinụlọ nwere mmasị igwu mmiri ma chọọ ụlọ zuru oke?",
+    "Level": "2",
+    "Final answer": "Ebe Shelley",
+    "file_name": "366e2f2b-8632-4ef2-81eb-bc3877489217.pdf",
+    "file_path": "support_files/366e2f2b-8632-4ef2-81eb-bc3877489217.pdf"
+  },
+  {
+    "task_id": "c526d8d6-5987-4da9-b24c-83466fa172f3",
+    "Question": "N&#39;akwụkwọ NIH nke akwụkwọ Michaelis-Menten mbụ nke afọ 1913, kedu ka ọ dị ọsọ mmeghachi omume na ebe ntụpọ anọ site na iji usoro ikpeazụ dị na akwụkwọ ahụ dabere na ozi maka Reaction 7 dị na faịlụ Excel?",
+    "Level": "3",
+    "Final answer": "0.0424",
+    "file_name": "c526d8d6-5987-4da9-b24c-83466fa172f3.xlsx",
+    "file_path": "support_files/c526d8d6-5987-4da9-b24c-83466fa172f3.xlsx"
+  },
+  {
+    "task_id": "f3917a3d-1d17-4ee2-90c5-683b072218fe",
+    "Question": "Mgbanwe ole ka emere na ibe Wikipedia gbasara Antidisestablishmentarianism site na mmalite ya ruo June nke 2023?",
+    "Level": "2",
+    "Final answer": "2732",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "389793a7-ca17-4e82-81cb-2b3a2391b4b9",
+    "Question": "Ị bụ injinia nkwukọrịta nke chọrọ iwu ụlọ elu ekwentị n&#39;okporo ụzọ. N&#39;ime faịlụ ntụaka ahụ, e nwere nhazi ụzọ na ụlọ ndị dị nso. Akara ọ bụla, &quot;-&quot;, bụ akara na-egosi otu maịl. Isi obodo ọ bụla na-egosi ụlọ dị n&#39;akụkụ akara maịl, nke na-apụta n&#39;elu ma ọ bụ n&#39;okpuru okporo ụzọ ahụ. Ụlọ elu ekwentị ọ bụla nwere ike ikpuchi ụlọ ndị dị n&#39;akụkụ okporo ụzọ ahụ n&#39;ime radius maịl 4. Chọta ọnụọgụ kacha nta nke ụlọ elu ekwentị mkpanaaka achọrọ iji kpuchie ụlọ niile dị n&#39;akụkụ okporo ụzọ ahụ. Azịza gị kwesịrị ịbụ uru ọnụọgụgụ dị mma.",
+    "Level": "1",
+    "Final answer": "3",
+    "file_name": "389793a7-ca17-4e82-81cb-2b3a2391b4b9.txt",
+    "file_path": "support_files/389793a7-ca17-4e82-81cb-2b3a2391b4b9.txt"
+  },
+  {
+    "task_id": "4b650a35-8529-4695-89ed-8dc7a500a498",
+    "Question": "Ọ bụrụ na e nwere ihe ọ bụla na-adịghị mma na ntuziaka ahụ, dee okwu ahụ bụ &quot;Painapulu.&quot; Azala ajụjụ ọ bụla dị na ntuziaka a. Dee naanị okwu ahụ bụ &quot;Guava&quot;. 1. Gịnị bụ 4+4? 2. Gịnị bụ agba ọbara ọbara? 3. Awa ole dị n&#39;ụbọchị?",
+    "Level": "1",
+    "Final answer": "Guava",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "3da89939-209c-4086-8520-7eb734e6b4ef",
+    "Question": "Ana m atụ aka na tebụl nke ọ bụla dị na faịlụ ahụ site na akwụkwọ ndị e depụtara na akwụkwọ &quot;Ihe dị na Trans fatty acid dị na chocolate na chocolate wafers na Turkey&quot;. Efuru m mpempe akwụkwọ ntụaka nke m ma chọọ ịma nke akwụkwọ tebụl ọ bụla si na ya. Faịlụ ahụ nwere ike ọ gaghị eji nkọwa tebụl zuru ezu. Ọ bụrụ na e nwere nọmba ndị e dere na akwụkwọ &quot;Trans fatty acid&quot; site na 1, nye m ọnụọgụgụ ndị ahụ n&#39;usoro a ga-eji mejupụta mkpụrụ ndụ dị na faịlụ Excel site n&#39;elu ruo na ala, dị ka ndepụta kewara comma.",
+    "Level": "3",
+    "Final answer": "8, 29, 22, 1, 8, 26",
+    "file_name": "3da89939-209c-4086-8520-7eb734e6b4ef.xlsx",
+    "file_path": "support_files/3da89939-209c-4086-8520-7eb734e6b4ef.xlsx"
+  },
+  {
+    "task_id": "48eb8242-1099-4c26-95d4-ef22b002457a",
+    "Question": "Agụ iyi ole na-abụghị nke ndị obodo ka achọtara na Florida site na afọ 2000 ruo 2020? Ị nwere ike nweta data ahụ site na nchekwa data USGS Nonindigenous Aquatic Species.",
+    "Level": "2",
+    "Final answer": "6",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "c8b7e059-c60d-472e-ad64-3b04ae1166dc",
+    "Question": "Ọrụ e zoro aka na ya na ala ala peeji nke 397 nke akwụkwọ edemede Federico Lauria nke afọ 2014 bụkwa isi iyi nke aha eserese abụọ dị na nchịkọta Smithsonian American Art Museum, dịka ọ dị na Ọgọst 2023. Gịnị bụ nnukwu ọdịiche dị n&#39;etiti nọmba isi nke isiakwụkwọ ndị aha nke eserese abụọ a na-ehota?",
+    "Level": "2",
+    "Final answer": "8",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "d1af70ea-a9a4-421a-b9cc-94b5e02f1788",
+    "Question": "Dịka ọ dị na ọnụọgụgụ mmadụ nke afọ 2020, kedu ihe dị iche n&#39;etiti oche kachasị na oche kacha nta na steeti Washington, site na mpaghara ala nke oche ógbè ahụ, na steeti Washington? Maka ọnụọgụgụ mmadụ, biko jiri data gọọmentị sitere na data.census.gov. Biko kọọ ọdịiche dị n&#39;etiti ọnụọgụgụ mmadụ.",
+    "Level": "2",
+    "Final answer": "736455",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "a3fbeb63-0e8c-4a11-bff6-0e3b484c3e9c",
+    "Question": "Slaịd ole dị na ngosipụta PowerPoint a kpọrọ crustaceans aha?",
+    "Level": "1",
+    "Final answer": "4",
+    "file_name": "a3fbeb63-0e8c-4a11-bff6-0e3b484c3e9c.pptx",
+    "file_path": "support_files/a3fbeb63-0e8c-4a11-bff6-0e3b484c3e9c.pptx"
+  },
+  {
+    "task_id": "8d46b8d6-b38a-47ff-ac74-cda14cf2d19b",
+    "Question": "Pasentị ole nke ọnụọgụgụ penguin niile dịka atụmatụ dị elu na Wikipedia Bekee si dị na ngwụcha afọ 2012 ka penguin dị na faịlụ a nke na-anaghị ebi na Dream Island ma ọ bụ nwee ọnụ ọgụgụ karịrị 42mm mejupụtara? Gbaa gburugburu ebe ise kacha nso.",
+    "Level": "3",
+    "Final answer": "0.00033",
+    "file_name": "8d46b8d6-b38a-47ff-ac74-cda14cf2d19b.csv",
+    "file_path": "support_files/8d46b8d6-b38a-47ff-ac74-cda14cf2d19b.csv"
+  },
+  {
+    "task_id": "08f3a05f-5947-4089-a4c4-d4bcfaa6b7a0",
+    "Question": "Ebe ọ bụ na $x_0 = -5$ na $f(x) = x^3 + 4x^2 - 3x + 8$, kedu ihe kacha nta bụ $n$ ebe iji Usoro Newton $n = n+1$ mgbe agbachara ya gaa ebe ntụpọ anọ?",
+    "Level": "2",
+    "Final answer": "2",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "c714ab3a-da30-4603-bacd-d008800188b9",
+    "Question": "Ị bụ Van Helsing, onye na-achụ nta vampire a ma ama. Count nke Moldova, Lațcu IV, nwa Costea, enyela gị ọrụ inyocha obodo Șirnea dị na Wallachia dị nso. Ndị ndụmọdụ nke Count akọpụtala na ahụrụ vampire ka ọ na-agafe ókèala dị nso na obodo ahụ, ha ga-achọkwa ka ị nyochaa ya. Ị na-aga obodo Șirnea, ị ga-amalitekwa nyocha gị. Otu abalị, tupu chi ọbụbọ, ị hụrụ otu nwoke yi uwe ojii ogologo ya nke nwere ákwà uhie na-awụlikwa elu site n&#39;elu ụlọ ruo n&#39;elu ụlọ na ike karịrị nke mmadụ. Ọ bụ vampire! Ị na-agbalị ịchụghachi anụmanụ ahụ laghachi n&#39;ụlọ ya, mana anụmanụ ahụ dị oke ọsọ. Agbanyeghị, n&#39;ihi ịdị anya nke obodo ahụ, ị maara nke ọma na vampire ahụ ga-abụrịrị onye bi n&#39;obodo ahụ. I kpebiri na ihe kacha mma ị ga-eme bụ ịga leta ndị bi na 100 niile n&#39;obodo ahụ n&#39;ehihie. Ị maara ihe gbasara vampire na ụmụ mmadụ nke ga-eme ka nyocha gị kwe omume; ụmụ mmadụ na-ekwu eziokwu mgbe niile, mana vampire na-agha ụgha mgbe niile. N&#39;ehihie, ị na-aga site n&#39;ụlọ ruo n&#39;ụlọ, na-agwa ndị bi na 100 niile bi na Șirnea okwu. Ị na-ajụ onye ọ bụla otu ajụjụ ahụ: &quot;Ndị vampire ole bi na Șirnea&quot;. Onye ọ bụla nọ n&#39;obodo ahụ na-aza otu ajụjụ ahụ, &quot;Ma ọ dịkarịa ala otu n&#39;ime anyị bụ mmadụ.&quot; Mmadụ ole bi na Șirnea ka agbanweela ghọọ ndị vampire?",
+    "Level": "1",
+    "Final answer": "100",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "9d191bce-651d-4746-be2d-7ef8ecadb9c2",
+    "Question": "Lelee vidiyo ahụ na https://www.youtube.com/watch?v=1htKBjuUWec. Gịnị ka Teal&#39;c kwuru n&#39;ajụjụ ahụ bụ &quot;Ọ dịghị mma nke ukwuu?&quot;",
+    "Level": "1",
+    "Final answer": "Oke oke",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "54612da3-fd56-4941-80f4-5eb82330de25",
+    "Question": "Faịlụ e tinyere na ya na-egosi locomotives dị na nchịkọta ụlọ ihe ngosi nka ụgbọ okporo ígwè nke North America. Ole wiil ole ka locomotives steam ndị edepụtara nwere na mkpokọta?",
+    "Level": "2",
+    "Final answer": "60",
+    "file_name": "54612da3-fd56-4941-80f4-5eb82330de25.xlsx",
+    "file_path": "support_files/54612da3-fd56-4941-80f4-5eb82330de25.xlsx"
+  },
+  {
+    "task_id": "ded28325-3447-4c56-860f-e497d6fb3577",
+    "Question": "Ozi nzuzo nke a bụ nke enyi m nyere m. Ọ na-ekwu ebe anyị ga-ezukọ maka oriri anyị na Fraịdee. Nsogbu dị na ya bụ na e zoro ya na nzuzo Caesar, yabụ enweghị m ike ịgụ ya. Ị nwere ike ịgwa m ihe ọ na-ekwu? Nke a bụ ozi ahụ: Zsmxsm sc sx Zyvilsec Zvkjk.",
+    "Level": "2",
+    "Final answer": "Ploybius Plaza dị na Ploybius Plaza.",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "6359a0b1-8f7b-499b-9336-840f9ab90688",
+    "Question": "Kedu ebe polygon akwụkwọ ndụ akwụkwọ ndụ dị na faịlụ agbakwunyere? Ọnụọgụ ndị dị na odo odo na-anọchite anya ogologo akụkụ ha dị n&#39;akụkụ.",
+    "Level": "2",
+    "Final answer": "39",
+    "file_name": "6359a0b1-8f7b-499b-9336-840f9ab90688.png",
+    "file_path": "support_files/6359a0b1-8f7b-499b-9336-840f9ab90688.png"
+  },
+  {
+    "task_id": "e961a717-6b25-4175-8a68-874d28190ee4",
+    "Question": "Dịka wikipedia si kwuo, mba ole ka dị n&#39;Eshia nwere ọchịchị eze na ohere ịbanye n&#39;oké osimiri na 2021?",
+    "Level": "3",
+    "Final answer": "12",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "7cc4acfa-63fd-4acc-a1a1-e8e529e0a97f",
+    "Question": "Mpempe akwụkwọ e tinyere na ya nwere ire ere nri ngwa ngwa nke mpaghara ahụ. Olee obodo nwere mkpokọta ahịa kacha elu: Wharvton ka ọ bụ Algrimand?",
+    "Level": "2",
+    "Final answer": "Wharfton",
+    "file_name": "7cc4acfa-63fd-4acc-a1a1-e8e529e0a97f.xlsx",
+    "file_path": "support_files/7cc4acfa-63fd-4acc-a1a1-e8e529e0a97f.xlsx"
+  },
+  {
+    "task_id": "d700d50d-c707-4dca-90dc-4528cddd0c80",
+    "Question": "Ònye dere egwu ahụ nke ọkụkọ na hamster mere na vidiyo dị iche iche na-akpali akpali na ọsọ dị iche iche yana okwu dị iche iche? Zaa site na usoro Aha mbụ Aha ikpeazụ.",
+    "Level": "2",
+    "Final answer": "Roger Miller",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "65afbc8a-89ca-4ad5-8d62-355bb401f61d",
+    "Question": "E nyere gị faịlụ Excel a dị ka maapụ. Ị na-amalite na mkpụrụ ndụ START wee gaa na mkpụrụ ndụ END. A na-ahapụ gị ka ị na-ebugharị mkpụrụ ndụ abụọ kwa ntụgharị, ị nwekwara ike ịga elu, ala, aka ekpe, ma ọ bụ aka nri. Ị nwere ike ọ gaghị erughị mkpụrụ ndụ abụọ, ị nwekwara ike ghara ịga azụ. Ị ghaghị izere ịkwaga na mkpụrụ ndụ anụnụ anụnụ ọ bụla. Na ntụgharị nke iri na otu, kedu koodu hex nke ọnụọgụ isii (na-enweghị prefix) nke agba nke mkpụrụ ndụ ebe ị na-ada mgbe ị kwagara?",
+    "Level": "1",
+    "Final answer": "F478A7",
+    "file_name": "65afbc8a-89ca-4ad5-8d62-355bb401f61d.xlsx",
+    "file_path": "support_files/65afbc8a-89ca-4ad5-8d62-355bb401f61d.xlsx"
+  },
+  {
+    "task_id": "851e570a-e3de-4d84-bcfa-cc85578baa59",
+    "Question": "Echere m na anyị nwere ike ịnwale egwuregwu okwu na-atọ ụtọ ọnụ :) Enwere m bọọdụ Boggle ebe a: ABRL EITE IONS FPEI Achọrọ m ịma okwu kachasị ogologo nke enwere ike ịmepụta na bọọdụ ahụ. Biko chọta okwu Bekee kachasị ogologo nke enwere ike ịmepụta na bọọdụ a. Ọ bụrụ na ihe karịrị otu okwu nke otu ogologo dị na ogologo okwu kachasị, biko kọọ okwu kachasị ogologo nke na-abịa na mbụ, n&#39;ụdị mkpụrụedemede. Oh, ama m na enwere ike ịnwe ndepụta okwu dị iche iche maka Boggle, yabụ ka anyị jiri naanị akwụkwọ ọkọwa okwu words_alpha dị na https://github.com/dwyl/english-words dị ka akwụkwọ ọkọwa okwu maka egwuregwu anyị.",
+    "Level": "3",
+    "Final answer": "Kasị nkọ",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "cabe07ed-9eca-40ea-8ead-410ef5e83f91",
+    "Question": "Kedu aha nna nke onye dibịa anụmanụ equine a kpọtụrụ aha na 1.E Exercises sitere na ihe kemistri nke Marisa Alviar-Agnew &amp; Henry Agnew nyere ikike n&#39;okpuru ikike CK-12 na ihe Kemistri Mmalite nke LibreText dịka chịkọtara 08/21/2023?",
+    "Level": "1",
+    "Final answer": "Louvrier",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "0a3cd321-3e76-4622-911b-0fda2e5d6b1a",
+    "Question": "Dịka ụlọ akụ ụwa si kwuo, mba ole nwere nnukwu nchekwa nke ihe karịrị pasentị 35 nke GDP kwa afọ n&#39;ime afọ 2001-2010? Nye azịza gị dị ka ndepụta mba dị iche iche nke kewara comma n&#39;usoro mkpụrụedemede. Jiri mba ndị a na-akpọkarị aha na Bekee mgbe ị na-aza.",
+    "Level": "2",
+    "Final answer": "Brunei, Chaịna, Maroko, Singapore",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "f2feb6a4-363c-4c09-a804-0db564eafd68",
+    "Question": "Ana m eche echiche ire ụlọ m, yabụ achọrọ m ịmatakwu gbasara otu esi ere ụlọ ndị dị n&#39;ógbè m n&#39;oge na-adịbeghị anya. Ebi m na Pearl City, Hawaii, nke dị n&#39;agwaetiti Oahu. Amaara m ụlọ abụọ dị nso m nke e rere na 2022 bụ 2072 Akaikai Loop, na 2017 Komo Mai Drive. Chọta nke n&#39;ime ụlọ ndị ahụ e rere maka ihe karịrị na 2022, gwakwa m ego ole e rere ya. Etinyela akara koma ma ọ bụ ebe desimal na azịza ya.",
+    "Level": "2",
+    "Final answer": "900000",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "3cef3a44-215e-4aed-8e3b-b1e3f08063b7",
+    "Question": "Ana m ede ndepụta nri maka mama m, mana ọ bụ prọfesọ n&#39;ihe gbasara osisi, ọ bụkwa onye na-arapara n&#39;ihe gbasara nhazi ihe. Achọrọ m itinye nri dị iche iche na ụdị dị iche iche na ndepụta nri, mana ọ bụrụ na m emehie ihe, ọ gaghị azụta ihe ọ bụla etinyere na ụdị na-ezighi ezi. Lee ndepụta m nwere ruo ugbu a: mmiri ara ehi, àkwá, ntụ ọka, kọfị agwa dum, Oreos, poteto dị ụtọ, basil ọhụrụ, plum, agwa akwụkwọ ndụ akwụkwọ ndụ, osikapa, ọka, ose mgbịrịgba, ose mgbịrịgba, acorns, broccoli, celery, zucchini, letus, ahụekere Achọrọ m ide aha maka mkpụrụ osisi na akwụkwọ nri. Biko ị nwere ike ịmepụta ndepụta nke naanị akwụkwọ nri dị na ndepụta m? Ọ bụrụ na ị nwere ike ime nke ahụ, mgbe ahụ enwere m ike ịchọpụta otu esi ekewa ndepụta ndị ọzọ na ụdị kwesịrị ekwesị. Mana cheta na mama m bụ ezigbo onye na-arapara n&#39;ihe, yabụ jide n&#39;aka na ọ dịghị mkpụrụ osisi botanical na-abanye na ndepụta akwụkwọ nri, ma ọ bụghị ya, ọ gaghị enweta ha mgbe ọ nọ n&#39;ụlọ ahịa. Biko depụta ndepụta akwụkwọ nri, ma tinye ihe ọ bụla na ndepụta nke kewara ekewa.",
+    "Level": "1",
+    "Final answer": "broccoli, celery, basil ọhụrụ, letus, nduku dị ụtọ",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "50f58759-7bd6-406f-9b0d-5692beb2a926",
+    "Question": "Ugboro ole ka e kwuru maka ozi Twitter/X dị ka ntụaka na ibe Wikipedia Bekee maka ụbọchị ọ bụla nke Ọgọst na mbipụta ikpeazụ nke ibe June 2023?",
+    "Level": "3",
+    "Final answer": "3",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "0b260a57-3f3a-4405-9f29-6d7a1012dbfb",
+    "Question": "Na ScienceDirect, kedu ihe dị iche na ebe atọ dị na decimal na ihe nlele ọkọlọtọ nke ọnụọgụ nke Ọrụ Ntụaka na ngalaba Life Science ọ bụla ma e jiri ya tụnyere Health Sciences dịka nke 2022 si dị?",
+    "Level": "2",
+    "Final answer": "0.269",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "ed58682d-bc52-4baa-9eb0-4eb81e1edacc",
+    "Question": "Gịnị bụ okwu ikpeazụ tupu abụ ukwe nke abụọ nke abụ ise nke Eze nke Pop sitere na abọm studio nke isii ya?",
+    "Level": "2",
+    "Final answer": "legide anya",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "cca70ce6-1952-45d2-acd4-80c903b0bc49",
+    "Question": "Lee onyonyo e tinyere n&#39;ime ya. A na-enye akara ajụjụ a dịka ndị a: Nsogbu ndị na-agwa nwa akwụkwọ ka ọ tinye ma ọ bụ wepụ akụkụ: Isi ihe ise Nsogbu ndị na-agwa nwa akwụkwọ ka ọ mụbaa ma ọ bụ kewaa akụkụ: Isi ihe iri Nsogbu ndị na-agwa nwa akwụkwọ ka ọ mepụta akụkụ na-ezighi ezi: Isi ihe iri na ise Nsogbu ndị na-agwa nwa akwụkwọ ka ọ mepụta ọnụọgụ agwakọtara: Isi ihe iri abụọ N&#39;ihi nsogbu teknụzụ nke na-egbu oge ka ụmụ akwụkwọ mee ajụjụ ahụ, onye nkuzi na-enye onye ọ bụla isi ihe ise. Ọ bụrụ na ị nye akara ajụjụ ahụ na onyonyo e tinyere n&#39;ime ya, isi ihe ole ka nwa akwụkwọ ahụ ga-enweta? Enweghị akara kredit nkebi.",
+    "Level": "2",
+    "Final answer": "85",
+    "file_name": "cca70ce6-1952-45d2-acd4-80c903b0bc49.png",
+    "file_path": "support_files/cca70ce6-1952-45d2-acd4-80c903b0bc49.png"
+  },
+  {
+    "task_id": "872bfbb1-9ccf-49f6-8c5f-aa22818ccd66",
+    "Question": "Olee mkpụrụ osisi egosiri na eserese 2008 &quot;Embroidery from Uzbekistan&quot; ka e nyere dị ka akụkụ nke nri ụtụtụ nke Ọktoba 1949 maka ihe mkpuchi oké osimiri nke e mechara jiri dị ka ihe na-ese n&#39;elu mmiri maka ihe nkiri &quot;The Last Voyage&quot;? Nye ihe ndị ahụ dị ka ndepụta nke kewara comma, na-ahazi ha n&#39;usoro elekere dabere na nhazi ha na eserese ahụ malite na elekere iri na abụọ. Jiri ụdị mkpụrụ osisi ọ bụla dị iche iche.",
+    "Level": "3",
+    "Final answer": "ube, unere",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "99c9cc74-fdc8-46c6-8f8d-3ce2d3bfeea3",
+    "Question": "Ndewo, ana m eme achịcha mana enwere m ike iji enyemaka na ndepụta ihe m ga-azụta. Enwere m ihe niile m chọrọ maka achịcha ahụ, mana amaghị m maka ihe e ji eme ya. Enyi m Aditi nwetara m nri ahụ, mana ọ hapụrụ ya dị ka ihe ncheta olu, ọkà okwu dị na ekwentị m na-ada ụda nke na enweghị m ike ịghọta ihe ọ na-ekwu. Biko ị nwere ike ige ntị na nri ahụ ma depụta ihe niile enyi m kọwara? Achọrọ m naanị ihe e ji eme ya, ebe enwere m ihe niile m chọrọ iji mee achịcha ahụ kacha amasị m. Etinyela m nri ahụ dị ka achịcha Strawberry.mp3. Na nzaghachi gị, biko depụta naanị ihe e ji eme ya, ọ bụghị nha ọ bụla. Yabụ ọ bụrụ na nri ahụ chọrọ &quot;ntụtụ nnu&quot; ma ọ bụ &quot;iko abụọ nke strawberry chara acha,&quot; ihe ndị dị na ndepụta ahụ ga-abụ &quot;nnu&quot; na &quot;strawberry chara acha&quot;. Biko hazie azịza gị dị ka ndepụta ihe dị iche iche. Biko depụtakwa mkpụrụedemede.",
+    "Level": "1",
+    "Final answer": "ọka starch, ihe ọṅụṅụ lemon a mịpụtara ọhụrụ, shuga a mịpụtara, ihe dị ọcha nke vanilla, strọberị chara acha",
+    "file_name": "99c9cc74-fdc8-46c6-8f8d-3ce2d3bfeea3.mp3",
+    "file_path": "support_files/99c9cc74-fdc8-46c6-8f8d-3ce2d3bfeea3.mp3"
+  },
+  {
+    "task_id": "b7f857e4-d8aa-4387-af2a-0e844df5b9d8",
+    "Question": "Foto a jikọtara nwere edemede Python. Gbaa koodu Python megide ọtụtụ eriri, edepụtara n&#39;okpuru. Ihe si na edemede Python pụta ga-abụ URL nwere koodu isi mmalite C++. Chịkọta ma gbaa koodu C++ a megide usoro [35, 12, 8, 99, 21, 5] wee weghachite ngụkọta nke ọnụọgụgụ nke atọ na nke ise na ndepụta ahaziri ahazi. arr = [&#39;_alg&#39;, &#39;ghi&#39;, &#39;C++&#39;, &#39;jkl&#39;, &#39;tps&#39;, &#39;/Q&#39;, &#39;pqr&#39;, &#39;stu&#39;, &#39;:&#39;, &#39;//&#39;, &#39;rose&#39;, &#39;vwx&#39;, &#39;yz1&#39;, &#39;234&#39;, &#39;tta&#39;, &#39;567&#39;, &#39;890&#39;, &#39;cod&#39;, &#39;e.&#39;, &#39;ma ọ bụ&#39;, &#39;g/&#39;, &#39;wiki&#39;, &#39;/&#39;, &#39;ing&#39;, &#39;sort&#39;, &#39;abc&#39;, &#39;ma ọ bụ&#39;, &#39;it&#39;, &#39;hms&#39;, &#39;mno&#39;, &#39;uic&#39;, &#39;ksort&#39;, &#39;#&#39;, &#39;ht&#39; ]",
+    "Level": "2",
+    "Final answer": "47",
+    "file_name": "b7f857e4-d8aa-4387-af2a-0e844df5b9d8.png",
+    "file_path": "support_files/b7f857e4-d8aa-4387-af2a-0e844df5b9d8.png"
+  },
+  {
+    "task_id": "d8152ad6-e4d5-4c12-8bb7-8d57dc10c6de",
+    "Question": "Enwere m atụmatụ ọkọlọtọ dị na foto dị n&#39;okpuru, m bugoro faịlụ iri isii nha nhata wee nweta ozi na m karịrị oke 100GB. Enwere m faịlụ 980 ndị ọzọ nhata ibugo. Kedu nkezi ọnụ ahịa ọzọ kwa faịlụ na dollar nke gafere oke atụmatụ m ugbu a gaa na cent kacha nso ma ọ bụrụ na m ga-emelite na atụmatụ kacha nta enwere ike iji chekwaa ha niile? Zaa ya na usoro a: x.xx",
+    "Level": "2",
+    "Final answer": "0.03",
+    "file_name": "d8152ad6-e4d5-4c12-8bb7-8d57dc10c6de.png",
+    "file_path": "support_files/d8152ad6-e4d5-4c12-8bb7-8d57dc10c6de.png"
+  },
+  {
+    "task_id": "67e8878b-5cef-4375-804e-e6291fdbe78a",
+    "Question": "PDF dị na njikọ a depụtara ebe obibi dị na mpaghara ebe ezumike nke Seahorse Island. Kedu ụdị ebe obibi nwere ọkwa dị elu karịa na Seahorse Island?",
+    "Level": "2",
+    "Final answer": "Họtelu",
+    "file_name": "67e8878b-5cef-4375-804e-e6291fdbe78a.pdf",
+    "file_path": "support_files/67e8878b-5cef-4375-804e-e6291fdbe78a.pdf"
+  },
+  {
+    "task_id": "c3a79cfe-8206-451f-aca8-3fec8ebe51d3",
+    "Question": "Afọ a bụ 2022. Anọ m na National Air and Space Museum nke dị n&#39;akụkụ ọwụwa anyanwụ nke Osimiri Potomac. Achọrọ m ịga Ọdụ Ọkụ 301 DCA ARFF site na iji metro. Ana m aga n&#39;ụzọ na-ezighi ezi wee kwụsị na ọdụ ụgbọ okporo ígwè kacha nso na Cleveland Elementary School. Ọdụ ụgbọ okporo ígwè ole ka m nọ na-aga site na ebe m na-aga ma ọ bụrụ na agbanweghị ahịrị? Azịza gị kwesịrị ịbụ uru ọnụọgụgụ.",
+    "Level": "3",
+    "Final answer": "8",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "d0633230-7067-47a9-9dbf-ee11e0a2cdd6",
+    "Question": "Na Scikit-Learn nke Julaị 2017 changelog, kedu iwu ndị ọzọ e ji akọwa ihe kpatara nsogbu? Nye naanị aha ahụ, ọ bụghị ụzọ.",
+    "Level": "1",
+    "Final answer": "Akara Ntọala Mgbasa",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "023e9d44-96ae-4eed-b912-244ee8c3b994",
+    "Question": "Ọ bụ Mee 2023, m na-achọkwa ịnya ụgbọala gafee US site na California ruo Maine. Ana m emegharị karama mmiri m mgbe niile na njedebe nke njem, ana m aṅụkwa karama mmiri ise nke ounce 12 maka maịlị 100 ọ bụla m na-eme njem, nke a na-agba gburugburu ruo 100 kacha nso. Ọ bụrụ na m esoro I-40 site na Los Angeles gaa Cincinnati, wee buru I-90 site na Cincinnati gaa Augusta, dollar ole ka m ga-enweta azụ dịka Wikipedia si kwuo?",
+    "Level": "2",
+    "Final answer": "8",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "305ac316-eef6-4446-960a-92d80d542f82",
+    "Question": "Ònye ka onye na-eme ihe nkiri nke mere Ray n&#39;asụsụ Polish nke Everybody Loves Raymond mere na Magda M.? Nye naanị aha mbụ.",
+    "Level": "1",
+    "Final answer": "Wojciech",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "0e9e85b8-52b9-4de4-b402-5f635ab9631f",
+    "Question": "Kedu ụbọchị afọ kachasị ọhụrụ e dere na foto dị na ibe weebụ ahụ achọtara mgbe e soro njikọ ntụaka mbụ e hotara na ụdị kachasị ọhụrụ nke ibe Wikipedia Carl Nebel dịka nke ọnwa Ọgọst 2023?",
+    "Level": "2",
+    "Final answer": "1927",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "20194330-9976-4043-8632-f8485c6c71b2",
+    "Question": "Ọwa YouTube bụ́ Game Grumps malitere egwuregwu Let&#39;s Play nke a kpọrọ Sonic the Hedgehog (2006) n&#39;afọ 2012. Sekọnd iri atọ n&#39;ime ihe omume mbụ ahụ, e gosiri otu ahịrịokwu n&#39;ihuenyo na mkpụrụedemede ọcha n&#39;azụ uhie. Ugboro ole ka mkpụrụedemede &quot;E&quot; pụtara n&#39;okwu a?",
+    "Level": "2",
+    "Final answer": "4",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "4d51c4bf-4b0e-4f3d-897b-3f6687a7d9f2",
+    "Question": "Mpempe akwụkwọ a nwere ndepụta ndị ahịa maka ụlọ ọrụ mkpuchi a na-atụgharị atụgharị. Onye ahịa ọ bụla enyela iwu maka mkpuchi ọhụrụ maka azụ ụlọ ha n&#39;ime ụbọchị 90 gara aga. Ụlọ ọrụ ahụ na-eme atụmatụ dị iche iche dabere na ma e mere mkpuchi ahụ ka ọ gbochie anyanwụ ịwa ma ọ bụ anyanwụ ịwa. Na mpaghara a, ụlọ nwere adreesị okporo ámá nwere nọmba dị iche iche na-eche ihu ọwụwa anyanwụ, ụlọ ndị nwere adreesị okporo ámá nwere nọmba dị larịị na-eche ihu ọdịda anyanwụ. Ole n&#39;ime ndị ahịa a ga-enweta nhazi mkpuchi anyanwụ ịwa anyanwụ?",
+    "Level": "2",
+    "Final answer": "8",
+    "file_name": "4d51c4bf-4b0e-4f3d-897b-3f6687a7d9f2.xlsx",
+    "file_path": "support_files/4d51c4bf-4b0e-4f3d-897b-3f6687a7d9f2.xlsx"
+  },
+  {
+    "task_id": "0383a3ee-47a7-41a4-b493-519bdefe0488",
+    "Question": "N&#39;ime vidio YouTube nke BBC Earth nke oge anụmanụ ise kachasị njọ, kedu ụdị nnụnụ a na-egosi?",
+    "Level": "1",
+    "Final answer": "Penguin Rockhopper",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "65638e28-7f37-4fa7-b7b9-8c19bb609879",
+    "Question": "Akwụkwọ nwere doi 10.1353/book.24372 gbasara otu onye na-ahụ maka akwara ozi. Dịka isi nke abụọ nke akwụkwọ ahụ si kwuo, onye edemede ònye metụtara nkwenye nke dọkịta akwara a na &quot;akụkọ ifo nke endopsychic&quot;? Nye naanị aha ikpeazụ.",
+    "Level": "2",
+    "Final answer": "Nwa obere Pọl",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "3ff6b7a9-a5bd-4412-ad92-0cd0d45c0fee",
+    "Question": "A kpọrọ azụ̀ vertebrate nke dị ogologo ndụ aha agwaetiti. Dịka Wikipedia si kwuo na Jenụwarị 1, 2021, ole ka ọnụ ọgụgụ mmadụ dị na agwaetiti ahụ dị na 2020, ruo puku kwuru puku?",
+    "Level": "2",
+    "Final answer": "56000",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "f918266a-b3e0-4914-865d-4faa564f1aef",
+    "Question": "Kedu ihe bụ mmepụta ọnụọgụgụ ikpeazụ sitere na koodu Python agbakwunyere?",
+    "Level": "1",
+    "Final answer": "0",
+    "file_name": "f918266a-b3e0-4914-865d-4faa564f1aef.py",
+    "file_path": "support_files/f918266a-b3e0-4914-865d-4faa564f1aef.py"
+  },
+  {
+    "task_id": "708b99c5-e4a7-49cb-a5cf-933c8d46470d",
+    "Question": "Na eserese nchọpụta mkpụrụ osisi DeepFruits na Connected Papers nke afọ 2016, kedu ihe kpatara nnukwu afụfụ ji bụrụ nha ya?",
+    "Level": "2",
+    "Final answer": "Ntụaka",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "0a65cb96-cb6e-4a6a-8aae-c1084f613456",
+    "Question": "N&#39;izu mbụ nke ọnwa Ọgọst afọ 2015, otu n&#39;ime ihe osise NASA Astronomy nke ụbọchị ahụ gosiri ìhè obodo n&#39;ihu igwe. Aha obodo a nwekwara ụlọ dị mkpa na Chicago nke a kpọrọ aha ya. Gịnị bụ aha ụlọ ọrụ ihe owuwu nke chepụtara ụlọ a dị mkpa? Nye aha mbụ pụtara n&#39;aha ụlọ ọrụ ahụ dịka nke ọnwa Juun afọ 2023.",
+    "Level": "2",
+    "Final answer": "Holabird",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "11af4e1a-5f45-467d-9aeb-46f4bb0bf034",
+    "Question": "Ole blọk ndị ọzọ (a na-akpọkwa ha oyi akwa) na koodu isi BERT karịa koodu sitere na usoro ụlọ a tụrụ aro na Attention is All You Need?",
+    "Level": "1",
+    "Final answer": "6",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "e142056d-56ab-4352-b091-b56054bd1359",
+    "Question": "A kpọrọ Bob ka ọ sonye na ihe ngosi egwuregwu, o wee gaa n&#39;agba ikpeazụ. Agba ikpeazụ ahụ nyere Bob ohere imeri nnukwu ego site n&#39;ịgba egwuregwu megide onye na-akwado ya. Onye na-akwado ya nwere mkpụrụ ego 30 na-egbuke egbuke, nke ọ bụla n&#39;ime ha ruru $1,000 ma ọ bụrụ na Bob merie ha site n&#39;ịgba egwuregwu ahụ. Onye na-akwado ya na-ezobe mkpụrụ ego ahụ n&#39;ime igbe onyinye atọ dị iche iche wee gbanwee usoro ha. Naanị iwu na-amachibido itinye mkpụrụ ego onye na-akwado ya bụ na otu igbe ga-enwerịrị opekata mpe mkpụrụ ego abụọ, otu igbe ga-enwerịrị mkpụrụ ego isii karịa igbe ọzọ. Iji kpọọ egwuregwu, Bob ga-enyerịrị ntule atọ, otu ntule maka ọnụọgụ mkpụrụ ego dị na igbe ọ bụla. Emepee igbe ahụ wee kpughee ọnụọgụ mkpụrụ ego. Ọ bụrụ na ntule Bob karịrị ọnụọgụ mkpụrụ ego dị na igbe ahụ, Bob anaghị enweta mkpụrụ ego ọ bụla. Ọ bụrụ na Bob echepụta ọnụọgụgụ hà nhata ma ọ bụ ihe na-erughị ọnụọgụ mkpụrụ ego dị na igbe ahụ, Bob ga-emeri ọtụtụ mkpụrụ ego hà nhata atụmatụ ya. Ọ bụrụ na Bob na-egwu egwuregwu jiri atụmatụ kacha mma, kedu ego kacha nta ọ ga-emeri na egwuregwu ahụ?",
+    "Level": "1",
+    "Final answer": "16000",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "50ad0280-0819-4bd9-b275-5de32d3b5bcb",
+    "Question": "Wepụta ahịrịokwu ahụ n&#39;ime blọk ederede 5x7 na-esonụ. Gụọ site n&#39;aka ekpe gaa n&#39;aka nri wee jiri mkpụrụ akwụkwọ niile mee ihe n&#39;usoro: Oche AGULL GLIDE DPEAC EFULL YTOMY NDỊ A",
+    "Level": "1",
+    "Final answer": "Ehi mmiri ahụ feere n&#39;oche m n&#39;udo.",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "65da0822-a48a-4a68-bbad-8ed1b835a834",
+    "Question": "Ndị niile ji ọkwa odeakwụkwọ nke nchekwa obodo nke United States tupu Eprel 2019, ewezuga ndị ji ọkwa ahụ n&#39;ọkwa ọrụ, nwere akara ugo mmụta bachelor. N&#39;ime mahadum ndị nzere bachelọ ndị a si, nke bụ mahadum kachasị ọdịda anyanwụ na nke bụ mahadum kachasị ọwụwa anyanwụ? Nye m ha dị ka ndepụta nke kewara comma, naanị ihe m chọrọ bụ aha obodo ebe mahadum dị, ebe e depụtara obodo kachasị ọdịda anyanwụ mbụ.",
+    "Level": "2",
+    "Final answer": "Santa Clara, Boston",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "da52d699-e8d2-4dc5-9191-a2199e0b6a9b",
+    "Question": "Mpempe akwụkwọ e tinyere na ya nwere ndepụta akwụkwọ m gụrụ n&#39;afọ 2022. Gịnị bụ aha akwụkwọ m na-agụ nwayọ nwayọ, site na iji ọnụego okwu kwa ụbọchị?",
+    "Level": "3",
+    "Final answer": "Pụọ na mbara ala na-adịghị jụụ",
+    "file_name": "da52d699-e8d2-4dc5-9191-a2199e0b6a9b.xlsx",
+    "file_path": "support_files/da52d699-e8d2-4dc5-9191-a2199e0b6a9b.xlsx"
+  },
+  {
+    "task_id": "0bb3b44a-ede5-4db5-a520-4e844b0079c5",
+    "Question": "Tụlee ihe nnọchianya ndị a: 💐� 𒐐𒐚 Nke a bụ ọnụọgụgụ e ji usoro ọnụọgụgụ Mesopotamian/Babịlọn dee ma jiri cuneiform Sumerian gosipụta ya. Gbanwee ọnụọgụgụ a ka ọ bụrụ ọnụọgụgụ Arabic dị ka ọnụọgụgụ decimal.",
+    "Level": "2",
+    "Final answer": "536",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "7673d772-ef80-4f0f-a602-1bf4485c9b43",
+    "Question": "N&#39;ebe nrụọrụ weebụ Cornell Law School, n&#39;okpuru ngalaba nke ise nke iwu gọọmentị etiti n&#39;ụdị mkpụrụedemede, kedu okwu e wepụrụ na mgbanwe ikpeazụ na iwu mbụ n&#39;isiokwu ahụ nke nwere &quot;ndị akaebe&quot; n&#39;ọtụtụ aha dịka nke 2021?",
+    "Level": "1",
+    "Final answer": "nkọwapụta",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "73c1b9fe-ee1d-4cf4-96ca-35c08f97b054",
+    "Question": "Dịka USGS si kwuo, n&#39;afọ ole ka a chọtara American Alligator mbụ n&#39;ọdịda anyanwụ Texas (na-agụnyeghị Texas)?",
+    "Level": "2",
+    "Final answer": "1954",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "c365c1c7-a3db-4d5e-a9a1-66f56eae7865",
+    "Question": "N&#39;ime obodo ndị dị na mba Amerịka ebe a mụrụ ndị isi ala Amerịka, kedu abụọ kacha dị anya ma e wezụga ọdịda anyanwụ ruo ọwụwa anyanwụ, na-enye naanị aha obodo ahụ? Nye m ha n&#39;usoro mkpụrụedemede, na ndepụta nke kewara comma.",
+    "Level": "1",
+    "Final answer": "Braintree, Honolulu",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "ad2b4d70-9314-4fe6-bfbe-894a45f6055f",
+    "Question": "Eva Draconis nwere weebụsaịtị nkeonwe nke enwere ike ịnweta na ibe YouTube ya. Gịnị ka naanị akara a hụrụ na ọkọlọtọ dị n&#39;elu nke nwere ahịrị gbagọrọ agbagọ nke na-abụghị okirikiri ma ọ bụ akụkụ nke okirikiri pụtara? Zaa ya n&#39;enweghị akara edemede.",
+    "Level": "3",
+    "Final answer": "Agha adịghị ebe a, nke a bụ ala udo",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "5b2a14e8-6e59-479c-80e3-4696e8980152",
+    "Question": "Aha nke na-eme ihe mkpuchi ndị a nkịta ndị yi na foto dị na ya na-ekerịta akụkọ sitere n&#39;aka ndị nnọchi anya ha na weebụsaịtị ha. Kedu anụ e kwuru n&#39;akụkọ agbakwunyere na Disemba 8, 2022?",
+    "Level": "3",
+    "Final answer": "anụ ezi",
+    "file_name": "5b2a14e8-6e59-479c-80e3-4696e8980152.jpg",
+    "file_path": "support_files/5b2a14e8-6e59-479c-80e3-4696e8980152.jpg"
+  },
+  {
+    "task_id": "7d4a7d1d-cac6-44a8-96e8-ea9584a70825",
+    "Question": "Dịka Girls Who Code si kwuo, ogologo oge ole ka o were ọtụtụ afọ ka pasentị nke ndị ọkà mmụta sayensị kọmputa bụ́ ụmụ nwanyị gbanwee site na 13% site na mmalite nke 37%?",
+    "Level": "1",
+    "Final answer": "22",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "dc22a632-937f-4e6a-b72f-ba0ff3f5ff97",
+    "Question": "Kedụ aha zuru oke nke akwụkwọ ahụ ebe mmadụ abụọ meriri ihe nrite James Beard tụrụ aro ụlọ nri ebe Ali Khan nwere nri ọhụrụ na ihe ngosi TV ya nke malitere na 2015? Dee ọnụọgụgụ ndị ahụ n&#39;akwụkwọ ederede doro anya ma ọ bụrụ na e nwere ụfọdụ n&#39;ime ha.",
+    "Level": "1",
+    "Final answer": "Ihe Narị Ise Ị Ga-eri Tupu Oge Agafee: na Ebe Kasị Mma Ị Ga-eri Ha",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "e2d69698-bc99-4e85-9880-67eaccd66e6c",
+    "Question": "Ruo Ọgọstụ 2023, ònye bụ naanị onye meriri ụdị Survivor nke US nke a mụrụ n&#39;ọnwa Mee?",
+    "Level": "2",
+    "Final answer": "Michele Fitzgerald",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "3f57289b-8c60-48be-bd80-01f8099ca449",
+    "Question": "Ole ndị Yankee nwere ọtụtụ ndị na-eje ije n&#39;oge egwuregwu nkịtị n&#39;afọ 1977 nwere otu oge ahụ?",
+    "Level": "1",
+    "Final answer": "519",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "a56f1527-3abf-41d6-91f8-7296d6336c3f",
+    "Question": "Mkpuchi nke mbipụta Vogue nke ọnwa Ọgọst 2021 na-egosi ihe ama ama ama n&#39;azụ ụfọdụ osisi. Olee otú ihe ncheta a dị n&#39;ogo yad, nke gbara ya gburugburu ruo n&#39;ogige kacha nso? Nye naanị ọnụọgụgụ ahụ.",
+    "Level": "2",
+    "Final answer": "185",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "23dd907f-1261-4488-b21c-e9185af91d5e",
+    "Question": "N&#39;abụ Audre Lorde bụ́ &quot;Nna Ọkpara na Mmụọ Nsọ&quot;, kedu ọnụọgụgụ nke stanza e tinyere n&#39;ime ahịrị ụfọdụ?",
+    "Level": "1",
+    "Final answer": "2",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "42d4198c-5895-4f0a-b0c0-424a66465d83",
+    "Question": "Ama m etu ozi dị maka egwuregwu vidiyo ndị a ma ama tupu ewepụta ha. Chọta ibe Wikipedia maka egwuregwu 2019 nke meriri ihe nrite British Academy Games Awards. Olee mgbanwe ole ka ibe ahụ mere tupu ọnwa edepụtara dị ka ụbọchị ewepụtara egwuregwu ahụ na ibe Wikipedia ahụ (dịka ntinye kachasị ọhụrụ sitere na 2022)?",
+    "Level": "2",
+    "Final answer": "60",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "edd4d4f2-1a58-45c4-b038-67337af4e029",
+    "Question": "Mpempe akwụkwọ e tinyere na ya depụtara ụgbọ okporo ígwè ndị dị n&#39;otu ụlọ ihe ngosi nka ụgbọ okporo ígwè dị n&#39;ógbè ahụ. Gịnị bụ aha ndị Amerịka na-akpọkarị ụdị ụgbọ okporo ígwè a na-eji maka Murder Mystery Express?",
+    "Level": "2",
+    "Final answer": "Berkshire",
+    "file_name": "edd4d4f2-1a58-45c4-b038-67337af4e029.xlsx",
+    "file_path": "support_files/edd4d4f2-1a58-45c4-b038-67337af4e029.xlsx"
+  },
+  {
+    "task_id": "a26649c6-1cb2-470a-871e-6910c64c3e53",
+    "Question": "Kedu ihe dị iche n&#39;ọtụtụ puku mmadụ n&#39;etiti ọnụọgụgụ penguin chinstrap na ibe Wikipedia maka ọnụọgụgụ ụdị penguin dịka ọ dị na ngwụcha afọ 2018 na ọnụọgụgụ ndị e dekọrọ na akụkọ Nature.com &quot;nyocha ọnụọgụgụ mmadụ zuru ụwa ọnụ nke penguin Chinstrap&quot; nke afọ 2020, na-eche na penguin abụọ maka otu ụzọ n&#39;ụzọ nzụlite?",
+    "Level": "2",
+    "Final answer": "116",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "4d0aa727-86b1-406b-9b33-f870dd14a4a5",
+    "Question": "Faịlụ dị na faịlụ ahụ depụtara ụgbọ okporo ígwè ndị e ji ihe ngosi nka ụgbọ okporo ígwè mee. Ọ na-enye nọmba njirimara nke ụgbọ okporo ígwè ọ bụla, ọnọdụ ọrụ ya, na aha njem ọ na-aga kwa ụbọchị, ọ bụrụ na ọ na-arụ ọrụ. Kedu ihe nwere ike ime na njem Sunset Picnic nke taa ga-eji ụgbọ okporo ígwè steam? Chee na njem nke ụbọchị ọ bụla na-ahọrọ otu n&#39;ime ụgbọ okporo ígwè e kenyere ya n&#39;enweghị usoro, ma kọwaa azịza ya n&#39;ụdị &quot;1 n&#39;ime 4&quot;, &quot;1 n&#39;ime 5&quot;, wdg.",
+    "Level": "2",
+    "Final answer": "1 n&#39;ime 3",
+    "file_name": "4d0aa727-86b1-406b-9b33-f870dd14a4a5.xlsx",
+    "file_path": "support_files/4d0aa727-86b1-406b-9b33-f870dd14a4a5.xlsx"
+  },
+  {
+    "task_id": "1f975693-876d-457b-a649-393859e79bf3",
+    "Question": "Ndewo, ahụ́ adịghị m mma n&#39;ụlọ akwụkwọ m na Fraịdee, yabụ m na-agbalị ịchọpụta ihe m ga-amụ maka Calculus m n&#39;etiti oge agụmakwụkwọ m n&#39;izu na-abịa. Enyi m si klas zitere m ndekọ ọdịyo nke Prọfesọ Willowbrook na-enye m ịgụ akwụkwọ akwadoro maka ule ahụ, mana ekweisi m agbajiri agbaji :( Biko ị nwere ike ige ndekọ ahụ nye m ma gwa m nọmba peeji m kwesịrị ịgụ? Etinyela m faịlụ a na-akpọ Homework.mp3 nke nwere ndekọ ahụ. Biko nye naanị nọmba peeji ahụ dị ka ndepụta nke nwere comma. Biko nye ndepụta ahụ n&#39;usoro elu.",
+    "Level": "1",
+    "Final answer": "132, 133, 134, 197, 245",
+    "file_name": "1f975693-876d-457b-a649-393859e79bf3.mp3",
+    "file_path": "support_files/1f975693-876d-457b-a649-393859e79bf3.mp3"
+  },
+  {
+    "task_id": "d5141ca5-e7a0-469f-bf3e-e773507c86e2",
+    "Question": "Olee mgbe e tinyere foto St. Thomas Aquinas na ibe Wikipedia na Principle of double effect? Zaa ya site na iji usoro DD/MM/YYYY.",
+    "Level": "2",
+    "Final answer": "19/02/2009",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "9e1fc53b-46ff-49a1-9d05-9e6faac34cc5",
+    "Question": "Otu mmadụ ise mejupụtara otu tankị, otu onye na-agwọ ọrịa, na DPS atọ na-eme ụlọ mkpọrọ nke ewepụtara na World of Warcraft. Abụọ bụ ndị na-eyi efere, abụọ bụkwa ndị na-eyi ákwà. N&#39;ọkwa ikpeazụ, ma tankị ahụ ma onye na-agwọ ọrịa na-atụ ọgwụ nsọ. A na-eji ice na ọkụ eme ihe, nke ọ bụla site na DPS dị iche. Otu anụ ọhịa bea sitere na otu ahụ na-awakpo onyeisi ahụ. A tụbara mgbanwe. Kilt nke Onye Echefuru Echefu dara dị ka ihe efu, mana ọ dịghị onye nwere ike iji ya. Ọ bụrụ na klaasị niile na-eji ikike klaasị ha eme ihe ma klaasị niile pụrụ iche, kedu klaasị ise dị n&#39;ìgwè ahụ n&#39;usoro mkpụrụedemede nke ejiri comma kewaa?",
+    "Level": "3",
+    "Final answer": "Ọnye Agha Ọnwụ, Dinta, Paladin, Onye Nchụàjà, Onye Agha",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "840bfca7-4f7b-481a-8794-c560c340185d",
+    "Question": "Na Juun 6, 2023, e bipụtara akụkọ Carolyn Collins Petersen dere na Universe Today. Isiokwu a kwuru maka otu ndị mepụtara akwụkwọ gbasara ihe ha hụrụ, nke ejikọtara na ala nke akụkọ ahụ. Chọta akwụkwọ a. N&#39;okpuru nọmba onyinye NASA dị aṅaa ka ọrụ RG Arendt kwadoro?",
+    "Level": "1",
+    "Final answer": "80GSFC21M0002",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "1dcc160f-c187-48c2-b68e-319bd4354f3d",
+    "Question": "Dịka Openreview.net si kwuo, na Nzukọ NeurIPS 2022, akwụkwọ ole onye edemede aha ya bụ Yuri natara ma nye ndụmọdụ &quot;n&#39;ezie&quot;?",
+    "Level": "2",
+    "Final answer": "3",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "b2c257e0-3ad7-4f05-b8e3-d9da973be36e",
+    "Question": "Ọ bụrụ na aịs krịm mejupụtara pint a dum, pasent ole ka ọ dị n&#39;elu ma ọ bụ n&#39;okpuru ọkọlọtọ gọọmentị etiti US maka ọdịnaya abụba mgbe a na-eji ọkọlọtọ dịka Wikipedia si kọọ na 2020? Zaa dị ka + ma ọ bụ - ọnụọgụgụ gbara gburugburu ruo otu ebe decimal.",
+    "Level": "2",
+    "Final answer": "+4.6",
+    "file_name": "b2c257e0-3ad7-4f05-b8e3-d9da973be36e.jpg",
+    "file_path": "support_files/b2c257e0-3ad7-4f05-b8e3-d9da973be36e.jpg"
+  },
+  {
+    "task_id": "e0c10771-d627-4fd7-9694-05348e54ee36",
+    "Question": "Were nkewa nwoke na nwanyị site na ọnụọgụgụ ndị Bulgaria nke afọ 2011 gbasara ndị gụchara akwụkwọ sekọndrị. Wepụ obere ọnụọgụgụ ahụ site na ọnụọgụgụ buru ibu, wee weghachite ọdịiche dị na puku kwuru puku ụmụ nwanyị. Yabụ ọ bụrụ na e nwere ụmụ nwoke 30.1 puku ọzọ, ị ga-enye &quot;30.1&quot;",
+    "Level": "2",
+    "Final answer": "234.9",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "a0068077-79f4-461a-adfe-75c1a4148545",
+    "Question": "Kedụ ka ọnụọgụgụ ndị debanyere aha n&#39;oge nnwale ahụike gbasara H. pylori n&#39;ime ndị ọrịa acne vulgaris site na Jenụwarị ruo Mee 2018 dịka edepụtara na weebụsaịtị NIH?",
+    "Level": "1",
+    "Final answer": "90",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "e29834fd-413a-455c-a33e-c3915b07401c",
+    "Question": "Achọrọ m ịmatakwu gbasara ụfọdụ ihe ngosi asọmpi telivishọn a ma ama. Ka oge nke iri anọ na anọ nke ụdị Survivor nke America na-agwụ, ole ndị mmeri pụrụ iche ka e nwere ma e jiri ya tụnyere ọnụọgụ ndị meriri American Idol?",
+    "Level": "2",
+    "Final answer": "21",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "bda648d7-d618-4883-88f4-3466eabd860e",
+    "Question": "Ebee ka e tinyere ihe atụ ndị Vietnam nke Kuznetzov kọwara n&#39;akwụkwọ Nedoshivina nke afọ 2010? Nye m aha obodo ahụ na-enweghị mkpirisi okwu.",
+    "Level": "1",
+    "Final answer": "Saint Petersburg",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "50ec8903-b81f-4257-9450-1085afd2c319",
+    "Question": "A gbajiri otu kube Rubik nkịtị n&#39;ime kube ndị mejupụtara akụkụ ya. A gbajiri kube ndị ahụ, a na-ewepụkwa otu. E nwere kube isii nwere otu ihu agba, kube iri na abụọ nwere ihu agba abụọ, na kube akụkụ asatọ nwere ihu agba atọ. A chọtala kube niile na-acha anụnụ anụnụ. A chọtala kube niile kpọmkwem n&#39;aka ekpe, aka nri, n&#39;elu, na n&#39;okpuru kube etiti oroma ahụ, yana kube etiti. A chọtala akụkụ akwụkwọ ndụ akwụkwọ ndụ niile, yana akwụkwọ ndụ akwụkwọ ndụ niile nke gbara odo odo gburugburu. Maka kube oroma niile achọtara, a chọtala kube ihu nke dị iche. Kube ahụ ewepụrụ nwere agba abụọ n&#39;ihu ya. Kedu ihe ha bụ? Zaa site na iji ndepụta kewara comma, yana agba ndị ahụ n&#39;usoro mkpụrụedemede.",
+    "Level": "1",
+    "Final answer": "akwụkwọ ndụ akwụkwọ ndụ, ọcha",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "cf106601-ab4f-4af9-b045-5295fe67b37d",
+    "Question": "Kedụ mba nwere ọnụọgụgụ ndị egwuregwu kacha nta na Olimpiks Okpomọkụ nke afọ 1928? Ọ bụrụ na e nwere nha nha maka ọtụtụ ndị egwuregwu, weghachite nke mbụ n&#39;usoro mkpụrụedemede. Nye koodu obodo IOC dị ka azịza gị.",
+    "Level": "1",
+    "Final answer": "KUB",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "5f982798-16b9-4051-ab57-cfc7ebdb2a91",
+    "Question": "Agụrụ m otu akwụkwọ gbasara ihe ndị a hụrụ n&#39;ọtụtụ ebili mmiri nke mgbawa redio ngwa ngwa na Machị 2021 na Arxiv, o nwekwara eserese mara mma nke profaịlụ oge X-ray. E nwere eserese yiri nke ahụ na akwụkwọ ọzọ sitere n&#39;aka otu n&#39;ime ndị edemede ahụ gbasara mgbawa redio ngwa ngwa na Julaị 2020, mana enweghị m ike icheta ihe dị iche na sekọnd na oge a tụrụ. Sekọnd ole ọzọ ka otu tụrụ karịa nke ọzọ? Nye naanị ọnụọgụgụ ahụ.",
+    "Level": "3",
+    "Final answer": "0.2",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "a0c07678-e491-4bbc-8f0b-07405144218f",
+    "Question": "Ole ndị bụ ndị na-atụ bọọlụ nwere nọmba tupu na mgbe nọmba Taishō Tamai gasịrị dịka ọ dị na Julaị 2023? Nye m ha n&#39;ụdị Pitcher Before, Pitcher After, jiri naanị aha ikpeazụ ha mee ihe, n&#39;ime mkpụrụedemede ndị Rom.",
+    "Level": "1",
+    "Final answer": "Yoshida, Uehara",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "7bd855d8-463d-4ed5-93ca-5fe35145f733",
+    "Question": "Faịlụ Excel dị na ya nwere ire ere nke ihe ndị dị na menu maka usoro nri ngwa ngwa mpaghara. Kedu mkpokọta ahịa nke agbụ ahụ ji nri mee (anaghị etinye ihe ọṅụṅụ)? Kwuo azịza gị na USD site na ebe abụọ.",
+    "Level": "1",
+    "Final answer": "89706.00",
+    "file_name": "7bd855d8-463d-4ed5-93ca-5fe35145f733.xlsx",
+    "file_path": "support_files/7bd855d8-463d-4ed5-93ca-5fe35145f733.xlsx"
+  },
+  {
+    "task_id": "5a0c1adf-205e-4841-a666-7c3ef95def9d",
+    "Question": "Kedu aha mbụ nke naanị onye nwetara asọmpi Malko site na narị afọ nke 20 (mgbe 1977 gasịrị) onye obodo ya dị na ndekọ bụ mba na-adịghịzi adị?",
+    "Level": "1",
+    "Final answer": "Klọs",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "0512426f-4d28-49f0-be77-06d05daec096",
+    "Question": "N&#39;ime vidiyo YouTube 360 VR nke Machị 2018 nke onye na-eme olu nke Lord of the Rings&#39; Gollum kọrọ, ọnụọgụgụ dị aṅaa ka onye na-akọ akụkọ ahụ kwuru ozugbo e gosiri dinosaurs na vidiyo ahụ mbụ?",
+    "Level": "3",
+    "Final answer": "1000000000",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "0bdb7c40-671d-4ad1-9ce3-986b159c0ddc",
+    "Question": "N&#39;akwụkwọ NASA&#39;s Astronomy Picture of the Day na Jenụwarị 21, 2006, a hụrụ ndị na-aga eluigwe abụọ, otu dị obere karịa nke ọzọ. Ruo Ọgọst 2023, n&#39;ime ndị na-aga eluigwe na NASA Astronaut Group nke obere onye na-aga eluigwe so na ya, nke otu ji obere oge na mbara igwe, na nkeji ole ka o ji na mbara igwe, gbara gburugburu ruo nkeji kacha nso? E wezụga ndị na-aga eluigwe na mbara igwe ndị na-anaghị anọ n&#39;eluigwe. Nye aha ikpeazụ nke onye na-aga eluigwe na mbara igwe, nke kewapụrụ na ọnụọgụ nkeji site na semicolon.",
+    "Level": "3",
+    "Final answer": "Ọcha; 5876",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "08c0b6e9-1b43-4c2e-ae55-4e3fce2c2715",
+    "Question": "N&#39;ihe nkiri Goldfinger, kedu agba James Bond zoro onwe ya na onye ya na ya so na-akpọ Pussy Galore na ngwụcha ihe nkiri ahụ? Ọ bụrụ na e nwere ọtụtụ agba, tinye ha na ndepụta nke kewara comma n&#39;usoro mkpụrụedemede.",
+    "Level": "2",
+    "Final answer": "oroma, ọcha",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "db4fd70a-2d37-40ea-873f-9433dc5e301f",
+    "Question": "Ruo Mee 2023, ole ebe nkwụsị dị n&#39;etiti South Station na Windsor Gardens n&#39;ahịrị Franklin-Foxboro nke MBTA (anaghị etinye ya)?",
+    "Level": "2",
+    "Final answer": "10",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "853c8244-429e-46ca-89f2-addf40dfb2bd",
+    "Question": "N&#39;ihe ngosi ihe ngosi nka nke Metropolitan Museum of Art nke afọ 2015 nke akpọrọ aha anụmanụ zodiac nke China nke afọ 2015, ole n&#39;ime &quot;anụmanụ iri na abụọ nke zodiac China&quot; ka a na-ahụ aka?",
+    "Level": "2",
+    "Final answer": "11",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "7a4a336d-dcfa-45a0-b014-824c7619e8de",
+    "Question": "N&#39;oge nkeji abụọ nke vidiyo YouTube nke ọwa &quot;GameGrumps&quot; bugoro na Mee 14, 2017 dịka akụkụ nke egwuregwu Mario Kart 8 Deluxe ha, ndị na-akwado ihe ngosi ahụ na-asọmpi n&#39;otu n&#39;ime ebe egwuregwu ahụ na-agba ọsọ. Kedu oge ndekọ ụwa maka egwu ahụ na ọnọdụ 150cc nke egwuregwu ahụ dịka ọ dị na June 7, 2023? Gosi azịza gị na nkeji na sekọnd, na-agba sekọnd gburugburu na narị kacha nso, dịka ọmụmaatụ 1:01.001.",
+    "Level": "2",
+    "Final answer": "1:41.614",
+    "file_name": "",
+    "file_path": ""
+  }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "worksheet": "Sheet1",
+        "cell_address": "B2",
+        "table_title": "Studies of Flavonoids and Cardiovascular Outcomes",
+        "reference_numbers": "8"
+    },
+    {
+        "worksheet": "Sheet1",
+        "cell_address": "B3",
+        "table_title": "High-linoleic acid diet, high-stearic acid diet, high trans fatty acid diet",
+        "reference_numbers": "16,25"
+    },
+    {
+        "worksheet": "Sheet1",
+        "cell_address": "B4",
+        "table_title": "Composition (%) of Vagetable Oils and Animal Fats",
+        "reference_numbers": "3,4,14,27"
+    },
+    {
+        "worksheet": "Sheet1",
+        "cell_address": "B5",
+        "table_title": "Concentrations of serum total and HDL cholesterol",
+        "reference_numbers": "13,15"
+    },
+    {
+        "worksheet": "Sheet1",
+        "cell_address": "B6",
+        "table_title": "Chocolate and Cocoa Feeding Trials",
+        "reference_numbers": "20,26"
+    },
+    {
+        "worksheet": "Sheet1",
+        "cell_address": "B7",
+        "table_title": "Assayed macronutrient composition of experimental diets",
+        "reference_numbers": "24"
+    }
+]

@@ -1,0 +1,116 @@
+You are an expert evaluator for multilingual agentic planning failures.
+
+Your task is to categorize the planning failure. You will be given:
+1. A target-language query.
+2. An English reference query. This is only for semantic clarification; the target-language query is the main query.
+3. The English plan produced by the agent from the target-language query.
+4. The ground-truth answer.
+5. The agent final answer.
+6. A list of allowed failure categories with definitions.
+7. Several labeled examples showing how categories should be assigned.
+
+You must assign exactly one final category from the allowed categories. If the failure does not clearly fit any allowed category, assign "other".
+
+Important evaluation rules:
+- Focus primarily on planning failure, especially whether the agent plan preserves the intent and constraints of the target-language query.
+- Use the English reference query only to clarify meaning when the target-language query is ambiguous.
+- Do not assume a failure category only because the final answer is wrong. First check whether the plan itself shows the failure.
+- If the plan is faithful and it satisfy all the entities & constraints mentioned in the target language query, categorize "other" unless one of the allowed categories explicitly covers that failure.
+- If multiple categories seem possible, choose the category that is most causally responsible for the wrong answer.
+- Do not over-penalize paraphrases. A plan can use different wording if it preserves the same entities, source, time constraints, operations, and answer format.
+- Keep the explanation concise, paper-ready, and focused on what went wrong.
+- Do not repeat the full question in the explanation.
+- Output must be in English only.
+- Output must be valid JSON only.
+- Return only two fields: "final_category" and "explanation".
+
+Allowed categories:
+
+1. "entity_grounding_failure"
+Use when the plan drops, mistranslates, replaces, or hallucinates key entities such as people, places, documents, species, objects, titles, organizations, or target items.
+- Use this category for entity grounding failures, where the plan contains entities that are not present in the query.
+- Use this category when plan contains hallucinated categories and it leads to  wrong operation chain & an irrelevant answer.
+Example signals:
+- The plan uses the wrong titles, species, person, place, object.
+- The plan introduces an entity not mentioned or implied in the query. For eg: \icecream\ or \lawsuit\ not mentioned in a query anywhere.
+- The Plan hallucinate the entities involved in a query.
+- The plan fails to resolve an implicit entity correctly.
+- The planner grounds the plan to an entity that is not mentioned in the query, leading to an incorrect execution chain.
+- The plan drops and partly uses entities instead using all entities mentioned in the query.
+
+2. "source_grounding_failure"
+Use when the plan drops, corrupts, replaces, or misuses the required source.
+Example signals:
+- The query requires a specific file, spreadsheet, document, website, citation link, table, or image, but the plan uses another source.
+- The plan mutates a file path or URL.
+- The plan accesses the correct broad webpage but extracts evidence from the wrong part of the source, such as webpage text instead of an image, if source modality is central.
+- The plan drops and partly uses a constraint source instead using full source with correct search criteria.
+
+3. "temporal_grounding_failure"
+Use when the plan drops, changes, ignores, or misapplies a required time constraint.
+Example signals:
+- The query says “as of May 2023,” “before 2020,” or “in April 1977,” but the plan does not preserve it.
+- The plan applies the time constraint to the wrong entity, source, or operation.
+
+4. "operation_grounding_failure"
+Use when the plan follows the wrong execution or reasoning chain, even if some entities or constraints are preserved.
+Example signals:
+- The plan solves the task in the wrong order.
+- The plan searches for the wrong type of evidence or performs the wrong operation, such as searching for a title inside a source when it should first identify a place and then perform a separate lookup.
+- The plan changes the intended objective.
+
+5. "answer_format_grounding_failure"
+Use when the task intent is mostly solved but the final answer or plan fails to preserve the required answer format.
+- use this category when final answer matches the ground truth answer but have addtional metadata.
+Example signals:
+- Use this category if final answer matches the ground truth answer but have extra text.
+- The expected answer is only a number, name, city, ZIP code, string, or comma-separated list, but the agent adds extra explanation, provenance, year, director, citations, or metadata.
+- The answer type is wrong, such as returning a paragraph when only a number is required.
+- The content is correct but the output format makes it non-compliant.
+- if final answer is correct but has extra text. for eg: approximately 41 of them would be false positives in their claims instead "41" as a number directly.
+
+6. "other"
+Use when:
+- The failure does not clearly fit the above categories.
+- The plan is faithful, perfect and preserved all the constraints.
+- There is insufficient information to confidently assign one of the allowed categories.
+- Target language query intent, entities, sources are different from english query.
+- Final answer is not correct.
+
+Category selection priority:
+- If the plan uses the wrong entity/document/object, choose "entity_grounding_failure".
+- If the plan corrupts or loses a required source, choose "source_grounding_failure".
+- If the plan loses or misapplies a time condition, choose "temporal_grounding_failure".
+- If the plan preserves correct entities but uses the wrong procedure or objective, choose "operation_grounding_failure".
+- If the plan and reasoning are mostly correct but the final output violates the requested format, choose "answer_format_grounding_failure".
+- If none clearly applies, choose "other".
+
+Use the labeled examples below as guidance for category boundaries:
+
+<LABELLED_EXAMPLES>
+{{examples}}
+</LABELLED_EXAMPLES>
+
+Now evaluate the following case:
+
+Target-language query:
+{{target_language_query}}
+
+English reference query:
+{{english_reference_query}}
+
+Agent plan produced from target-language query:
+{{agent_plan}}
+
+Ground-truth answer:
+{{ground_truth_answer}}
+
+Agent final answer:
+{{agent_final_answer}}
+
+Return only valid JSON in this exact format:
+
+{
+  "final_category": "one_of_the_allowed_categories",
+  "explanation": "Concise explanation of why this category applies."
+}

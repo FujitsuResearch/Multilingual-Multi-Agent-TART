@@ -1,0 +1,87 @@
+Example 1: entity_grounding_failure
+Igbo Question: Akwụ kwọ gbasara iwu AI nke e zigara na arXiv.org na June 2022 gosiri ọ nụ ọ gụ gụ nwere axes atọ , ebe axis ọ bụ la nwere okwu akara na nsọ tụ abụ ọ . Olee n’ime okwu ndị a ka e ji akọ wa ụ dị ọ ha mmadụ na akụ kọ Physics na Society nke e zigara na arXiv.org na August 11, 2016?
+English question: A paper on AI law submitted to arXiv.org in June 2022 shows a number with three axes, where each axis has a word labelled at both ends. Which of these words is used to describe the nature of society in a Physics and Society paper submitted to arXiv.org on August 11, 2016?
+Ground Truth answer: Egalitarian
+Agent final answer: z, β−1, H
+Agent Plan: 1. Search for the paper related to AI safety that was published in June 2022 on arXiv.org and identify its title and any relevant details.
+2. Retrieve the content of the paper "Toward Formalized Ethical Criteria for Autonomous Machines" published on arXiv.org on August 11, 2016, and extract the first page of the PDF.
+3. Analyze the extracted content from the 2016 paper to determine if it discusses the desirability of harmful behavior in autonomous machines and what criteria it uses for such discussions.
+4. Based on the analysis, answer the question: "Does the 2016 paper discuss the desirability of harmful behavior in autonomous machines and what criteria does it use for such discussions?"
+Explanation: The planner preserves the broad arXiv source and temporal cues but fails to preserve the correct entity-Physics and Society article. Instead, it introduces Toward Formalized Ethical Criteria for Autonomous Machines and reframes the objective around “autonomous machines,” “harmful behavior,” and “ethical criteria” concepts that never appear in the query. This hallucinated entity document and objective cause the execution path to drift away from the required comparison over axis-label words. As a result, the agent extracts irrelevant symbolic terms, “z, β−1, H,” instead of the correct label word, Egalitarian.
+Correct target entity: “Physics and Society article”
+Wrong grounded entity: "Toward Formalized Ethical Criteria for Autonomous Machines".
+
+Example 2: temporal_grounding_failure
+Kygryz Question: 2023-жылдын май ай ына карата MBTAнын Франклйн-Фоксборо лйнйясында (кошулбаган) Түштүк станцйя менен Вйндзор Гарденстйн ортосунда канча аялдама бар?
+English question: How many stops are there on the MBTA’s Franklin-Foxboro Line (unconnected) between South Station and Windsor Gardens as of May 2023?
+Ground Truth answer: 10
+Agent final answer: 12
+Agent Plan: 1. Search for the number of stations along the MBTA Franklin-Foxborough Line that are south of the Charles River and have access to the Windsor Gardens neighborhood.
+2. Based on the findings, provide the final answer to the question: how many stations along the MBTA Franklin-Foxborough Line are south of the Charles River and have access to the Windsor Gardens neighborhood?
+Explanation: The planner fails to preserve both the target entities and the temporal constraint. It misgrounds South Station as “south of the Charles River,” a phrase and geographic condition that never appears in the query and reframes the task as finding stations south of the river with access to Windsor Gardens. This changes the intended route-counting problem into an unrelated geographic filtering task. In addition, the plan completely drops the required temporal scope, “as of May 2023,” even though MBTA station information and service patterns can change over time. By losing both the correct endpoint entity and the time boundary, the agent counts the wrong set of stations and returns 12 instead of the correct answer, 10.
+Correct time constraint: As of May 2023
+Wrong/missing time constraint: No temporal constraint was preserved in the plan; the planner ignores “as of May 2023”.
+
+Example 3: source_grounding_failure
+German Question: Die angehängte Tabelle zeigt den Bestand eines Film- und Videospielverleihs in Seattle, Washington. Wie heißt der Titel der ältesten Blu-ray, die in der Tabelle steht? Gib ihn genau so zurück, wie er in der Tabelle erscheint. Here are the necessary table files: lilt/support_files/32102e3e-d12a-4209-9163-7b3a104efe5d.xlsx, for processing excel file, you can write python code and leverage excel toolkit to process the file step-by-step and get the information.
+English question: The attached table shows the inventory of a movie and video game rental store in Seattle, Washington. What is the title of the oldest Blu-ray listed in the table? Return it exactly as it appears in the table. The necessary table files are located here: lilt/support_files/32102e3e-d12a-4209-9163-7b3a104efe5d.xlsx. To process the Excel file, you can write Python code and use the Excel toolkit to process the file step-by-step and retrieve the information.
+Ground Truth answer: Time-Parking 2: Parallel Universe
+Agent final answer: Unable to determine the final answer due to missing Excel file.
+Agent Plan: Extract the content of the Excel file located at \"lilt/support_files/32102e3e-d112a-4209-9163-7b3a104efe5d.xlsx\" to retrieve the
+table data, focusing on columns that include Blu-ray titles and their release dates or acquisition dates.
+Explanation: The normal run fails because the planner corrupts the required source path. The original spreadsheet path contains the identifier 'd12a', but the planner changes it to 'd112a' by inserting an extra “1”. This small source-string mutation causes the downstream tool call to look for a non-existent Excel file, so the agent cannot access the table and stops with a missing-file error.
+This is a planner-level Source Grounding Failure: the task objective and operation are broadly correct, but the planner fails to preserve the exact file source. 
+Correct Source: lilt/support_files/32102e3e-d12a-4209-9163-7b3a104efe5d.xlsx
+Wrong Source: lilt/support_files/32102e3e-d112a-4209-9163-7b3a104efe5d.xlsx
+
+Example 4: operation_grounding_failure
+Kygryz Question: 1977-жылдын апрель ай ында Эстер кйтебйнде (Жаңы Эл аралык котормодо) аты бйрйнчй ай тылган жердйн премьер-мйнйстрй кйм болгон?
+English Question: Who was the prime minister of the land whose name is first mentioned in the book of Esther (New International Version) in April 1977?
+Ground Truth answer: Morarji Desai
+Agent final answer: Zulfikar Ali Bhutto
+Agent Plan: 1. Search for the content of the Book of Esther in the New International Version (NIV) Bible, specifically focusing on the first mention of a \"prime minister\" or equivalent title in April 1977 context, if any. Verify whether this refers to a historical or biblical figure, and clarify the linguistic or contextual meaning of \"prime minister\" in this reference.
+2. Investigate whether the Book of Esther contains any reference to a \"prime minister\" and identify the figure associated with that title—likely Haman or Mordecai—based on biblical scholarship or authoritative translations
+Explanation: The normal run fails because the planner grounds the task into the wrong operation sequence. Instead of using the Book of Esther NIV only to identify the first named place and then applying the April 1977 constraint to a modern political lookup, it searches for a “prime minister” or equivalent title inside the Book of Esther. This shifts the task from a geographical-temporal retrieval problem to an unrelated biblical-title interpretation problem.
+The correct operation chain should retrieve the NIV Book of Esther, identify the first named place, map that place to the relevant modern country or region, then retrieve who served as prime minister there in April 1977. Instead, the failed plan searches the Book of Esther for a “prime minister” or equivalent biblical figure and reasons about Haman or Mordecai.
+This mis-grounded operation path leads the system away from the intended answer and produces an incorrect final response.
+Correct operation: Identify first named place → resolve modern country/region → retrieve April 1977 Prime Minister. Wrong operation: Search Esther for a “prime minister” figure → interpret biblical roles → answer using the wrong target.
+
+Example 5: answer_format_grounding_failure
+Arabic Question: في مساهمة فالنتينا ري في كتاب \"World Building: Transmedia, Fans, Industries\" لعام 2017 ،
+ما هو فيلم الرعب الذي تستشهد به الكاتبة باعتباره من روّج لمفهوم التداخل بين عالم الأحلام والواقع؟ استخدم الاسم الكامل مع الأداة إذا وجدت .
+English Question: In Valentina Re’s contribution to the 2017 book *World Building: Transmedia, Fans, Industries*, which horror film does the author cite as having popularized the concept of the blurring of boundaries between the dream world and reality? Use the full title, including the article if applicable.
+Ground Truth answer: A Nightmare on Elm Street
+Agent final answer: A Nightmare on Elm Street (1984) — directed by Wes Craven
+Agent Plan: 1. Search for Valentina Re’s contribution to the 2017 book "World Building: Transmedia, Fans, Industries," focusing on her citations of horror films related to the concept of the overlap between the dream world and reality.
+2. Identify the full name of the film with the article, if any, cited by Valentina Re in this contribution, verifying the accuracy of the information from other reliable sources if necessary.
+3. Transform this question into a specific format asking the worker to provide the final answer about the film mentioned in Valentina Re’s contribution, ensuring that the full name and the article, if any, are included.
+Explanation: The planner correctly identifies the target source, author contribution, and required film title, and the agent execution reaches the correct answer. However, the final answer agent violates the requested answer format by appending extra metadata: “(1984) — directed by Wes Craven.” The question asks for the complete film name with the article if present, not the release year or director. Although the core answer is correct, the additional text makes the response non-compliant with the expected exact-match format. This failure reflects an answer-format grounding error, where the system fails to preserve the output constraint during final response generation. 
+Correct answer format: Film title only, including article if present
+Wrong answer format: Film title plus extra metadata, year, and director
+
+Example 6: other
+Hindi question: मई 2023 है और मैं कैलिफ़ोर्निया से मेन तक पूरे अमेरिका में कार से ड्राइव करने वाला हूँ। मैं हमेशा यात्रा के अंत में अपनी पानी की बोतलों को रीसाइकल करता हूँ, और हर 100 मील की यात्रा पर 12 औंस की 5 पानी की बोतलें पीता हूँ, जिसे निकटतम 100 मील तक पूर्णांकित किया जाता है। मान लें कि मैं लॉस एंजिल्स से सिनसिनाटी तक I-40 से जाता हूँ और फिर सिनसिनाटी से ऑगस्टा तक I-90 लेता हूँ, तो अंग्रेजी विकिपीडिया के अनुसार मुझे कुल कितने डॉलर वापस मिलेंगे?
+English question: It is May 2023, and I am about to drive across the United States from California to Maine. I always recycle my water bottles at the end of the trip, and I consume five 12-ounce water bottles for every 100 miles traveled (rounding up to the nearest 100 miles). Assuming I drive from Los Angeles to Cincinnati via I-40 and then take I-90 from Cincinnati to Augusta, how much money (in dollars) will I get back, according to the English Wikipedia?
+Agent Plan: 1. Calculate the total driving distance from Los Angeles to Cincinnati via I-40 and then from Cincinnati to Augusta via I-90. Round the distance to the nearest 100 miles.
+2. Determine the total number of 12-ounce water bottles consumed during the trip, given that 5 bottles are consumed every 100 miles.
+3. Search for the current recycling refund rates (in dollars per bottle) for plastic water bottles in California (since the bottles will be recycled there at the end of the trip). Verify the rate from an authoritative source (e.g., California government website or official recycling program).
+4. Calculate the total refund amount in dollars by multiplying the total number of bottles by the refund rate per bottle.
+5. Verify the final answer by cross-checking the distance calculation, bottle count, and refund rate with alternative sources or methods (e.g., recalculating or confirming rates from another reliable source)
+6. Transform the original problem into the final answer format: \"Based on the calculations, the total refund you will receive is [X] dollars.
+Explanation: Agent plan preserve all the required entities, sources, time boundaries, answer format and operation constraints. Operation sequence and reasoning is also correct to solve a query. Plan doesn't miss any of the required information, captures the user's intent correctly and solve the same objective.
+
+Example 7: entity_grounding_failure
+Igbo Question: Ana m eme nnyocha banyere ụ dị azụ ̀ ndị ghọ rọ ndị na-awakpo mgbe ndị mmadụ na-edebe ha dị ka anụ ụ lọ hapụ rụ ha. E nwere ụ dị azụ ̀ ụ fọ dụ nke a na-ewu ewu dị ka anụ ụ lọ site n’ị bụ isi agwa nke ihe nkiri Finding Nemo. Dị ka USGS si kwuo, ebee ka a hụ rụ azụ ̀ a dị ka ụ dị ndị na-abụ ghị nke obodo, tupu afọ 2020? Achọ rọ m ka azị za ya bụ rụ koodu zip nke ọ nụ ọ gụ ise nke ebe a chọ tara ụ dị ahụ , kewapụ rụ ya site na koma ma ọ bụ rụ na e nwere ihe karị rị otu ebe.
+English Question (Original): I’m researching species that became invasive after people who kept them as pets released them. There’s a certain species of fish that was popularized as a pet by being the main character of the movie Finding Nemo. According to the USGS, where was this fish found as a nonnative species, before the year 2020? I need the answer formatted as the five-digit zip codes of the places the species was found, separated by commas if there is more than one place.
+Ground Truth answer: 34689
+Agent final answer: 92008, 92646
+Agent Plan: Search for information about the invasive species mentioned in the task, specifically the one resembling sea creatures from the movie \"Finding Nemo, \" and identify its scientific or common name. Use web search tools to find authoritative sources like USGS or similar databases.
+Explanation: The normal run fails at the first retrieval step due to incorrect entity grounding. The query refers to the fish species popularized by Finding Nemo, which should be resolved to the clownfish/Nemo-type fish. However, the planner use the vague phrase “Finding Nemo sea creatures” rather than grounding the entity as clownfish. This broadens the search space from the intended fish species to general Finding Nemo-related aquarium or invasive-species content, leading the agent toward incorrect USGS location records and the wrong ZIP codes, 92008, 92646.
+
+Example 8: entity_grounding_failure
+Igbo Question: Kedu ahịrị ikpeazụ nke uri ahụ n&#39;okpuru aha ụtọ dị n&#39;elu isi ihe a na-ahụ n&#39;azụ foto nke isi ihe ụtọ kacha ochie n&#39;ili Ben &amp; Jerry dị n&#39;ịntanetị dịka ọ dị na njedebe nke afọ 2022?
+English Question: What's the last line of the rhyme under the flavor name on the headstone visible in the background of the photo of the oldest flavor's headstone in the Ben & Jerry's online flavor graveyard as of the end of 2022?
+Ground Truth answer: Ya mere, anyị aghaghị ikwe ka ọ nwụọ.
+Agent final answer: The last verdict of the lawsuit involving [sweet item name] under Ben & Jerry’s as of the end of 2022 was: [verdict].
+Agent Plan: 1. What is the last verdict of the lawsuit below the name of the sweet item seen at the back of the photo of the oldest sweet brand in the Ben & Jerry's line on the internet as it was at the end of 2022?\"*\n\nThis is a complex task requiring:\n1. Identifying the oldest sweet brand in Ben & Jerry’s line.\n2. Locating a photo of this brand (likely a product image).
+Explanation: The query asks for the last line of a rhyme on a headstone in Ben & Jerry's online flavor graveyard, requiring identifying the oldest flavor's headstone, then reading the neighboring headstone in the background photo. Instead, the plan invents a 'lawsuit verdict' objective and searches for legal cases, completely abandoning the flavor-graveyard and rhyme retrieval. Planner added "lawsuit verdict" hallucinated entity which never appeared in the target language query and henced classified as entity grounding failure. None of these categories appear in the query.

@@ -1,0 +1,13 @@
+ID,First Name,Last Name,Street Address,City,Zip,Phone,Email,Carrier Pigeon,House Number,Parity
+1,Michael,Scott,8602 Begonia Drive,Palmetto,41671,202-310-1001,mscott@gmail.com,Y,8602,even
+2,Jim,Halpert,6233 Plumeria Lane,Palmetto,41671,202-248-4803,wormsarecool@aol.com,N,6233,odd
+3,Pam,Beasley,6232 Plumeria Lane,Palmetto,41671,202-307-9281,pbeasley@hotmail.com,N,6232,even
+4,Dwight,Schrute,451 Rafflesia Street,Palmetto,41671,202-591-2452,dks@gmail.com,Y,451,odd
+5,Ryan,Howard,3033 Rafflesia Street,Coconut,45352,456-457-5001,betterthanu@aol.com,N,3033,odd
+6,Andy,Bernard,1001 Rafflesia Street,Coconut,45352,456-321-3482,narddog@gmail.com,Y,1001,odd
+7,Angela,Martin,3565 Rafflesia Street,Coconut,45352,456-123-4124,amartin@hotmail.com,Y,3565,odd
+8,Creed,Bratton,2024 Orchid Avenue,Fan,40350,123-012-4510,billschneider@gmail.com,N,2024,even
+9,William,Schneider,2024 Orchid Avenue,Fan,40350,123-012-4510,billschneider@gmail.com,N,2024,even
+10,Kevin,Malone,4015 Orchid Avenue,Date,12271,246-113-1381,eaglesrule@hotmail.com,Y,4015,odd
+11,Meredith,Palmer,4033 Orchid Avenue,Date,12271,246-332-3454,meredithp@gmail.com,Y,4033,odd
+12,Toby,Flenderson,1239 Orchid Avenue,Cypress,11813,243-345-4045,tobiasflenderson@coldmail.com,N,1239,odd

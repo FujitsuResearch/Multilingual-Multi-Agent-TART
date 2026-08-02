@@ -1,0 +1,19 @@
+[
+  {
+    "task_id": "2006.00998v1-q1",
+    "question": "考虑到关于数据集注释和上下文意识的信息，表中列出的数据集中，有多少个数据集的注释是上下文感知的，并且包含毒性子类型或仇恨/冒犯的标签？",
+    "semantic": {
+      "entities": [
+        "dataset"
+      ],
+      "time_constraint": null,
+      "source_constraint": [],
+      "attachment_type": "table",
+      "operations": [
+        "filter",
+        "count"
+      ],
+      "answer_type": "number"
+    }
+  }
+]

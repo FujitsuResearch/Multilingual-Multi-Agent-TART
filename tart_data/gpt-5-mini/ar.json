@@ -1,0 +1,36 @@
+[
+  {
+    "task_id": "dc28cf18-6431-458b-83ef-64b3ce566c10",
+    "query": "سيُقام لم شمل عائلتي هذا الأسبوع، وقد كُلفتُ بإحضار طبق البطاطا المهروسة. ويشمل الحضور والديّ المتزوجين، وشقيقي التوأم وعائلته، وعمتي وعائلتها، وجدتي وشقيقها، وابنة شقيقها، وعائلة ابنته. جميع البالغين متزوجون باستثنائي، ولا أحد مطلق أو متزوج مرة أخرى، لكن جدي وزوجة شقيق جدتي توفيا العام الماضي. جميع الأزواج على قيد الحياة سيحضرون. لدى أخي طفلان صغيران، ولدى عمتي طفل يبلغ من العمر ست سنوات، ولدى ابنة شقيق جدتي ثلاثة أطفال دون سن الثانية عشرة. أعتقد أن كل بالغ سيأكل حوالي حبة ونصف من البطاطا المهروسة، وكل طفل سيأكل حوالي نصف حبة، باستثناء أبناء عمومتي من الدرجة الثانية الذين لا يتناولون الكربوهيدرات. يبلغ وزن حبة البطاطا ٢٣٥ غرام في المعدل، وتُباع البطاطا في أكياس وزنها ٢ كجم. كم عدد أكياس البطاطا الكاملة التي أحتاجها؟ فقط أخبرني بالعدد.",
+    "semantic": {
+      "entities": [
+        "parents (married)",
+        "twin brother and his family",
+        "twin brother's two children",
+        "aunt and her family",
+        "aunt's 6-year-old child",
+        "grandmother",
+        "grandmother's brother",
+        "daughter of grandmother's brother",
+        "her three children under 12",
+        "second cousins (do not eat carbohydrates)",
+        "grandfather (deceased)",
+        "wife of grandmother's brother (deceased)",
+        "potato (235 g per potato)",
+        "potato bag (2 kg)",
+        "serving size adult 1.5 potatoes",
+        "serving size child 0.5 potato"
+      ],
+      "time_constraint": "this week",
+      "source_constraint": [],
+      "attachment_type": "none",
+      "operations": [
+        "compute",
+        "count",
+        "round"
+      ],
+      "answer_type": "number"
+    },
+    "status": "ok"
+  }
+]

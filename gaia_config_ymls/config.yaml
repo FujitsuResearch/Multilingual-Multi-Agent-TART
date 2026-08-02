@@ -1,0 +1,18 @@
+configs:
+  - name: hindi
+    DOTENV_FILE: .env
+    lang: hindi
+    data: gaia_data/gaia_maps
+    level: all
+    icl: False
+    icl_k: 0
+
+  - name: german
+    DOTENV_FILE: .env
+    lang: german
+    data: gaia_data/gaia_maps
+    level: all
+    icl: False
+    icl_k: 0
+
+  

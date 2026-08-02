@@ -1,0 +1,1322 @@
+[
+  {
+    "task_id": "c61d22de-5f6c-4958-a7f6-5e9707bd3466",
+    "Question": "Pepala lonena za malamulo a AI lomwe poyamba linaperekedwa ku arXiv.org mu June 2022 likuwonetsa chithunzi chokhala ndi ma axes atatu, pomwe mzere uliwonse uli ndi liwu lolembedwa mbali zonse ziwiri. Ndi liti mwa mawu awa lomwe limagwiritsidwa ntchito pofotokoza mtundu wa anthu m&#39;nkhani ya Physics and Society yomwe inatumizidwa ku arXiv.org pa Ogasiti 11, 2016?",
+    "Level": "2",
+    "Final answer": "wofanana",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "17b5a6a3-bc87-42e8-b0fb-6ab0781ef2cc",
+    "Question": "Ndikufufuza za mitundu yomwe inayamba kufalikira anthu omwe ankaisunga ngati ziweto ataimasula. Pali mtundu wina wa nsomba womwe unatchuka ngati chiweto chifukwa chokhala munthu wamkulu mu filimu ya Finding Nemo. Malinga ndi USGS, kodi nsomba iyi inapezeka kuti ngati mtundu wa nyama, isanafike chaka cha 2020? Ndikufuna yankho lolembedwa ngati ma zip code asanu a malo omwe mtunduwo unapezeka, olekanitsidwa ndi ma koma ngati pali malo oposa amodzi.",
+    "Level": "2",
+    "Final answer": "34689",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "04a04a9b-226c-43fd-b319-d5e89743676f",
+    "Question": "Ngati tikuganiza kuti nkhani zonse zofalitsidwa ndi Nature mu 2020 (nkhani, zokha, osati ndemanga/ma mizati ya mabuku, ndi zina zotero) zimadalira kufunika kwa ziwerengero kuti zitsimikizire zomwe zapeza ndipo pafupifupi zinafika pa p-value ya 0.04, ndi mapepala angati omwe angakhale olakwika ponena za kufunika kwa ziwerengero? Bwerezani mtengowo kufika pa nambala yotsatira.",
+    "Level": "2",
+    "Final answer": "41",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "14569e28-c88c-43e4-8c32-097d35b9a67d",
+    "Question": "Mu Unlambda, ndi character kapena lemba liti lenileni lomwe liyenera kuwonjezeredwa kuti likonze khodi yotsatirayi kuti &quot;Ya ma penguin&quot; ituluke? Ngati chofunika ndi character, yankhani ndi dzina la character. Ngati pali mayina osiyanasiyana a character, gwiritsani ntchito lalifupi kwambiri. Malo a lembalo sakufunika. Khodi: `r```````````````.Pa .penguinsi",
+    "Level": "2",
+    "Final answer": "chigoba chakumbuyo",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "e1fc63a2-da7a-432f-be78-7c4a95598703",
+    "Question": "Ngati Eliud Kipchoge akanatha kusunga liwiro lake la marathon lopanga mbiri kwamuyaya, kodi zingatenge maola angati zikwi kuti athamange mtunda pakati pa Dziko Lapansi ndi Mwezi womwe uli pafupi kwambiri ndi momwe umayendera? Chonde gwiritsani ntchito mtengo wocheperako wa perigee patsamba la Wikipedia la Mwezi powerengera. Sungitsani zotsatira zanu kufika pa maola 1000 apafupi ndipo musagwiritse ntchito zolekanitsa koma ngati pakufunika kutero.",
+    "Level": "1",
+    "Final answer": "17",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "32102e3e-d12a-4209-9163-7b3a104efe5d",
+    "Question": "Chipepala cholembedwacho chikuwonetsa zinthu zomwe zili mu sitolo yobwereka mafilimu ndi masewera a pakompyuta ku Seattle, Washington. Kodi dzina la Blu-Ray yakale kwambiri yojambulidwa mu chipepalachi ndi chiyani? Chibwezeretseni monga momwe chikuwonekera mu chipepalacho.",
+    "Level": "2",
+    "Final answer": "Kuyimitsa Nthawi 2: Chilengedwe Chofanana",
+    "file_name": "32102e3e-d12a-4209-9163-7b3a104efe5d.xlsx",
+    "file_path": "support_files/32102e3e-d12a-4209-9163-7b3a104efe5d.xlsx"
+  },
+  {
+    "task_id": "8e867cd7-cff9-4e6c-867a-ff5ddc2550be",
+    "Question": "Kodi ma Albums angati a ku studio adasindikizidwa ndi Mercedes Sosa pakati pa 2000 ndi 2009 (kuphatikizapo)? Mutha kugwiritsa ntchito wikipedia yaposachedwa ya Chingerezi ya 2022.",
+    "Level": "1",
+    "Final answer": "3",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "3627a8be-a77f-41bb-b807-7e1bd4c0ebdf",
+    "Question": "Chinthu chomwe chili mu zosonkhanitsira za British Museum chomwe chili ndi nambala ya 2012,5015.17 ndi chipolopolo cha mtundu winawake wa nkhono. Malinga ndi chidule cha nkhani yofufuza yomwe inafalitsidwa mu Science Advances mu 2021, mikanda yopangidwa kuchokera ku zipolopolo za mtundu uwu inapezeka yomwe ili ndi zaka masauzande angati?",
+    "Level": "2",
+    "Final answer": "142",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "7619a514-5fa8-43ef-9143-83b66a43d7a4",
+    "Question": "Malinga ndi github, kodi Regression inawonjezedwa liti ku vuto lakale kwambiri lotsekedwa la numpy.polynomial lomwe lili ndi chizindikiro cha Regression mu MM/DD/YY?",
+    "Level": "2",
+    "Final answer": "04/15/18",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "ec09fa32-d03f-4bf8-84b0-1f16922c3ae4",
+    "Question": "Nayi nkhani yosangalatsa yomwe ndikuganiza kuti mudzasangalala nayo. Mwasankhidwa kusewera gawo lomaliza la sewero latsopano lotchuka la &quot;Pick That Ping-Pong&quot;. Mu gawoli, mudzapikisana kuti mupeze mphotho yayikulu yandalama. Ntchito yanu idzakhala kusankha imodzi mwa mipira yosiyanasiyana ya ping-pong, kenako masewerawa ayamba. Woyang&#39;anira akufotokoza momwe masewerawa amagwirira ntchito. Chipangizo chokhala ndi ramp yowonekera bwino komanso ma piston angapo chimayang&#39;anira zotsatira za masewerawa. Ramp imapatsa mipira papulatifomu. Nsanjayo ili ndi malo oti mipira itatu ya ping-pong ikhale nthawi imodzi. Mipira itatu papulatifomu iliyonse imalumikizidwa ndi imodzi mwa ma piston atatu. Pa gawo lililonse la masewerawa, imodzi mwa ma piston atatuwo idzawombera mwachisawawa, ndikutulutsa mpira womwe wagunda. Ngati piston itulutsa mpira pamalo oyamba papulatifomu, mipira yomwe ili pamalo achiwiri ndi achitatu papulatifomu iliyonse imapita patsogolo malo amodzi, ndipo mpira wotsatira pa ramp umapita kumalo achitatu. Ngati pisitoni itulutsa mpira pamalo achiwiri, mpira womwe uli pamalo oyamba umatulutsidwa ndikugubuduzika, mpira womwe uli pamalo achitatu umapita patsogolo m&#39;malo awiri kuti ukhale pamalo oyamba, ndipo mipira iwiri yotsatira pa ramp imapita patsogolo kuti igwire malo achiwiri ndi achitatu pa pulatifomu. Ngati pisitoni itulutsa mpirawo pamalo achitatu, mpira womwe uli pamalo oyamba umatulutsidwa ndikugubuduzika, mpira womwe uli pamalo achiwiri umapita patsogolo m&#39;malo amodzi kuti ukhale pamalo oyamba, ndipo mipira iwiri yotsatira pa ramp imapita patsogolo kuti igwire malo achiwiri ndi achitatu pa pulatifomu. Ramp imayamba ndi mipira 100 ya ping-pong, yokonzedwa motsatira kuyambira 1 mpaka 100. Wothandizirayo amayatsa makinawo ndipo mipira itatu yoyamba, yolembedwa nambala 1, 2, ndi 3, imapita patsogolo pa pulatifomu. Musanayambe kuwombera ma pistoni mwachisawawa, mumafunsidwa kuti ndi mipira iti mwa 100 yomwe mukufuna kusankha. Ngati pistoni yanu yatulutsidwa ndi imodzi mwa ma pistoni, mumapambana mphoto yayikulu, $10,000. Ndi mpira uti womwe muyenera kusankha kuti muwonjezere mwayi wanu wopambana mphoto yayikulu? Chonde perekani yankho lanu monga nambala ya mpira womwe mwasankha.",
+    "Level": "1",
+    "Final answer": "3",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "676e5e31-a554-4acc-9286-b60d90a92d26",
+    "Question": "Mu Julayi 2, 1959, miyezo ya ku United States ya mitundu ya zipatso zokonzedwa, ndiwo zamasamba, ndi zinthu zina zomwe zalembedwa kuti zatha madzi, ganizirani zinthu zomwe zili mu &quot;gawo louma ndi lopanda madzi&quot; zomwe zalembedwa kuti zatha madzi pamodzi ndi zinthu zilizonse zomwe zili mu gawo la Frozen/Chilled zomwe zili ndi dzina lonse la chinthucho, koma osati ngati zalembedwa kuti Zili Zozizira. Kuyambira mu Ogasiti 2023, kodi kuchuluka kwake (kufikira pa peresenti yapafupi) kwa miyezo yomwe yasinthidwa ndi mtundu watsopano kuyambira tsiku lomwe linaperekedwa mu miyezo ya 1959 ndi kotani?",
+    "Level": "3",
+    "Final answer": "86",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "7dd30055-0198-452e-8c25-f73dbe27dcb8",
+    "Question": "Pogwiritsa ntchito laibulale ya Biopython mu Python, fufuzani fayilo ya PDB ya puloteni yomwe yadziwika ndi PDB ID 5wb7 kuchokera ku RCSB Protein Data Bank. Werengani mtunda pakati pa atomu yoyamba ndi yachiwiri monga momwe yalembedwera mu fayilo ya PDB. Nenani yankho mu Angstroms, lozunguliridwa ku picometer yapafupi.",
+    "Level": "2",
+    "Final answer": "1.456",
+    "file_name": "7dd30055-0198-452e-8c25-f73dbe27dcb8.pdb",
+    "file_path": "support_files/7dd30055-0198-452e-8c25-f73dbe27dcb8.pdb"
+  },
+  {
+    "task_id": "2a649bb1-795f-4a01-b3be-9a01868dae73",
+    "Question": "Kodi manambala a EC a mankhwala awiri omwe amagwiritsidwa ntchito kwambiri poyesa kachilombo m&#39;nyuzipepala yokhudza SPFMV ndi SPCSV mu Pearl Of Africa ya 2016 ndi ati? Bwezerani manambala olekanitsidwa ndi semicolon motsatira dongosolo la mankhwala olembedwa ndi zilembo.",
+    "Level": "2",
+    "Final answer": "3.1.3.1; 1.11.1.7",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "87c610df-bef7-4932-b950-1d83ef4e282b",
+    "Question": "Mu Epulo wa 1977, ndani anali Nduna Yaikulu ya malo oyamba kutchulidwa dzina m&#39;Buku la Estere (mu Baibulo Latsopano la Mayiko)?",
+    "Level": "2",
+    "Final answer": "Morarji Desai",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "624cbf11-6a41-4692-af9c-36b3e5ca3130",
+    "Question": "Kodi mzere womaliza wa nyimbo pansi pa dzina la kukoma pa mwala wapamutu womwe ukuwoneka kumbuyo kwa chithunzi cha mwala wapamutu wakale kwambiri wa kukoma komwe kuli m&#39;manda a Ben &amp; Jerry pa intaneti kumapeto kwa chaka cha 2022 ndi uti?",
+    "Level": "2",
+    "Final answer": "Kotero tinayenera kulola kuti ife.",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "dd3c7503-f62a-4bd0-9f67-1b63b94194cc",
+    "Question": "Gwiritsani ntchito miyeso ya kuchuluka kwa zinthu zomwe zili ndi chilolezo cha chemistry kuchokera kwa Marisa Alviar-Agnew &amp; Henry Agnew pansi pa chilolezo cha CK-12 mu LibreText&#39;s Introductory Chemistry materials monga momwe adalembedwera pa 08/21/2023. Ndili ndi galoni imodzi ya uchi ndi galoni imodzi ya mayonesi pa 25C. Ndimachotsa chikho chimodzi cha uchi nthawi imodzi kuchokera mu galoni imodzi ya uchi. Kodi ndiyenera kuchotsa kangati chikho kuti uchi ukhale wochepa kuposa mayonesi? Tangoganizani kuti zotengerazo zimalemera chimodzimodzi.",
+    "Level": "2",
+    "Final answer": "6",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "5d0080cb-90d7-4712-bc33-848150e917d3",
+    "Question": "Kodi kuchuluka kwa nsomba mu m^3 kunali kotani komwe kunawerengedwa mu pepala la University of Leicester lakuti &quot;Kodi Hiccup Ingapatse Nsomba Zokwanira Kusunga Chakudya cha Chinjoka?&quot;",
+    "Level": "1",
+    "Final answer": "0.1777",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "bec74516-02fc-48dc-b202-55e78d0e17cf",
+    "Question": "Kodi chiwerengero chapakati cha ntchito zisanafike chaka cha 2020 pamasamba otseguka ozindikiritsa ofufuza ndi omwe amapereka chithandizo cha anthu omwe zizindikiritso zawo zili mufayilo iyi ndi chiani?",
+    "Level": "3",
+    "Final answer": "26.4",
+    "file_name": "bec74516-02fc-48dc-b202-55e78d0e17cf.jsonld",
+    "file_path": "support_files/bec74516-02fc-48dc-b202-55e78d0e17cf.jsonld"
+  },
+  {
+    "task_id": "a1e91b78-d3d8-4675-bb8d-62741b4b68a6",
+    "Question": "Mu kanemayo https://www.youtube.com/watch?v=L1vXCYZAYYM, ndi mitundu iti ya mbalame yomwe ili ndi chiwerengero chachikulu kwambiri chomwe chikuwonetsedwa pa kamera nthawi imodzi?",
+    "Level": "1",
+    "Final answer": "3",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "46719c30-f4c3-4cad-be07-d5cb21eee6bb",
+    "Question": "Mwa olemba (First M. Last) omwe adagwira ntchito pa pepala la &quot;Pie Menus kapena Linear Menus, Which Is Better?&quot; mu 2015, kodi dzina la pepala loyamba lolembedwa ndi lomwe lidalemba mapepala am&#39;mbuyomu linali lotani?",
+    "Level": "1",
+    "Final answer": "Kujambula Chidziwitso Chokhudza Anthu kwa Othandizira Mapulogalamu Ogwiritsa Ntchito Machitidwe Apaintaneti",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "df6561b2-7ee5-4540-baab-5095f742716a",
+    "Question": "Mukatenga avareji ya kupotoka kwa chiwerengero cha anthu ofiira ndi kupotoka kwa chitsanzo cha manambala obiriwira pachithunzichi pogwiritsa ntchito gawo la ziwerengero mu Python 3.11, kodi zotsatira zake zimazunguliridwa ku ma point atatu apafupi ndi chiyani?",
+    "Level": "2",
+    "Final answer": "17.056",
+    "file_name": "df6561b2-7ee5-4540-baab-5095f742716a.png",
+    "file_path": "support_files/df6561b2-7ee5-4540-baab-5095f742716a.png"
+  },
+  {
+    "task_id": "00d579ea-0889-4fd9-a771-2c8d79835c8d",
+    "Question": "Poganiza kuti asayansi omwe ali mu kanema wotchuka wa YouTube wotchedwa The Thinking Machine (Artificial Intelligence mu zaka za m&#39;ma 1960) adafunsidwa mafunso chaka chomwecho, kodi dzina la wasayansi amene akulosera makina oganiza mofulumira kapena maloboti ndi ndani? Yankho pogwiritsa ntchito mawonekedwe a dzina loyamba Dzina lomaliza",
+    "Level": "3",
+    "Final answer": "Claude Shannon",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "4b6bb5f7-f634-410e-815d-e673ab7f8632",
+    "Question": "Mu Series 9, Gawo 11 la Doctor Who, Dokotala wagwidwa mkati mwa malo osinthasintha nthawi zonse. Kodi malowa amatchedwa chiyani mu script yovomerezeka ya gawoli? Perekani malo omwe ali momwe akuonekera pamutu woyamba wa gawoli.",
+    "Level": "1",
+    "Final answer": "Nyumba Yachifumu",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "f0f46385-fc03-4599-b5d3-f56496c3e69f",
+    "Question": "Ponena za mtunda pakati pa mizinda ikuluikulu, ndi mayiko ati awiri omwe ali kutali kwambiri ndi wina ndi mnzake mkati mwa ASEAN bloc malinga ndi wikipedia? Yankhani pogwiritsa ntchito mndandanda wolekanitsidwa ndi koma, pokonza mayiko motsatira zilembo za alfabeti.",
+    "Level": "2",
+    "Final answer": "Indonesia, Myanmar",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "384d0dd8-e8a4-4cfe-963c-d37f256e7662",
+    "Question": "Mu database ya NCATS PubChem compound ya Food Additive Status classification, pezani compound yomwe ili ndi kulemera kwa mamolekyulu a 100 g/mol kapena kuchepera, ma atomu 6 olemera, hydrogen bond acceptors imodzi kapena zochepa, komanso zovuta pakati pa 10 ndi 15. Pa zochitika za majini ndi mankhwala zomwe zimachitika pakati pa kusintha kwa ma enzyme awiri omwe angatheke, kodi PubChem CID yolemera kwambiri ndi iti?",
+    "Level": "3",
+    "Final answer": "4192",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "e4e91f1c-1dcd-439e-9fdd-cb976f5293fd",
+    "Question": "Ndikufunika kufufuza umboni wa nkhaniyi. Iyi ndi nkhani yochokera m&#39;buku la mabuku: Greetham, David. &quot;Uncoupled: OR, How I Lost My Author(s).&quot; Textual Cultures: Texts, Contexts, Interpretation, vol. 3 no. 1, 2008, p. 45-46. Project MUSE, doi:10.2979/tex.2008.3.1.44. Ndipo iyi ndi nkhani yolembedwa: Ubale wathu ndi olemba mabuku omwe timawerenga nthawi zambiri &quot;ungabisike osati ndi&quot; nsalu yosindikizidwa&quot; koma ndi chophimba cha chisokonezo cha olemba ndi kufalitsa molakwika&quot; (Greetham 45-46). Kodi mawu omwe atchulidwawo akugwirizana ndi zomwe zili m&#39;nkhaniyi? Ngati Inde, yankhani Inde, apo ayi, ndipatseni mawu omwe ali m&#39;nkhani yanga omwe sakugwirizana ndi olondola (opanda nkhani iliyonse).",
+    "Level": "2",
+    "Final answer": "chovala chamkati",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "56137764-b4e0-45b8-9c52-1866420c3df5",
+    "Question": "Ndi ndani amene anathandizira ku OpenCV komwe thandizo linawonjezeredwa la chitsanzo cha Mask-RCNN yemwe ali ndi dzina lofanana ndi mtsogoleri wakale wa boma la China pamene mayinawo alembedwa m&#39;zilembo za Chilatini?",
+    "Level": "2",
+    "Final answer": "Li Peng",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "de9887f5-ead8-4727-876f-5a4078f8598c",
+    "Question": "Kodi ndi chiŵerengero chotani cha kutalika konse kwa nkhanu ya harlequin chomwe chinalembedwa mu pepala la Omar Valencfia-Mendez la 2017 chomwe nyenyezi ya nyanja inadyetsedwa kwa mtundu womwewo wa nkhanu mu pepala la G. Curt Fiedler la 2002?",
+    "Level": "3",
+    "Final answer": "22",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "cffe0e32-c9a6-4c52-9877-78ceb4aaa9fb",
+    "Question": "Ofesi inali ndi malo osinthira mphatso za Secret Santa komwe aliyense mwa antchito ake khumi ndi awiri anapatsidwa wantchito wina m&#39;gululo kuti apereke mphatso. Wantchito aliyense anadzaza mbiri yake kuphatikizapo zinthu zitatu zomwe amakonda kapena zosangalatsa. Pa tsiku losinthira mphatso, mphatso khumi ndi chimodzi zokha zinaperekedwa, iliyonse yokhudzana ndi zomwe wolandirayo amakonda. Kutengera ndi zomwe zili m&#39;chikalatacho, ndani sanapereke mphatso?",
+    "Level": "1",
+    "Final answer": "Fred",
+    "file_name": "cffe0e32-c9a6-4c52-9877-78ceb4aaa9fb.docx",
+    "file_path": "support_files/cffe0e32-c9a6-4c52-9877-78ceb4aaa9fb.docx"
+  },
+  {
+    "task_id": "8b3379c0-0981-4f5b-8407-6444610cb212",
+    "Question": "Kodi kutalika kwakukulu kwa mamita a #9 mu kanema woyamba wa National Geographic pa YouTube komwe kunatulutsidwapo malinga ndi tsamba la Monterey Bay Aquarium ndi kotani? Ingoperekani nambala.",
+    "Level": "2",
+    "Final answer": "1.8",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "0ff53813-3367-4f43-bcbd-3fd725c1bf4b",
+    "Question": "Kodi ndi mtundu wanji wa chitsanzo cha mawu awiri womwe Manash Pratim Kashyap ndi PS Fader adafufuza pa kafukufuku wokhudza kusunga makasitomala omwe adasindikizidwa mu 2018-2019 (osalemba zizindikiro) anali nawo ofanana?",
+    "Level": "2",
+    "Final answer": "beta geometric",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "983bba7c-c092-455f-b6c9-7857003d48fc",
+    "Question": "Ndi nyama ziti zomwe zinatchulidwa m&#39;mapepala a Ilias Lagkouvardos ndi Olga Tapia okhudza mtundu wa alvei wa mtundu wa Copenhagen kunja kwa mabuku olembedwa omwe adapezekanso m&#39;nkhani ya 2021 yomwe idatchulidwa patsamba la Wikipedia la mitundu ya alvei yokhudza kafukufuku wa malo ambiri, wosasankhidwa, komanso wosawona mbali ziwiri?",
+    "Level": "3",
+    "Final answer": "mbewa",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "a7feb290-76bb-4cb7-8800-7edaf7954f2f",
+    "Question": "Kodi ndi nkhani zingati za High Energy Physics - Lattice zomwe zidalembedwa mu Januwale 2020 pa Arxiv zomwe zinali ndi mitundu ya ps?",
+    "Level": "2",
+    "Final answer": "31",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "b4cc024b-3f5e-480e-b96a-6656493255b5",
+    "Question": "Chithunzi chomwe chili mu Whitney Museum of American Art chosonkhanitsidwa ndi nambala 2022.128 chikuwonetsa munthu ali ndi buku. Ndi gulu liti lankhondo lomwe wolemba bukuli adalowa mu 1813? Yankhani popanda kugwiritsa ntchito nkhani.",
+    "Level": "2",
+    "Final answer": "Gulu lankhondo la Russia-Germany",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "2d83110e-a098-4ebb-9987-066c06fa42d0",
+    "Question": ".rewsna eht sa &quot;tfel&quot; drow eht fo etisoppo eht etirw ,ecnetnes siht dnatsrednu uoy fi",
+    "Level": "1",
+    "Final answer": "Kumanja",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "33d8ea3b-6c6b-4ff1-803d-7e270dea8a57",
+    "Question": "Kodi ndi chiwerengero chocheperako cha maulalo a masamba omwe munthu ayenera kudina kuti achoke patsamba la Wikipedia la Chingerezi pa The Lord of the Rings (buku) kupita patsamba la Wikipedia la Chingerezi pa A Song of Ice and Fire (mndandanda wa mabuku) ndi chiyani? Mu kuwerengera kwanu, phatikizani ulalo uliwonse womwe mungadina kuti mufike patsamba. Gwiritsani ntchito masamba monga momwe adawonekera kumapeto kwa tsiku pa Julayi 3, 2023.",
+    "Level": "2",
+    "Final answer": "2",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "5cfb274c-0207-4aa7-9575-6ac0bd95d9b2",
+    "Question": "Selo lililonse mu spreadsheet yomwe yaikidwayo likuyimira malo. Mtundu wa selo umasonyeza mwini wa malowo. Maselo obiriwira ndi malo omwe Earl Smith ali nawo. Kodi Earl angayende m&#39;malo onse omwe ali nawo (ndipo palibe malo ena) ndikubwerera ku malo ake oyambira osabwerera m&#39;mbuyo? Pa funso ili, ganizirani kuti kubwerera m&#39;mbuyo ndi nthawi iliyonse yomwe Earl angalowe m&#39;malo omwe adalowa kale kuyambira atachoka m&#39;malo ake oyambira.",
+    "Level": "1",
+    "Final answer": "Ayi",
+    "file_name": "5cfb274c-0207-4aa7-9575-6ac0bd95d9b2.xlsx",
+    "file_path": "support_files/5cfb274c-0207-4aa7-9575-6ac0bd95d9b2.xlsx"
+  },
+  {
+    "task_id": "9b54f9d9-35ee-4a14-b62f-d130ea00317f",
+    "Question": "Ndi zinthu ziti zomwe zili m&#39;ma CATEGORIES mu XML zomwe zingakhale ndi chakudya chimodzi chomwe chili mu spreadsheet chomwe sichimawonekera kachiwiri pansi pa dzina lina?",
+    "Level": "3",
+    "Final answer": "Supu ndi Msuzi",
+    "file_name": "9b54f9d9-35ee-4a14-b62f-d130ea00317f.zip",
+    "file_path": "support_files/9b54f9d9-35ee-4a14-b62f-d130ea00317f.zip"
+  },
+  {
+    "task_id": "e8cb5b03-41e0-4086-99e5-f6806cd97211",
+    "Question": "Ndinapita ku lesitilanti ndi malo ogulitsira mowa ku Virtue ku Chicago pa tsiku langa lobadwa pa 22 Marichi, 2021 ndipo chakudya chachikulu chomwe ndinadya chinali chokoma kwambiri! Tsoka ilo, nditabwererako pafupifupi mwezi umodzi pa 21 Epulo, sichinalinso pa menyu ya chakudya chamadzulo. Pogwiritsa ntchito Wayback Machine, kodi mungandithandize kudziwa kuti ndi chakudya chachikulu chiti chomwe chinali pa menyu ya chakudya chamadzulo cha Virtue pa 22 Marichi, 2021 koma osati pa 21 Epulo, 2021? Yankhani pogwiritsa ntchito mawonekedwe amodzi, opanda nkhani.",
+    "Level": "2",
+    "Final answer": "shirimpi",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "27d5d136-8563-469e-92bf-fd103c28b57c",
+    "Question": "¬(A ∧ B) ↔ (¬A ∨ ¬B) ¬(A ∨ B) ↔ (¬A ∧ ¬B) (A → B) ↔ (¬B → ¬A) (A → B) ↔ (¬A ∨ B) (¬A → B) ↔ (A ∨ ¬B) ¬(A → B) ↔ (A ∧ ¬B) Ndi chiti mwa zomwe zili pamwambapa chomwe sichili chofanana ndi zina zonse? Perekani chiganizo chonse chomwe sichikugwirizana.",
+    "Level": "1",
+    "Final answer": "(¬A → B) ↔ (A ∨ ¬B)",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "dc28cf18-6431-458b-83ef-64b3ce566c10",
+    "Question": "Kukumananso kwa banja langa kudzachitika sabata ino, ndipo ndinapatsidwa ntchito yobweretsa mbatata yosenda. Anthu omwe adzakhalepo ndi amayi anga okwatira ndi abambo anga, mchimwene wanga wamapasa ndi banja lake, azakhali anga ndi banja lake, agogo anga aakazi ndi mchimwene wake, mwana wamkazi wa mchimwene wake, ndi banja la mwana wake wamkazi. Akuluakulu onse kupatula ine adakwatirana, ndipo palibe amene wasudzulana kapena kukwatiwanso, koma agogo anga aamuna ndi aakazi a agogo anga anamwalira chaka chatha. Okwatirana onse omwe ali ndi moyo akubwera. Mchimwene wanga ali ndi ana awiri omwe akadali ana, azakhali anga ali ndi mwana mmodzi wazaka zisanu ndi chimodzi, ndipo mwana wamkazi wa mchimwene wanga wa agogo ali ndi ana atatu osakwana zaka 12. Ndikuganiza kuti munthu wamkulu aliyense adzadya mbatata yosenda pafupifupi 1.5 ndipo mwana aliyense adzadya pafupifupi theka la mbatata yosenda, kupatulapo azibale anga achiwiri sadya chakudya cham&#39;mawa. Mbatata yapakati ndi pafupifupi theka la paundi, ndipo mbatata zimagulitsidwa m&#39;matumba a mapaundi 5. Ndikufuna matumba angati a mbatata? Ingoperekani nambala.",
+    "Level": "1",
+    "Final answer": "2",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "b816bfce-3d80-4913-a07d-69b752ce6377",
+    "Question": "Mu nkhani ya Emily Midkiff ya mu June 2014 mu magazini yotchedwa dzina la mwana wamwamuna wa Hreidmar amene ankalondera nyumba yake, ndi mawu ati omwe anagwidwa kuchokera kwa olemba awiri osiyana omwe sankakonda zojambulajambula za chinjoka?",
+    "Level": "1",
+    "Final answer": "zofewa",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "f46b4380-207e-4434-820b-f32ce04ae2a4",
+    "Question": "Ndi chaka cha 1999. Musanachite phwando ngati kuti ndi chaka cha 1999, chonde ndithandizeni kuthetsa vuto langa. Fiona Apple ndi Paula Cole adatulutsa ma Albums asanafike chaka cha 1999. Pa ma Albums awa, ndi ati omwe sanalandire giredi ya kalata kuchokera kwa Robert Christgau? Perekani yankho lanu ngati mndandanda wa mitu ya ma Albums, yosankhidwa motsatira zilembo.",
+    "Level": "2",
+    "Final answer": "Chodziwikiratu, Tidal",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "72e110e7-464c-453c-a309-90a95aed6538",
+    "Question": "Pansi pa DDC 633 pa BASE ya Bielefeld University Library, kuyambira mu 2020, nkhani yosadziwika ya chilankhulo chokhala ndi mbendera inali yosiyana ndi zina kuchokera kudziko liti?",
+    "Level": "1",
+    "Final answer": "Guatemala",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "05407167-39ec-4d3a-a234-73a9120c325d",
+    "Question": "Mu positi ya blog ya VSCode ya 2018 pa replit.com, kodi ndi lamulo liti lomwe adadina muvidiyo yapitayi kuti achotse mizere yowonjezera?",
+    "Level": "2",
+    "Final answer": "Konzani Chikalata",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "b9763138-c053-4832-9f55-86200cb1f99c",
+    "Question": "Werengani nambala yofufuzira yomwe Tropicos ID ya Order Helotiales ikanakhala nayo ikanakhala nambala ya ISBN-10.",
+    "Level": "2",
+    "Final answer": "3",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "16d825ff-1623-4176-a5b5-42e0f5c2b0ac",
+    "Question": "Kodi sitima ya Tri-Rail yomwe inanyamula anthu ambiri pa Meyi 27, 2019 inakonzedwa kuti ifike ku Pompano Beach nthawi yanji? Fotokozani yankho lanu mu mawonekedwe a wotchi ya digito ya maola 12 popanda zero patsogolo ngati ilipo, ndipo phatikizani ngati ndi AM kapena PM.",
+    "Level": "2",
+    "Final answer": "6:41 PM",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "2b3ef98c-cc05-450b-a719-711aee40ac65",
+    "Question": "Kodi mungandithandize ndi ntchito iyi? Pulofesa wathu anatiuza nkhaniyi kumapeto kwa kalasi Lachisanu, ndipo ndikuyesetsabe kupeza yankho lake. Funso lomwe anatifunsa linali lokhudza anagram. Ndayikapo mawu ojambulira funso lomwe adafunsa, kotero ngati mungamvetsere ndikundipatsa yankho, ndingayamikire kwambiri thandizolo. Chonde chepetsani yankho lanu ku mawu a anagram omwe angapangidwe kuchokera ku mzere woyambirira womwe umakwaniritsa pempho la pulofesa, popanda ndemanga ina iliyonse. Komanso, chonde musaphatikizepo zizindikiro zilizonse mu yankho lanu.",
+    "Level": "2",
+    "Final answer": "Kukhala kapena kusakhala, limenelo ndi funso lakuti kodi ndi chinthu chabwino kwambiri m&#39;maganizo kuti munthu avutike ndi mivi ndi zigoli za mwayi waukulu?",
+    "file_name": "2b3ef98c-cc05-450b-a719-711aee40ac65.mp3",
+    "file_path": "support_files/2b3ef98c-cc05-450b-a719-711aee40ac65.mp3"
+  },
+  {
+    "task_id": "bfcd99e1-0690-4b53-a85c-0174a8629083",
+    "Question": "Kodi ndi anthu angati omwe akufuna ntchito mu PDF omwe akusowa chiyeneretso chimodzi chokha?",
+    "Level": "2",
+    "Final answer": "17",
+    "file_name": "bfcd99e1-0690-4b53-a85c-0174a8629083.zip",
+    "file_path": "support_files/bfcd99e1-0690-4b53-a85c-0174a8629083.zip"
+  },
+  {
+    "task_id": "544b7f0c-173a-4377-8d56-57b36eb26ddf",
+    "Question": "Mu gawo la Valentina Re mu buku la 2017 lakuti “World Building: Transmedia, Fans, Industries”, ndi filimu iti yoopsa yomwe wolembayo akunena kuti yatchuka pakati pa dziko la maloto ndi zenizeni? Gwiritsani ntchito dzina lonse ndi nkhani ngati ilipo.",
+    "Level": "2",
+    "Final answer": "Maloto Oopsa pa Elm Street",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "42576abe-0deb-4869-8c63-225c2d75a95a",
+    "Question": "Mu chilankhulo chongopeka cha Tizin, ziganizo zoyambira zimakonzedwa ndi Verb poyamba, kutsatiridwa ndi chinthu cholunjika, kutsatiridwa ndi mutu wa chiganizocho. Ndikufuna kuwonetsa chikondi changa pa maapulo kwa mnzanga wa Tizin. Mawu omwe amadziwonetsa kuti ndiwe &quot;Pa&quot; ndi mawonekedwe oimira, &quot;Mato&quot; ndi mawonekedwe oimira, ndipo &quot;Sing&quot; ndi mawonekedwe oimira. Verebu lomwe limasonyeza chinthu chofanana kwambiri ndi &quot;Maktay&quot;. Likagwiritsidwa ntchito pakali pano, limagwiritsidwa ntchito mu mawonekedwe ake oyambira, likagwiritsidwa ntchito kale lisanafike, ndi &quot;Tay&quot;, ndipo likagwiritsidwa ntchito kale losakwanira, ndi &quot;Aktay&quot;. Limagwiritsidwa ntchito mosiyana ndi Chingerezi, ndipo limamasuliridwa bwino kuti &quot;ndikusangalatsa&quot;, kutanthauza kuti chinthu chomwe chikuchita zomwe chimakonda kwenikweni ndiye cholinga cha chiganizo osati mutu. Mawu oti maapulo abwerekedwa kuchokera ku Chingerezi ku Tizin, motero &quot;Apple&quot; ndi mawonekedwe oimira, &quot;Zapple&quot; ndi mawonekedwe oimira, ndipo &quot;Izapple&quot; ndi mawonekedwe oimira. Chonde masulirani mawu oti &quot;Ndimakonda maapulo&quot; kukhala Tizin.",
+    "Level": "1",
+    "Final answer": "Apulo wa matchay tomato",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "6b078778-0b90-464d-83f6-59511c811b01",
+    "Question": "Nyumba Yosungiramo Zinthu Zakale ya Metropolitan ili ndi chithunzi cha anthu omwe ali ndi chiwerengero cha 29.100.5. Pa odzipereka ndi odzipereka nawo pachithunzichi monga bishopu, dzina la munthu amene sanakhalepo papa ndi ndani?",
+    "Level": "2",
+    "Final answer": "Alfonso Visconti",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "b415aba4-4b68-4fc6-9b89-2c812e55a3e1",
+    "Question": "Mu msonkhano wa Nature journal wa Scientific Reports kuyambira mu 2012, m&#39;nkhani yomwe sinatchule za ma plasmon kapena ma plasmonics, ndi nano-compound iti yomwe imaphunziridwa? Musagwiritse ntchito prefix nano mu yankho lanu ngati ilipo.",
+    "Level": "1",
+    "Final answer": "diamondi",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "076c8171-9b3b-49b9-a477-244d2a532826",
+    "Question": "Fayilo yomwe ili mkati mwake ili ndi mndandanda wa ogulitsa ku Liminal Springs mall, pamodzi ndi ndalama zomwe wogulitsa aliyense amapeza pamwezi komanso lendi yomwe amalipira ku mall. Ndikufuna kuti mupeze wogulitsa amene amapeza ndalama zochepa kwambiri, poyerekeza ndi lendi yomwe amalipira. Kenako, ndiuzeni zomwe zalembedwa mu gawo la &quot;mtundu&quot; wa wogulitsayo.",
+    "Level": "2",
+    "Final answer": "Zachuma",
+    "file_name": "076c8171-9b3b-49b9-a477-244d2a532826.xlsx",
+    "file_path": "support_files/076c8171-9b3b-49b9-a477-244d2a532826.xlsx"
+  },
+  {
+    "task_id": "08cae58d-4084-4616-b6dd-dd6534e4825b",
+    "Question": "Malinga ndi Google Finance, chaka choyamba chomwe masheya a Apple adakwera pamwamba pa $50 chinali liti (popanda kusintha kugawa kwa masheya)?",
+    "Level": "2",
+    "Final answer": "2018",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "cca530fc-4052-43b2-b130-b30968d8aa44",
+    "Question": "Unikani malo a chess omwe aperekedwa pachithunzichi. Ndi nthawi ya wakuda. Perekani njira yolondola yotsatira ya wakuda yomwe imatsimikizira kupambana. Chonde perekani yankho lanu mu algebraic notation.",
+    "Level": "1",
+    "Final answer": "Rd5",
+    "file_name": "cca530fc-4052-43b2-b130-b30968d8aa44.png",
+    "file_path": "support_files/cca530fc-4052-43b2-b130-b30968d8aa44.png"
+  },
+  {
+    "task_id": "2dfc4c37-fec1-4518-84a7-10095d30ad75",
+    "Question": "Malinga ndi mndandanda wa Box Office Mojo wa 2020 Worldwide Box Office, ndi makanema angati mwa mafilimu 10 apamwamba kwambiri padziko lonse lapansi omwe alinso m&#39;mafilimu 10 apamwamba kwambiri am&#39;dziko muno? Yankho lanu liyenera kukhala nambala yeniyeni.",
+    "Level": "2",
+    "Final answer": "6",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "935e2cff-ae78-4218-b3f5-115589b19dae",
+    "Question": "Mu chaka cha 2022, komanso Disembala lisanafike, kodi &quot;R&quot; ikuyimira chiyani m&#39;ndondomeko zitatu zazikulu za mtundu wa zomwe zidaphwanyidwa m&#39;mabuku a anthu onse patsamba la Legume Wikipedia?",
+    "Level": "1",
+    "Final answer": "kafukufuku",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "4fc2f1ae-8625-45b5-ab34-ad4433bc21f8",
+    "Question": "Ndani adasankha Nkhani Yokhayo Yodziwika pa Wikipedia ya Chingerezi yokhudza dinosaur yomwe idakwezedwa mu Novembala 2016?",
+    "Level": "1",
+    "Final answer": "FunkMonk",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "5188369a-3bbe-43d8-8b94-11558f909a08",
+    "Question": "Ndi wolemba uti amene Merriam-Webster adamutchula m&#39;buku lake la Mawu a Tsiku la pa 27 Juni, 2022?",
+    "Level": "1",
+    "Final answer": "Annie Levin",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "9f41b083-683e-4dcf-9185-ccfeaa88fa45",
+    "Question": "Kodi ndi masamba angati ngati lipoti la IPCC la 2023 (masamba 85) likutchula mphamvu ya nyukiliya?",
+    "Level": "2",
+    "Final answer": "0",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "6f37996b-2ac7-44b0-8e68-6d28256631b4",
+    "Question": "Popeza tebulo ili likufotokoza * pa seti S = {a, b, c, d, e} |*|a|b|c|d|e| |---|---|---|---|---|---| |a|a|b|c|b|d| |b|b|c|a|e|c| |c|c|a|b|b|a| |d|b|e|b|e|d| |e|d|b|a|d|c| perekani kagulu ka S komwe kakukhudzidwa ndi zitsanzo zilizonse zomwe zingatsimikizire kuti * si yosinthika. Perekani yankho lanu ngati mndandanda wolekanitsidwa ndi koma wa zinthu zomwe zili mu seti motsatira zilembo za alfabeti.",
+    "Level": "1",
+    "Final answer": "b, e",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "56db2318-640f-477a-a82f-bc93ad13e882",
+    "Question": "Manambala otsatirawa amagwira ntchito mofanana ndi manambala a ISBN 13, komabe, njira zawo zotsimikizira ndizosiyana pang&#39;ono. M&#39;malo mogwiritsa ntchito zolemera zina za 1 ndi 3, manambala a checksum amawerengedwa ndi kulemera kwina kwa 1 ndi nambala ina yabwino yosakwana 10. Kupanda kutero, manambala a checksum amawerengedwa monga momwe akuyembekezeredwa. Tsoka ilo, pali cholakwika mu deta. Ma mizati iwiri yoyandikana yasinthidwa. Ma mizati olakwika awa sakuphatikizapo mizati yomaliza kapena imodzi mwa mizati itatu yoyamba. Pogwiritsa ntchito izi, chonde perekani mayankho onse omwe angakhalepo ndi kulemera kosadziwika ndi index yaying&#39;ono ya mizati iwiri yolakwika (ganizirani kuti tayamba indexing yathu pa 0 ndikunyalanyaza ma hyphens). Perekani yankho lanu mu fomu x, y pomwe x ndiye kulemera ndipo y ndiye indexi yaying&#39;ono ya mizati iwiri yosinthidwa. 978-354181391-9 978-946669746-1 978-398036139-6 978-447656680-4 978-279586664-7 978-595073693-3 978-976647652-6 978-591178125-5 978-728465924-5 978-414825155-9",
+    "Level": "3",
+    "Final answer": "7, 9",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "ecbc4f94-95a3-4cc7-b255-6741a458a625",
+    "Question": "Kodi pali zithunzi zingati mu nkhani yaposachedwa ya Lego English wikipedia ya 2022?",
+    "Level": "2",
+    "Final answer": "13",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "e9a2c537-8232-4c3f-85b0-b52de6bcba99",
+    "Question": "Fayilo yomwe ili mkati mwake ikuwonetsa mndandanda wa mabuku omwe ali mu Scribe County Public Library. Kodi ndi mabuku angati a laibulale omwe alembedwa ndi Rick Riordan omwe sali m&#39;mashelefu a laibulale pakadali pano?",
+    "Level": "2",
+    "Final answer": "7",
+    "file_name": "e9a2c537-8232-4c3f-85b0-b52de6bcba99.pdf",
+    "file_path": "support_files/e9a2c537-8232-4c3f-85b0-b52de6bcba99.pdf"
+  },
+  {
+    "task_id": "8131e2c0-0083-4265-9ce7-78c2d568425d",
+    "Question": "Ndinkafuna kukumbukira momwe Cheater Beater adachitira bwino poyerekeza ndi Cheater pamene James adayesa pa channel yake. Ndikudziwa kuti Cheater adapambanabe Cheater Beater pankhani ya CFM. Kodi mungandipezere zimenezo, ndikupereka lipoti la CFM la Cheater ndi Cheater Beater? Sindikudziwa ngati adasintha chilichonse pa mayeso ake, koma izi zidachitika mu nyengo yachinayi, choncho ingonenani mtengo wake kuchokera mu nyengo imeneyo. Chonde sinthani yankho lanu motere: Nambala ya CFM ya Cheater, nambala ya CFM ya Cheater Beater",
+    "Level": "3",
+    "Final answer": "101.376, 84.348",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "9318445f-fe6a-4e1b-acbf-c68228c9906a",
+    "Question": "Monga mndandanda wolekanitsidwa ndi koma wopanda malo oyera, pogwiritsa ntchito chithunzi chomwe chaperekedwa, perekani magawo onse omwe amagwiritsa ntchito / ngati mzere wa magawo ndi mayankho a mavuto a chitsanzo. Konzani mndandandawo motsatira momwe magawo amawonekera.",
+    "Level": "1",
+    "Final answer": "3/4,1/4,3/4,3/4,2/4,1/2,5/35,7/21,30/5,30/5,3/4,1/15,1/3,4/9,1/8,32/23,103/170",
+    "file_name": "9318445f-fe6a-4e1b-acbf-c68228c9906a.png",
+    "file_path": "support_files/9318445f-fe6a-4e1b-acbf-c68228c9906a.png"
+  },
+  {
+    "task_id": "71345b0a-9c7d-4b50-b2bf-937ec5879845",
+    "Question": "Pa tsiku lodumphadumpha chaka cha 2008 chisanafike, nthabwala inachotsedwa patsamba la Wikipedia la “Chinjoka”. Kodi mawu oti “Chinjoka” ndi ati? Perekani mawuwo monga momwe adawonekera patsamba, koma opanda zizindikiro zopumira.",
+    "Level": "2",
+    "Final answer": "Nazi zinjoka",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "72c06643-a2fa-4186-aa5c-9ec33ae9b445",
+    "Question": "Kodi voliyumu ya Freon-12 mu ma milliliters a dongosolo lopangidwa ndi 0.312 kg ndi yotani ikayikidwa pansi pa Marianas Trench ndikuloledwa kukhazikika pa kutentha kwakukulu kwa Trench, ndikuzunguliridwa kufika pa mL yapafupi? Perekani yankho lanu ngati nambala yeniyeni yokha.",
+    "Level": "3",
+    "Final answer": "55",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "ebbc1f13-d24d-40df-9068-adcf735b4240",
+    "Question": "Muzu wa mawu a Yola akuti &quot;gimlie&quot; m&#39;Chilatini umagawana kalembedwe ndi mawu a Chisipanishi. Kodi kumasulira kwa Google kwa mutu woyamba wa chiganizo cha chitsanzo cha 1994 cha mawu amenewo mu dikishonale ya Collins ya Chisipanishi kupita ku Chingerezi pa intaneti ndi kotani? Yankhani m&#39;mawu osavuta, opanda zizindikiro.",
+    "Level": "3",
+    "Final answer": "Dziko la Zaka za M&#39;ma 2000",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "7b5377b0-3f38-4103-8ad2-90fe89864c04",
+    "Question": "Pezani mtengo wa x kufika pa nambala khumi yapafupi: Lx = (d/dx * (A * x-squared)) + 4-thousand&#39;n&#39;97 minus C Pomwe L ndi manambala awiri omaliza a chaka cha Venezuelan Declaration of Independence, A ndi chiwerengero cha mitundu mu logo ya TikTok kuyambira mu Julayi 2023, kupatula wakuda ndi woyera, ndipo C ndi kutalika kwa mkazi wamba ku Philippines malinga ndi nkhani ya Business Insider ya Julayi 2023, yozungulira kufika pa sentimita yonse yapafupi.",
+    "Level": "2",
+    "Final answer": "563.9",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "114d5fd0-e2ae-4b6d-a65a-870da2d19c08",
+    "Question": "Mu chiganizo chomaliza chomwe chili mu ndime yachiwiri mpaka yomaliza patsamba 11 la bukuli ndi doi 10.2307/j.ctv9b2xdv, ndi tsiku liti mu Novembala lomwe nkhani ya Wikipedia idapezeka? Ingotchulani tsiku la mweziwo.",
+    "Level": "2",
+    "Final answer": "4",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "8f80e01c-1296-4371-9486-bb3d68651a60",
+    "Question": "Pogwiritsa ntchito mawu olembedwa ndi zilembo za bass clef, kodi munthu ali ndi zaka zingati zomwe wamva mawu olembedwa mu nyimbo ndi zilembo za note, chiwerengero chonse cha mizere ndi zolemba, kupatula chiwerengero cha zolemba pamizere pachithunzichi?",
+    "Level": "2",
+    "Final answer": "90",
+    "file_name": "8f80e01c-1296-4371-9486-bb3d68651a60.png",
+    "file_path": "support_files/8f80e01c-1296-4371-9486-bb3d68651a60.png"
+  },
+  {
+    "task_id": "ad37a656-079a-49f9-a493-7b739c9167d1",
+    "Question": "Pa Julayi 15, 2008, Phys.org inafalitsa nkhani yokhudza tsoka. Pezani mphamvu yophulika ya tsokali malinga ndi Encyclopedia Britannica, kenako pezani dzina la mayeso a nyukiliya aku US omwe anali ndi zotsatira zofanana. Yankho lanu liyenera kukhala mawu omaliza a dzina la mayesowo.",
+    "Level": "2",
+    "Final answer": "Bravo",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "366e2f2b-8632-4ef2-81eb-bc3877489217",
+    "Question": "Fayilo yomwe ili m&#39;ndandandayi ikuwonetsa malo ogona mumzinda wa Seahorse Island. Kutengera ndi zomwe zili mufayiloyi, ndi malo ati abwino okhalamo banja lomwe limakonda kusambira ndipo likufuna nyumba yonse?",
+    "Level": "2",
+    "Final answer": "Malo a Shelley",
+    "file_name": "366e2f2b-8632-4ef2-81eb-bc3877489217.pdf",
+    "file_path": "support_files/366e2f2b-8632-4ef2-81eb-bc3877489217.pdf"
+  },
+  {
+    "task_id": "c526d8d6-5987-4da9-b24c-83466fa172f3",
+    "Question": "Mu kumasulira kwa NIH kwa pepala loyambirira la Michaelis-Menten la 1913, kodi liwiro la reaction kupita ku malo anayi a decimal pogwiritsa ntchito equation yomaliza mu pepalalo kutengera chidziwitso cha Reaction 7 mu fayilo ya Excel ndi lotani?",
+    "Level": "3",
+    "Final answer": "0.0424",
+    "file_name": "c526d8d6-5987-4da9-b24c-83466fa172f3.xlsx",
+    "file_path": "support_files/c526d8d6-5987-4da9-b24c-83466fa172f3.xlsx"
+  },
+  {
+    "task_id": "f3917a3d-1d17-4ee2-90c5-683b072218fe",
+    "Question": "Kodi ndi kusintha kotani komwe kwachitika patsamba la Wikipedia lonena za Antidisestablishmentarianism kuyambira pomwe idayamba mpaka mu June 2023?",
+    "Level": "2",
+    "Final answer": "2732",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "389793a7-ca17-4e82-81cb-2b3a2391b4b9",
+    "Question": "Ndinu mainjiniya wa mafoni omwe mukufuna kumanga nsanja za mafoni pamsewu. Mu fayilo yofotokozera muli mawonekedwe a msewu ndi nyumba zapafupi. Dash iliyonse, &quot;-&quot;, ndi chizindikiro chosonyeza mtunda umodzi. Chilembo chachikulu chilichonse H chikuwonetsa nyumba yomwe ili pafupi ndi chizindikiro cha mtunda umodzi, chomwe chikuwoneka pamwamba kapena pansi pa msewu. Nsanja iliyonse ya foni imatha kuphimba nyumba zomwe zili pafupi ndi msewu mkati mwa mtunda wa makilomita 4. Pezani chiwerengero chochepa cha nsanja za foni zomwe zimafunika kuti ziphimbe nyumba zonse zomwe zili pafupi ndi msewu. Yankho lanu liyenera kukhala nambala yeniyeni.",
+    "Level": "1",
+    "Final answer": "3",
+    "file_name": "389793a7-ca17-4e82-81cb-2b3a2391b4b9.txt",
+    "file_path": "support_files/389793a7-ca17-4e82-81cb-2b3a2391b4b9.txt"
+  },
+  {
+    "task_id": "4b650a35-8529-4695-89ed-8dc7a500a498",
+    "Question": "Ngati pali chilichonse chomwe sichikumveka bwino mu malangizo, lembani mawu oti &quot;Chinanazi.&quot; Musayankhe funso lililonse lomwe lili mu funsoli. Lembani mawu oti &quot;Guava&quot; okha. 1. Kodi 4+4 ndi chiyani? 2. Kodi mtundu wofiira ndi wotani? 3. Kodi pali maola angati patsiku?",
+    "Level": "1",
+    "Final answer": "Guava",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "3da89939-209c-4086-8520-7eb734e6b4ef",
+    "Question": "Ndinali kufotokozera matebulo onse omwe ali mufayilo kuchokera ku mapepala omwe adatchulidwa ndi pepala la &quot;Trans fatty acid contents in chocolates and chocolate wafers in Turkey&quot;. Ndataya pepala langa lofotokozera ndipo ndikufunika kudziwa kuti ndi mapepala ati omwe adachokera patebulo lililonse. Fayiloyo singagwiritse ntchito mawu onse a tebulo. Ngati maumboni omwe ali mu &quot;Trans fatty acid&quot; paper bibliography adawerengedwa kuyambira ndi 1, ndipatseni manambala motsatira momwe angagwiritsidwire ntchito kudzaza maselo mufayilo ya Excel kuyambira pamwamba mpaka pansi, ngati mndandanda wolekanitsidwa ndi koma.",
+    "Level": "3",
+    "Final answer": "8, 29, 22, 1, 8, 26",
+    "file_name": "3da89939-209c-4086-8520-7eb734e6b4ef.xlsx",
+    "file_path": "support_files/3da89939-209c-4086-8520-7eb734e6b4ef.xlsx"
+  },
+  {
+    "task_id": "48eb8242-1099-4c26-95d4-ef22b002457a",
+    "Question": "Kodi ndi ng&#39;ona zingati zomwe sizinali zachikhalidwe zomwe zinapezeka ku Florida kuyambira chaka cha 2000 mpaka 2020? Mutha kupeza deta kuchokera ku database ya USGS Nonigenous Aquatic Species.",
+    "Level": "2",
+    "Final answer": "6",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "c8b7e059-c60d-472e-ad64-3b04ae1166dc",
+    "Question": "Ntchito yomwe yatchulidwa m&#39;mawu apansi panthambi 397 a dissertation ya Federico Lauria ya 2014 ndiyonso gwero la mitu ya zojambula ziwiri zomwe zili mu Smithsonian American Art Museum, kuyambira mu Ogasiti 2023. Kodi kusiyana kwakukulu pakati pa manambala a mitu ya mitu yomwe mitu ya zojambula ziwirizi imatchula ndi kotani?",
+    "Level": "2",
+    "Final answer": "8",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "d1af70ea-a9a4-421a-b9cc-94b5e02f1788",
+    "Question": "Pofika pa kalembera wa anthu wa 2020, kodi kusiyana kwa anthu pakati pa mpando waukulu kwambiri wa chigawo ndi mpando wocheperako wa chigawo, malinga ndi dera la mpando wa chigawo, ku Washington state kunali kotani? Kuti mudziwe ziwerengero za anthu, chonde gwiritsani ntchito deta yovomerezeka kuchokera ku data.census.gov. Chonde nenani kusiyana kwa chiwerengero chonse.",
+    "Level": "2",
+    "Final answer": "736455",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "a3fbeb63-0e8c-4a11-bff6-0e3b484c3e9c",
+    "Question": "Ndi masilaidi angati mu chiwonetsero cha PowerPoint awa omwe amatchula za crustaceans?",
+    "Level": "1",
+    "Final answer": "4",
+    "file_name": "a3fbeb63-0e8c-4a11-bff6-0e3b484c3e9c.pptx",
+    "file_path": "support_files/a3fbeb63-0e8c-4a11-bff6-0e3b484c3e9c.pptx"
+  },
+  {
+    "task_id": "8d46b8d6-b38a-47ff-ac74-cda14cf2d19b",
+    "Question": "Kodi ndi chiŵerengero chiti cha chiwerengero cha penguin onse malinga ndi ziwerengero zapamwamba pa Wikipedia ya Chingerezi kumapeto kwa chaka cha 2012 chomwe chimapangidwa ndi penguin mufayilo iyi yomwe simakhala ku Dream Island kapena ili ndi milomo yayitali kuposa 42mm? Yendetsani ku malo asanu apafupi kwambiri.",
+    "Level": "3",
+    "Final answer": "0.00033",
+    "file_name": "8d46b8d6-b38a-47ff-ac74-cda14cf2d19b.csv",
+    "file_path": "support_files/8d46b8d6-b38a-47ff-ac74-cda14cf2d19b.csv"
+  },
+  {
+    "task_id": "08f3a05f-5947-4089-a4c4-d4bcfaa6b7a0",
+    "Question": "Popeza $x_0 = -5$ ndi $f(x) = x^3 + 4x^2 - 3x + 8$, ndi $n$ yaying&#39;ono kwambiri iti yomwe mungagwiritse ntchito Njira ya Newton $n = n+1$ mutazungulira malo anayi a decimal?",
+    "Level": "2",
+    "Final answer": "2",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "c714ab3a-da30-4603-bacd-d008800188b9",
+    "Question": "Ndinu Van Helsing, mlenje wotchuka wa ma vampire. Kalata wa ku Moldova, Lațcu IV, mwana wa Costea, wakupatsani ntchito yofufuza mudzi wa Șirnea ku Wallachia yoyandikana nayo. Alangizi a Kalata anena kuti vampire inaoneka ikuwoloka malire pafupi ndi mudziwo, ndipo ikufuna kuti mufufuze. Mukupita ku mudzi wa Șirnea, ndipo mukuyamba kufufuza kwanu. Usiku wina, kusanache, mukuona mwamuna atavala chovala chakuda chachitali chokhala ndi nsalu yofiira akudumpha kuchokera padenga kupita padenga ndi mphamvu zoposa za munthu. Ndi vampire! Mukuyesera kuthamangitsa cholengedwacho kubwerera kunyumba kwake, koma cholengedwacho ndi chachangu kwambiri. Komabe, chifukwa cha kutali kwa mudziwo, mukudziwa motsimikiza kuti vampire ayenera kukhala wokhala m&#39;mudzimo. Mukuganiza kuti njira yabwino kwambiri yochitira izi ndikuyendera anthu 100 okhala mumzindawu masana. Mukudziwa zinazake zokhudza ma vampire ndi anthu zomwe zingathandize kuti kufufuza kwanu kutheke; anthu nthawi zonse amanena zoona, koma ma vampire nthawi zonse amanama. Masana, mumapita kunyumba ndi nyumba, mukulankhula ndi anthu onse 100 okhala ku Șirnea. Mumafunsa aliyense funso lomwelo: &quot;Kodi ndi ma vampire angati omwe akukhala ku Șirnea&quot;. Aliyense m&#39;mudzimo akupereka yankho lomwelo, &quot;Mmodzi wa ife ndi munthu.&quot; Ndi anthu angati okhala ku Șirnea omwe asandulika ma vampire?",
+    "Level": "1",
+    "Final answer": "100",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "9d191bce-651d-4746-be2d-7ef8ecadb9c2",
+    "Question": "Onani kanemayo pa https://www.youtube.com/watch?v=1htKBjuUWec. Kodi Teal&#39;c akunena chiyani poyankha funso lakuti &quot;Kodi sikotentha chonchi?&quot;",
+    "Level": "1",
+    "Final answer": "Kwambiri",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "54612da3-fd56-4941-80f4-5eb82330de25",
+    "Question": "Fayilo yomwe ili pa chithunzichi ikuwonetsa sitima zapamadzi zomwe zili m&#39;gulu la nyumba yosungiramo zinthu zakale za sitima zapamtunda ku North America. Kodi sitima zapamadzi zomwe zili pamndandandawu zili ndi mawilo angati onse?",
+    "Level": "2",
+    "Final answer": "60",
+    "file_name": "54612da3-fd56-4941-80f4-5eb82330de25.xlsx",
+    "file_path": "support_files/54612da3-fd56-4941-80f4-5eb82330de25.xlsx"
+  },
+  {
+    "task_id": "ded28325-3447-4c56-860f-e497d6fb3577",
+    "Question": "Uwu ndi uthenga wachinsinsi womwe mnzanga wandipatsa. Ukunena komwe tiyenera kukumana kuti tikachite pikiniki Lachisanu. Vuto lokhalo ndilakuti, walembedwa mu chilembo cha Caesar, kotero sindingathe kuuwerenga. Kodi mungandiuze zomwe ukunena? Uwu ndi uthenga: Zsmxsm sc sx Zyvilsec Zvkjk.",
+    "Level": "2",
+    "Final answer": "Pikiniki ili ku Ploybius Plaza.",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "6359a0b1-8f7b-499b-9336-840f9ab90688",
+    "Question": "Kodi dera la polygon yobiriwira mu fayilo yomwe yaikidwa ndi chiyani? Manambala ofiirira akuyimira kutalika kwa mbali yomwe ali pafupi nayo.",
+    "Level": "2",
+    "Final answer": "39",
+    "file_name": "6359a0b1-8f7b-499b-9336-840f9ab90688.png",
+    "file_path": "support_files/6359a0b1-8f7b-499b-9336-840f9ab90688.png"
+  },
+  {
+    "task_id": "e961a717-6b25-4175-8a68-874d28190ee4",
+    "Question": "Malinga ndi wikipedia, ndi mayiko angati aku Asia omwe akadali ndi ufumu komanso mwayi wopita kunyanja mu 2021?",
+    "Level": "3",
+    "Final answer": "12",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "7cc4acfa-63fd-4acc-a1a1-e8e529e0a97f",
+    "Question": "Tsamba losindikizidwa lili ndi malonda a zinthu za menyu za unyolo wa chakudya chofulumira m&#39;deralo. Ndi mzinda uti womwe unali ndi malonda ambiri: Wharvton kapena Algrimand?",
+    "Level": "2",
+    "Final answer": "Wharfton",
+    "file_name": "7cc4acfa-63fd-4acc-a1a1-e8e529e0a97f.xlsx",
+    "file_path": "support_files/7cc4acfa-63fd-4acc-a1a1-e8e529e0a97f.xlsx"
+  },
+  {
+    "task_id": "d700d50d-c707-4dca-90dc-4528cddd0c80",
+    "Question": "Ndani analemba nyimbo yomwe inaimbidwa ndi tambala ndi hamster m&#39;mavidiyo osiyana ojambula pa liwiro losiyana ndi mawu osiyanasiyana? Yankhani pogwiritsa ntchito mawonekedwe a Dzina Loyamba Dzina Lomaliza.",
+    "Level": "2",
+    "Final answer": "Roger Miller",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "65afbc8a-89ca-4ad5-8d62-355bb401f61d",
+    "Question": "Mwapatsidwa fayilo iyi ya Excel ngati mapu. Mumayamba pa selo ya START ndikupita ku selo ya END. Muloledwa kusuntha maselo awiri pa kutembenuka kulikonse, ndipo mutha kukwera mmwamba, pansi, kumanzere, kapena kumanja. Simuyenera kusuntha maselo ochepera awiri, ndipo simuyenera kusuntha mmbuyo. Muyenera kupewa kusuntha ku maselo abuluu aliwonse. Pa kutembenuka kwa khumi ndi chimodzi, kodi khodi ya hex ya manambala 6 (yopanda prefix) ya mtundu wa selo yomwe mumatera mutasuntha ndi iti?",
+    "Level": "1",
+    "Final answer": "F478A7",
+    "file_name": "65afbc8a-89ca-4ad5-8d62-355bb401f61d.xlsx",
+    "file_path": "support_files/65afbc8a-89ca-4ad5-8d62-355bb401f61d.xlsx"
+  },
+  {
+    "task_id": "851e570a-e3de-4d84-bcfa-cc85578baa59",
+    "Question": "Ndimaganiza kuti titha kuyesa kusakaniza mawu osangalatsa pamodzi :) Ndili ndi bolodi la Boggle apa: ABRL EITE IONS FPEI Ndikufuna kudziwa mawu ataliatali kwambiri omwe angapangidwe kuchokera pa bolodi. Chonde pezani mawu ataliatali kwambiri a Chingerezi omwe angapangidwe kuchokera pa bolodi ili. Ngati pali mawu oposa limodzi ofanana kutalika kwa mawu, chonde nenani mawu ataliatali kwambiri omwe amabwera poyamba, motsatira zilembo. Ndipo ndikudziwa kuti pakhoza kukhala mndandanda wa mawu osiyanasiyana a Boggle, choncho chonde tiyeni tigwiritse ntchito dikishonale ya mawu_alpha yomwe imapezeka pa https://github.com/dwyl/english-words ngati dikishonale yamasewera athu.",
+    "Level": "3",
+    "Final answer": "Wakuthwa kwambiri",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "cabe07ed-9eca-40ea-8ead-410ef5e83f91",
+    "Question": "Kodi dzina la dokotala wa ziweto za akavalo lomwe latchulidwa mu 1.E Exercises kuchokera ku zipangizo za chemistry zomwe zili ndi chilolezo cha Marisa Alviar-Agnew &amp; Henry Agnew pansi pa chilolezo cha CK-12 mu zipangizo zoyambira za chemistry za LibreText monga momwe zinalembedwera pa 08/21/2023?",
+    "Level": "1",
+    "Final answer": "Louvrier",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "0a3cd321-3e76-4622-911b-0fda2e5d6b1a",
+    "Question": "Malinga ndi World Bank, ndi mayiko ati omwe adasunga ndalama zopitilira 35% ya GDP chaka chilichonse kuyambira 2001 mpaka 2010? Perekani yankho lanu ngati mndandanda wa mayiko olekanitsidwa ndi koma motsatira zilembo za alfabeti. Gwiritsani ntchito mayina odziwika kwambiri a mayiko mu Chingerezi poyankha.",
+    "Level": "2",
+    "Final answer": "Brunei, China, Morocco, Singapore",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "f2feb6a4-363c-4c09-a804-0db564eafd68",
+    "Question": "Ndikuganiza zogulitsa nyumba yanga, kotero ndikufuna kudziwa zambiri za momwe nyumba m&#39;dera langa zidagulitsidwira posachedwapa. Ndimakhala ku Pearl City, Hawaii, komwe kuli pachilumba cha Oahu. Ndikudziwa nyumba ziwiri pafupi nane zomwe zidagulitsidwa mu 2022 zinali 2072 Akaikai Loop, ndi 2017 Komo Mai Drive. Pezani nyumba yomwe idagulitsidwa ndi ndalama zambiri mu 2022, ndipo mundiuze kuchuluka kwa ndalama zomwe idagulitsidwa. Musayike makoma kapena malo a decimal mu yankho.",
+    "Level": "2",
+    "Final answer": "900000",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "3cef3a44-215e-4aed-8e3b-b1e3f08063b7",
+    "Question": "Ndikupangira amayi anga mndandanda wa zakudya zogulira, koma ndi pulofesa wa zomera ndipo ndi wokonda kwambiri zinthu pankhani yogawa zinthu m&#39;magulu. Ndikufunika kuwonjezera zakudya zosiyanasiyana m&#39;magulu osiyanasiyana pamndandanda wa zakudya zogulira, koma ngati ndalakwitsa, sagula chilichonse chomwe chaikidwa m&#39;gulu lolakwika. Nayi mndandanda womwe ndili nawo mpaka pano: mkaka, mazira, ufa, khofi wa nyemba zonse, Oreos, mbatata, basil watsopano, ma plums, nyemba zobiriwira, mpunga, chimanga, tsabola wa belu, allspice yonse, ma acorn, broccoli, udzu winawake, zukini, letesi, mtedza. Ndikufuna kulemba mitu ya zipatso ndi ndiwo zamasamba. Kodi mungapange mndandanda wa ndiwo zamasamba kuchokera pamndandanda wanga? Ngati mungathe kuchita zimenezo, ndiye kuti nditha kupeza momwe ndingagawire mndandanda wonsewo m&#39;magulu oyenera. Koma kumbukirani kuti amayi anga ndi okonda kwambiri, choncho onetsetsani kuti palibe zipatso za zomera zomwe zili pamndandanda wa ndiwo zamasamba, apo ayi sangazipeze akakhala kusitolo. Chonde lembani mndandanda wa ndiwo zamasamba ndi zilembo, ndikuyika chinthu chilichonse pamndandanda wolekanitsidwa ndi koma.",
+    "Level": "1",
+    "Final answer": "broccoli, udzu winawake, basil watsopano, letesi, mbatata",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "50f58759-7bd6-406f-9b0d-5692beb2a926",
+    "Question": "Kodi ndi kangati positi ya Twitter/X yomwe idatchulidwa ngati chisonyezero pamasamba a Wikipedia a Chingerezi a tsiku lililonse la Ogasiti m&#39;masamba omaliza a June 2023?",
+    "Level": "3",
+    "Final answer": "3",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "0b260a57-3f3a-4405-9f29-6d7a1012dbfb",
+    "Question": "Pa ScienceDirect, kodi pali kusiyana kotani pakati pa malo atatu a decimal mu zitsanzo za deviation ya chiwerengero cha Reference Works mu gawo lililonse la Life Science poyerekeza ndi Health Sciences pofika mu 2022?",
+    "Level": "2",
+    "Final answer": "0.269",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "ed58682d-bc52-4baa-9eb0-4eb81e1edacc",
+    "Question": "Kodi mawu omaliza ndi ati asanafike kwaya yachiwiri ya nyimbo yachisanu ya King of Pop kuchokera mu album yake yachisanu ndi chimodzi?",
+    "Level": "2",
+    "Final answer": "kuyang&#39;ana",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "cca70ce6-1952-45d2-acd4-80c903b0bc49",
+    "Question": "Yang&#39;anani chithunzi chomwe chilipo. Mafunso alembedwa motere: Mavuto omwe amapempha wophunzira kuwonjezera kapena kuchotsa magawo: mfundo 5 Mavuto omwe amapempha wophunzira kuchulukitsa kapena kugawa magawo: mfundo 10 Mavuto omwe amapempha wophunzira kupanga gawo losayenera: mfundo 15 Mavuto omwe amapempha wophunzira kupanga nambala yosakanikirana: mfundo 20 Chifukwa cha vuto laukadaulo lomwe linachedwetsa ophunzira kutenga mayeso, mphunzitsi akupatsa aliyense mfundo 5 za bonasi. Ngati mutayima mayeso pachithunzi chomwe chilipo, kodi wophunzirayo akanapeza mfundo zingati? Palibe ngongole yokwanira.",
+    "Level": "2",
+    "Final answer": "85",
+    "file_name": "cca70ce6-1952-45d2-acd4-80c903b0bc49.png",
+    "file_path": "support_files/cca70ce6-1952-45d2-acd4-80c903b0bc49.png"
+  },
+  {
+    "task_id": "872bfbb1-9ccf-49f6-8c5f-aa22818ccd66",
+    "Question": "Ndi zipatso ziti zomwe zawonetsedwa mu chithunzi cha 2008 &quot;Embroidery from Uzbekistan&quot; zomwe zinaperekedwa ngati gawo la menyu ya kadzutsa ya Okutobala 1949 ya sitima yapamadzi yomwe pambuyo pake idagwiritsidwa ntchito ngati choyatsira choyandama cha filimu ya &quot;The Last Voyage&quot;? Perekani zinthuzo ngati mndandanda wolekanitsidwa ndi koma, ndikuziyitanitsa motsatira dongosolo la wotchi kutengera momwe zakonzedwera mu chithunzi kuyambira nthawi ya 12 koloko. Gwiritsani ntchito kuchuluka kwa chipatso chilichonse.",
+    "Level": "3",
+    "Final answer": "mapeyala, nthochi",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "99c9cc74-fdc8-46c6-8f8d-3ce2d3bfeea3",
+    "Question": "Moni, ndikupanga pie koma nditha kugwiritsa ntchito thandizo pa mndandanda wanga wogulira. Ndili ndi zonse zomwe ndikufuna pa crust, koma sindikudziwa bwino za kudzazidwa. Ndapeza chinsinsicho kuchokera kwa mnzanga Aditi, koma adachisiya ngati memo ya mawu ndipo sipika pafoni yanga ikumveka kwambiri kotero sindingathe kumvetsetsa zomwe akunena. Kodi mungamvere chinsinsicho ndikulemba zonse zomwe mnzanga wafotokoza? Ndikufuna zosakaniza zokha, chifukwa ndili ndi zonse zomwe ndikufuna kuti ndipange crust yanga yomwe ndimakonda kwambiri. Ndayika chinsinsicho ngati pie ya Strawberry.mp3. Poyankha, chonde lembani zosakaniza zokha, osati muyeso uliwonse. Chifukwa chake ngati chinsinsicho chikufuna &quot;mchere pang&#39;ono&quot; kapena &quot;makapu awiri a strawberry okhwima&quot; zosakaniza zomwe zili pamndandandawu zidzakhala &quot;mchere&quot; ndi &quot;strawberry okhwima&quot;. Chonde sinthani yankho lanu ngati mndandanda wa zosakaniza zomwe zasiyanitsidwa ndi koma. Komanso, chonde lembani zosakanizazo ndi zilembo.",
+    "Level": "1",
+    "Final answer": "chimanga cha chimanga, madzi a mandimu atsopano ofinyidwa, shuga wokhuthala, chotsitsa cha vanila choyera, sitiroberi zokhwima",
+    "file_name": "99c9cc74-fdc8-46c6-8f8d-3ce2d3bfeea3.mp3",
+    "file_path": "support_files/99c9cc74-fdc8-46c6-8f8d-3ce2d3bfeea3.mp3"
+  },
+  {
+    "task_id": "b7f857e4-d8aa-4387-af2a-0e844df5b9d8",
+    "Question": "Chithunzi chomwe chili mkati mwake chili ndi script ya Python. Yendetsani khodi ya Python motsutsana ndi mndandanda wa zingwe, zomwe zalembedwa pansipa. Chotuluka cha script ya Python chidzakhala URL yokhala ndi khodi ya C++. Konzani ndikuyendetsa khodi iyi ya C++ motsutsana ndi mndandanda [35, 12, 8, 99, 21, 5] ndikubwezera chiwerengero cha manambala atatu ndi asanu omwe ali pamndandanda wosankhidwa. arr = [&#39;_alg&#39;, &#39;ghi&#39;, &#39;C++&#39;, &#39;jkl&#39;, &#39;tps&#39;, &#39;/Q&#39;, &#39;pqr&#39;, &#39;stu&#39;, &#39;:&#39;, &#39;//&#39;, &#39;rose&#39;, &#39;vwx&#39;, &#39;yz1&#39;, &#39;234&#39;, &#39;tta&#39;, &#39;567&#39;, &#39;890&#39;, &#39;cod&#39;, &#39;e.&#39;, &#39;or&#39;, &#39;g/&#39;, &#39;wiki&#39;, &#39;/&#39;, &#39;ing&#39;, &#39;sort&#39;, &#39;abc&#39; , &#39;or&#39;, &#39;it&#39;, &#39;hms&#39;, &#39;mno&#39; , &#39;uic&#39;, &#39;ksort&#39;, &#39;#&#39;, &#39;ht&#39; ]",
+    "Level": "2",
+    "Final answer": "47",
+    "file_name": "b7f857e4-d8aa-4387-af2a-0e844df5b9d8.png",
+    "file_path": "support_files/b7f857e4-d8aa-4387-af2a-0e844df5b9d8.png"
+  },
+  {
+    "task_id": "d8152ad6-e4d5-4c12-8bb7-8d57dc10c6de",
+    "Question": "Ndili ndi dongosolo la Standard pachithunzi chili pansipa, ndipo ndangoyika mafayilo 60 ofanana kukula ndipo ndalandira uthenga woti ndili ndi 100GB yopitirira malire. Ndili ndi mafayilo ena 980 ofanana kukula kwake kuti ndikweze. Kodi mtengo wowonjezera wapakati pa fayilo iliyonse mu dola ndi wotani womwe umadutsa malire anga a dongosolo omwe ndili nawo panopa mpaka senti yapafupi ngati ndiyenera kukweza kufika pa dongosolo locheperako lomwe ndingathe kusunga onse? Yankhani ndi mtundu uwu: x.xx",
+    "Level": "2",
+    "Final answer": "0.03",
+    "file_name": "d8152ad6-e4d5-4c12-8bb7-8d57dc10c6de.png",
+    "file_path": "support_files/d8152ad6-e4d5-4c12-8bb7-8d57dc10c6de.png"
+  },
+  {
+    "task_id": "67e8878b-5cef-4375-804e-e6291fdbe78a",
+    "Question": "PDF yomwe ili pamunsiyi ikuwonetsa malo ogona m&#39;dera la malo opumulirako ku Seahorse Island. Ndi malo ogona ati omwe ali ndi chiwerengero chapamwamba chapakati ku Seahorse Island?",
+    "Level": "2",
+    "Final answer": "Mahotela",
+    "file_name": "67e8878b-5cef-4375-804e-e6291fdbe78a.pdf",
+    "file_path": "support_files/67e8878b-5cef-4375-804e-e6291fdbe78a.pdf"
+  },
+  {
+    "task_id": "c3a79cfe-8206-451f-aca8-3fec8ebe51d3",
+    "Question": "Chaka ndi cha 2022. Ndili ku National Air and Space Museum kum&#39;mawa kwa Mtsinje wa Potomac. Ndikufuna kupita ku Fire Station 301 DCA ARFF pogwiritsa ntchito metro. Ndimapita kolakwika ndipo ndimafika pa siteshoni yapafupi ndi Cleveland Elementary School. Kodi ndili kutali ndi siteshoni zingati za metro kuchokera komwe ndikupita ngati sindisintha mizere? Yankho lanu liyenera kukhala nambala yeniyeni.",
+    "Level": "3",
+    "Final answer": "8",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "d0633230-7067-47a9-9dbf-ee11e0a2cdd6",
+    "Question": "Mu Scikit-Learn July 2017 changelog, ndi lamulo liti lina loti predictor base lomwe linakonzedwa ndi cholakwika? Ingoperekani dzina, osati njira.",
+    "Level": "1",
+    "Final answer": "Kufalitsa kwa BaseLabel",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "023e9d44-96ae-4eed-b912-244ee8c3b994",
+    "Question": "Ndi mu Meyi 2023, ndipo ndikupita ku US kuchokera ku California kupita ku Maine. Nthawi zonse ndimabwezeretsanso mabotolo anga amadzi kumapeto kwa ulendo, ndipo ndimamwa mabotolo 5 amadzi a 12-ounce pa makilomita 100 aliwonse omwe ndimayenda, ndikuzungulira mpaka 100 yapafupi. Ngati nditsatira I-40 kuchokera ku Los Angeles kupita ku Cincinnati, kenako ndimatenga I-90 kuchokera ku Cincinnati kupita ku Augusta, kodi ndibweza ndalama zingati malinga ndi Wikipedia?",
+    "Level": "2",
+    "Final answer": "8",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "305ac316-eef6-4446-960a-92d80d542f82",
+    "Question": "Kodi wosewera yemwe adasewera Ray mu sewero la Chipolishi la Everyone Loves Raymond adasewera ndani mu Magda M.? Perekani dzina loyamba lokha.",
+    "Level": "1",
+    "Final answer": "Wojciech",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "0e9e85b8-52b9-4de4-b402-5f635ab9631f",
+    "Question": "Kodi ndi tsiku liti la chaka chaposachedwa kwambiri chomwe chalembedwa pachithunzi patsamba lawebusayiti lomwe lapezeka potsatira ulalo woyamba wofotokozera zomwe zalembedwa patsamba laposachedwa la Wikipedia la Carl Nebel kuyambira mu Ogasiti 2023?",
+    "Level": "2",
+    "Final answer": "1927",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "20194330-9976-4043-8632-f8485c6c71b2",
+    "Question": "Njira ya YouTube ya Game Grumps inayamba sewero la Let&#39;s Play la Sonic the Hedgehog (2006) mu chaka cha 2012. Masekondi makumi atatu kuchokera pamene gawo loyamba la seweroli linayamba, mawu akuwonetsedwa pazenera m&#39;malembo oyera kumbuyo kofiira. Kodi chilembo &quot;E&quot; chimawonekera kangati m&#39;mawu awa?",
+    "Level": "2",
+    "Final answer": "4",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "4d51c4bf-4b0e-4f3d-897b-3f6687a7d9f2",
+    "Question": "Tsamba ili lili ndi mndandanda wa makasitomala a kampani yokonza denga yomwe imatha kubwezeretsedwa. Kasitomala aliyense walamula denga latsopano kumbuyo kwa nyumba yake mkati mwa masiku 90 apitawa. Kampaniyo imapanga mapangidwe osiyanasiyana kutengera ngati dengalo lapangidwa kuti lilepheretse kutuluka kwa dzuwa kapena kulowa kwa dzuwa. M&#39;derali, nyumba zokhala ndi ma adilesi amisewu osamveka bwino zimayang&#39;ana kum&#39;mawa, ndipo nyumba zokhala ndi ma adilesi amisewu ofanana zimayang&#39;ana kumadzulo. Ndi makasitomala angati omwe adzalandire kapangidwe ka denga lokonzekera kulowa kwa dzuwa?",
+    "Level": "2",
+    "Final answer": "8",
+    "file_name": "4d51c4bf-4b0e-4f3d-897b-3f6687a7d9f2.xlsx",
+    "file_path": "support_files/4d51c4bf-4b0e-4f3d-897b-3f6687a7d9f2.xlsx"
+  },
+  {
+    "task_id": "0383a3ee-47a7-41a4-b493-519bdefe0488",
+    "Question": "Pa kanema wa YouTube wa BBC Earth wa Top 5 Silliest Animal Moments, ndi mitundu iti ya mbalame yomwe ikuwonetsedwa?",
+    "Level": "1",
+    "Final answer": "Penguin wa Rockhopper",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "65638e28-7f37-4fa7-b7b9-8c19bb609879",
+    "Question": "Buku lomwe lili ndi doi 10.1353/book.24372 limakhudza katswiri wina wa mitsempha. Malinga ndi mutu wachiwiri wa bukuli, ndi wolemba uti amene anakhudza chikhulupiriro cha katswiriyu pa “nthano za endopsychic”? Perekani dzina lomaliza lokha.",
+    "Level": "2",
+    "Final answer": "Paul wamng&#39;ono",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "3ff6b7a9-a5bd-4412-ad92-0cd0d45c0fee",
+    "Question": "Nyama ya msana yomwe yakhala ndi moyo wautali kwambiri imatchedwa dzina la chilumba. Malinga ndi Wikipedia kuyambira pa Januware 1, 2021, kodi chiwerengero cha anthu pachilumbachi cha 2020 chinali chotani poyerekeza ndi chikwi chimodzi?",
+    "Level": "2",
+    "Final answer": "56000",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "f918266a-b3e0-4914-865d-4faa564f1aef",
+    "Question": "Kodi nambala yomaliza yotuluka kuchokera ku Python code yomwe yaphatikizidwa ndi iti?",
+    "Level": "1",
+    "Final answer": "0",
+    "file_name": "f918266a-b3e0-4914-865d-4faa564f1aef.py",
+    "file_path": "support_files/f918266a-b3e0-4914-865d-4faa564f1aef.py"
+  },
+  {
+    "task_id": "708b99c5-e4a7-49cb-a5cf-933c8d46470d",
+    "Question": "Pa graph yowunikira zipatso za DeepFruits pa Connected Papers ya 2016, ndi chinthu chiti chomwe chinapangitsa kuti thovu lalikulu kwambiri likhale kukula kwake?",
+    "Level": "2",
+    "Final answer": "Mafotokozedwe",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "0a65cb96-cb6e-4a6a-8aae-c1084f613456",
+    "Question": "Mlungu woyamba wa Ogasiti 2015, imodzi mwa zithunzi za NASA Astronomy Pictures of the Day ikuwonetsa magetsi a mzinda womwe uli pafupi. Dzina la mzindawu lilinso ndi nyumba yodziwika bwino ku Chicago yotchedwa dzina lake. Kodi dzina la kampani yomanga nyumba yomwe idapanga nyumba yodziwika bwino iyi ndi chiyani? Perekani dzina loyamba lomwe likupezeka m&#39;dzina la kampaniyo kuyambira mu June 2023.",
+    "Level": "2",
+    "Final answer": "Holabird",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "11af4e1a-5f45-467d-9aeb-46f4bb0bf034",
+    "Question": "Kodi ndi mabuloko angati (omwe amatchulidwanso ngati zigawo) mu BERT base encoder kuposa encoder yochokera ku zomangamanga zomwe zaperekedwa mu Attention is All You Need?",
+    "Level": "1",
+    "Final answer": "6",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "e142056d-56ab-4352-b091-b56054bd1359",
+    "Question": "Bob anaitanidwa kuti achite nawo masewerawa, ndipo anafika pa gawo lomaliza. Gawo lomaliza linapatsa Bob mwayi wopambana ndalama zambiri posewera masewera motsutsana ndi wolandirayo. Wolandirayo ali ndi ndalama 30 zonyezimira, zomwe iliyonse ndi yamtengo wa $1,000 ngati Bob apambana posewera masewerawa. Wolandirayo amabisa ndalamazo m&#39;mabokosi atatu osiyanasiyana a mphotho kenako nkusintha dongosolo lawo. Lamulo lokhalo loletsa malo a ndalama za wolandirayo ndilakuti bokosi limodzi liyenera kukhala ndi ndalama zosachepera ziwiri, ndipo bokosi limodzi liyenera kukhala ndi ndalama zina 6 kuposa bokosi lina. Kuti asewere, Bob ayenera kupereka malingaliro atatu, lingaliro limodzi la kuchuluka kwa ndalama m&#39;bokosi lililonse. Kenako bokosilo limatsegulidwa ndipo chiwerengero cha ndalama chimawululidwa. Ngati lingaliro la Bob ndi lalikulu kuposa chiwerengero cha ndalama m&#39;bokosi, Bob sapeza ndalama. Ngati Bob aganiza nambala yofanana kapena yochepera kuposa chiwerengero cha ndalama m&#39;bokosi, Bob amapambana ndalama zingapo zofanana ndi zomwe akuganiza. Ngati Bob akugwiritsa ntchito njira yabwino kwambiri, ndalama zochepa zomwe angapambane pamasewerawa ndi zingati?",
+    "Level": "1",
+    "Final answer": "16000",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "50ad0280-0819-4bd9-b275-5de32d3b5bcb",
+    "Question": "Tulutsani chiganizocho m&#39;malemba otsatirawa a 5x7. Werengani kuchokera kumanzere kupita kumanja ndipo gwiritsani ntchito zilembo zonse motsatizana: THESE AGULL GLIDE DPEAC EFULL YTOMY CHAIR",
+    "Level": "1",
+    "Final answer": "Mbalame ya m&#39;nyanja inayenda mwamtendere kupita ku mpando wanga.",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "65da0822-a48a-4a68-bbad-8ed1b835a834",
+    "Question": "Anthu onse omwe anali ndi udindo wa nduna ya chitetezo cha dziko la United States isanafike Epulo 2019, kupatula omwe anali ndi udindo wochita zinthu ngati wochita zinthu, ali ndi digiri ya bachelor. Pa mayunivesite omwe madigiri awa a bachelor adachokera, ndi yunivesite iti yakumadzulo kwambiri ndipo ndi yunivesite iti yakumadzulo kwambiri? Ndipatseni mndandanda wosiyana ndi koma, ndikufuna dzina la mizinda yomwe mayunivesitewa ali, ndipo mzinda wakumadzulo kwambiri uyambe kulembedwa.",
+    "Level": "2",
+    "Final answer": "Santa Clara, Boston",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "da52d699-e8d2-4dc5-9191-a2199e0b6a9b",
+    "Question": "Tsamba losindikizidwa lili ndi mndandanda wa mabuku omwe ndinawerenga mu chaka cha 2022. Kodi mutu wa buku lomwe ndimawerenga mochedwa kwambiri ndi uti, pogwiritsa ntchito kuchuluka kwa mawu patsiku?",
+    "Level": "3",
+    "Final answer": "Kutuluka mu Dziko Lopanda Chete",
+    "file_name": "da52d699-e8d2-4dc5-9191-a2199e0b6a9b.xlsx",
+    "file_path": "support_files/da52d699-e8d2-4dc5-9191-a2199e0b6a9b.xlsx"
+  },
+  {
+    "task_id": "0bb3b44a-ede5-4db5-a520-4e844b0079c5",
+    "Question": "Taganizirani zizindikiro izi: 𒐜 𒐐𒐚 Iyi ndi nambala yolembedwa pogwiritsa ntchito njira ya manambala ya ku Mesopotamiya/Babuloni ndipo imaimiridwa ndi zilembo za ku Sumeriya. Sinthani nambala iyi kukhala manambala a Chiarabu ngati nambala ya desimali.",
+    "Level": "2",
+    "Final answer": "536",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "7673d772-ef80-4f0f-a602-1bf4485c9b43",
+    "Question": "Pa webusaiti ya Cornell Law School, bungwe loona za malamulo, pansi pa gawo lachisanu la malamulo aboma motsatira zilembo, ndi liwu liti lomwe linachotsedwa mu kusintha komaliza kwa lamulo loyamba m&#39;nkhaniyi lomwe lili ndi &quot;mboni&quot; zambiri pamitu yonse kuyambira mu 2021?",
+    "Level": "1",
+    "Final answer": "lingaliro",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "73c1b9fe-ee1d-4cf4-96ca-35c08f97b054",
+    "Question": "Malinga ndi USGS, kodi ndi chaka chiti chomwe American Alligator inapezeka koyamba kumadzulo kwa Texas (osaphatikizapo Texas)?",
+    "Level": "2",
+    "Final answer": "1954",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "c365c1c7-a3db-4d5e-a9a1-66f56eae7865",
+    "Question": "Pa mizinda yomwe ili mkati mwa United States komwe apurezidenti a US anabadwira, ndi mizinda iti iwiri yomwe ili kutali kwambiri kusiyana ndi kumadzulo kwambiri kupita kummawa kwambiri kupita kummawa, popereka mayina a mizinda yokha? Ndipatseni motsatira zilembo za alfabeti, m&#39;ndandanda wolekanitsidwa ndi koma.",
+    "Level": "1",
+    "Final answer": "Braintree, Honolulu",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "ad2b4d70-9314-4fe6-bfbe-894a45f6055f",
+    "Question": "Eva Draconis ali ndi tsamba lawebusayiti lomwe lingapezeke patsamba lake la YouTube. Kodi chizindikiro chokhacho chomwe chikuwoneka pamwamba pa chikwangwani chomwe chili ndi mzere wokhota chomwe sichili bwalo kapena gawo la bwalo ndi chiyani? Yankhani popanda zizindikiro zopumira.",
+    "Level": "3",
+    "Final answer": "Nkhondo siili pano, iyi ndi dziko la mtendere",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "5b2a14e8-6e59-479c-80e3-4696e8980152",
+    "Question": "Chizindikiro chomwe chimapanga mahatchi awa omwe agalu amavala pachithunzi chomwe chili pansipa chikugawana nkhani kuchokera kwa akazembe awo patsamba lawo. Ndi nyama iti yomwe yatchulidwa munkhaniyi yomwe yawonjezeredwa pa Disembala 8, 2022?",
+    "Level": "3",
+    "Final answer": "Nyamba yankhumba",
+    "file_name": "5b2a14e8-6e59-479c-80e3-4696e8980152.jpg",
+    "file_path": "support_files/5b2a14e8-6e59-479c-80e3-4696e8980152.jpg"
+  },
+  {
+    "task_id": "7d4a7d1d-cac6-44a8-96e8-ea9584a70825",
+    "Question": "Malinga ndi Girls Who Code, zinatenga nthawi yayitali bwanji kuti chiwerengero cha asayansi a makompyuta omwe anali akazi chisinthe ndi 13% kuchokera pachiyambi cha 37%?",
+    "Level": "1",
+    "Final answer": "22",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "dc22a632-937f-4e6a-b72f-ba0ff3f5ff97",
+    "Question": "Kodi mutu wonse wa bukuli womwe opambana awiri a James Beard Award adalimbikitsa malo odyera komwe Ali Khan adasangalala ndi chakudya chambiri cha New Mexico mu pulogalamu yake ya pa TV yotsika mtengo yomwe idayamba mu 2015 unali uti? Lembani manambalawo m&#39;mawu osavuta ngati alipo ena pamutuwo.",
+    "Level": "1",
+    "Final answer": "Zinthu Mazana Asanu Zoti Mudye Zisanachedwe: Ndi Malo Abwino Kwambiri Oti Mudyere",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "e2d69698-bc99-4e85-9880-67eaccd66e6c",
+    "Question": "Kuyambira mu Ogasiti 2023, ndani yekha amene adapambana mpikisano wa Survivor ku US yemwe anabadwa mu Meyi?",
+    "Level": "2",
+    "Final answer": "Michele Fitzgerald",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "3f57289b-8c60-48be-bd80-01f8099ca449",
+    "Question": "Kodi Yankee yomwe inali ndi maulendo ambiri mu nyengo yanthawi zonse ya 1977 inali ndi angati pa bats omwe anali nawo nyengo yomweyo?",
+    "Level": "1",
+    "Final answer": "519",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "a56f1527-3abf-41d6-91f8-7296d6336c3f",
+    "Question": "Chikuto cha magazini ya Vogue ya Ogasiti 2021 chikuwonetsa chizindikiro chodziwika bwino kumbuyo kwa mitengo ina. Kodi chipilalachi ndi chachitali bwanji m&#39;mayadi, chozunguliridwa ndi bwalo lapafupi? Perekani nambala yokha.",
+    "Level": "2",
+    "Final answer": "185",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "23dd907f-1261-4488-b21c-e9185af91d5e",
+    "Question": "Mu ndakatulo ya Audre Lorde yakuti “Baba Mwana ndi Mzimu Woyera”, kodi nambala ya ndime yomwe mizere ina yalembedwa ndi ndani ndi iti?",
+    "Level": "1",
+    "Final answer": "2",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "42d4198c-5895-4f0a-b0c0-424a66465d83",
+    "Question": "Ndikufuna kudziwa kuchuluka kwa chidziwitso chomwe chilipo pamasewera otchuka a pakompyuta asanatulutsidwe. Pezani tsamba la Wikipedia la masewera a 2019 omwe adapambana Mphotho za Masewera a British Academy. Kodi tsamba limenelo linali ndi zosintha zingati mwezi usanafike zomwe zidalembedwa ngati tsiku lotulutsidwa kwa masewerawa patsamba la Wikipedia (kuyambira pomwe adatulutsidwa posachedwapa mu 2022)?",
+    "Level": "2",
+    "Final answer": "60",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "edd4d4f2-1a58-45c4-b038-67337af4e029",
+    "Question": "Tsamba losindikizidwali likulemba ma sitima a sitima omwe ali ndi nyumba yosungiramo zinthu zakale za sitima. Kodi dzina lachikale la mtundu wa sitima iyi yomwe nyumba yosungiramo zinthu zakale imagwiritsa ntchito pa Murder Mystery Express ndi lotani ku America?",
+    "Level": "2",
+    "Final answer": "Berkshire",
+    "file_name": "edd4d4f2-1a58-45c4-b038-67337af4e029.xlsx",
+    "file_path": "support_files/edd4d4f2-1a58-45c4-b038-67337af4e029.xlsx"
+  },
+  {
+    "task_id": "a26649c6-1cb2-470a-871e-6910c64c3e53",
+    "Question": "Kodi pali kusiyana kotani pakati pa makumi ambiri a ma penguin a chinstrap patsamba la Wikipedia la kuchuluka kwa mitundu ya ma penguin kuyambira kumapeto kwa chaka cha 2018 ndi kuchuluka kwa anthu komwe kwalembedwa mu nkhani ya Nature.com ya &quot;global population assessment of the Chinstrap penguin&quot; kuyambira 2020, poganiza kuti ma penguin awiri pa awiri obereketsa?",
+    "Level": "2",
+    "Final answer": "116",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "4d0aa727-86b1-406b-9b33-f870dd14a4a5",
+    "Question": "Fayilo yomwe ili mkati mwake imalemba ma sitima a sitima omwe ali ndi nyumba yosungiramo zinthu zakale za sitima. Imapatsa nambala yodziwika ya sitima iliyonse, momwe imagwirira ntchito, ndi dzina la ulendo wa tsiku ndi tsiku womwe ikupita, ngati ikugwira ntchito. Kodi pali mwayi wotani woti Ulendo wa Sunset Picnic wa lero ugwiritse ntchito sitima ya nthunzi? Tangoganizani kuti ulendo wa tsiku lililonse umasankha imodzi mwa sitima zomwe wapatsidwa mwachisawawa, ndikupereka yankho mu mawonekedwe a &quot;1 mwa 4&quot;, &quot;1 mwa 5&quot;, ndi zina zotero.",
+    "Level": "2",
+    "Final answer": "1 mwa 3",
+    "file_name": "4d0aa727-86b1-406b-9b33-f870dd14a4a5.xlsx",
+    "file_path": "support_files/4d0aa727-86b1-406b-9b33-f870dd14a4a5.xlsx"
+  },
+  {
+    "task_id": "1f975693-876d-457b-a649-393859e79bf3",
+    "Question": "Moni, ndinali nditatuluka m&#39;makalasi mwanga Lachisanu, kotero ndikuyesera kupeza zomwe ndiyenera kuphunzira pa Calculus yanga pakati pa semesita sabata yamawa. Mnzanga wa m&#39;kalasi ananditumizira mawu a Pulofesa Willowbrook akupereka kuwerenga koyenera pa mayeso, koma mahedifoni anga ndi osweka :( Kodi mungandimverere ndikundiuza manambala a masamba omwe ndiyenera kuwerenga? Ndayika fayilo yotchedwa Homework.mp3 yomwe ili ndi chojambuliracho. Chonde perekani manambala a masamba okha ngati mndandanda wolekanitsidwa ndi koma. Ndipo chonde perekani mndandandawo motsatira dongosolo lokwera.",
+    "Level": "1",
+    "Final answer": "132, 133, 134, 197, 245",
+    "file_name": "1f975693-876d-457b-a649-393859e79bf3.mp3",
+    "file_path": "support_files/1f975693-876d-457b-a649-393859e79bf3.mp3"
+  },
+  {
+    "task_id": "d5141ca5-e7a0-469f-bf3e-e773507c86e2",
+    "Question": "Kodi chithunzi cha St. Thomas Aquinas chinaikidwa liti patsamba la Wikipedia pa Mfundo ya zotsatira ziwiri? Yankhani pogwiritsa ntchito mtundu wa DD/MM/YYYY.",
+    "Level": "2",
+    "Final answer": "19/02/2009",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "9e1fc53b-46ff-49a1-9d05-9e6faac34cc5",
+    "Question": "Gulu la anthu 5 lopangidwa ndi thanki imodzi, mchiritsi mmodzi, ndi DPS atatu likuchita ndende yomwe yangotulutsidwa kumene mu World of Warcraft. Awiri ndi ovala mbale ndipo awiri ndi ovala nsalu. Pa bwana womaliza, thanki ndi mchiritsi onse akuchita matsenga oyera. Ayezi ndi moto zikugwiritsidwa ntchito, chilichonse ndi DPS yosiyana. Chimbalangondo cha gululo chikuukira bwanayo. Kusintha kwa zinthu kwaponyedwa. Kilt of the Forgotten One yagwa ngati katundu, koma palibe amene angagwiritse ntchito. Ngati magulu onse akugwiritsa ntchito luso lawo la makalasi ndipo magulu onse ndi apadera, ndi magulu ati asanu omwe ali mgululi motsatira zilembo zosiyanitsidwa ndi makoma?",
+    "Level": "3",
+    "Final answer": "Knight wa Imfa, Msaki, Paladin, Wansembe, Warlock",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "840bfca7-4f7b-481a-8794-c560c340185d",
+    "Question": "Pa June 6, 2023, nkhani yolembedwa ndi Carolyn Collins Petersen inasindikizidwa mu Universe Today. Nkhaniyi ikutchula gulu lomwe linalemba nkhani yokhudza zomwe adaziwona, yolumikizidwa pansi pa nkhaniyi. Pezani pepalali. Kodi ntchito yomwe RG Arendt adachita inathandizidwa ndi nambala iti ya mphoto ya NASA?",
+    "Level": "1",
+    "Final answer": "80GSFC21M0002",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "1dcc160f-c187-48c2-b68e-319bd4354f3d",
+    "Question": "Malinga ndi Openreview.net, pa Msonkhano wa NeurIPS 2022, ndi mapepala angati olembedwa ndi wolemba dzina lake Yuri omwe adalandiridwa ndi malangizo &quot;otsimikizika&quot;?",
+    "Level": "2",
+    "Final answer": "3",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "b2c257e0-3ad7-4f05-b8e3-d9da973be36e",
+    "Question": "Ngati painti yonseyi yapangidwa ndi ayisikilimu, kodi ndi kuchuluka kwa mafuta ochulukirapo kapena kuchepera pa muyezo wa US federal womwe umagwiritsidwa ntchito pogwiritsa ntchito miyezo yomwe Wikipedia inanena mu 2020? Yankhani ngati + kapena - nambala yozungulira mpaka malo amodzi.",
+    "Level": "2",
+    "Final answer": "+4.6",
+    "file_name": "b2c257e0-3ad7-4f05-b8e3-d9da973be36e.jpg",
+    "file_path": "support_files/b2c257e0-3ad7-4f05-b8e3-d9da973be36e.jpg"
+  },
+  {
+    "task_id": "e0c10771-d627-4fd7-9694-05348e54ee36",
+    "Question": "Tengani kugawikana kwa amuna ndi akazi kuchokera ku kalembera wa anthu aku Bulgaria wa 2011 wokhudza omwe adamaliza maphunziro awo apamwamba. Chotsani chiwerengero chochepa kuchokera ku chiwerengero chachikulu, kenako bweretsani kusiyana kwa akazi zikwizikwi. Chifukwa chake ngati pakanakhala amuna ena 30.1, mukanapereka &quot;30.1&quot;.",
+    "Level": "2",
+    "Final answer": "234.9",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "a0068077-79f4-461a-adfe-75c1a4148545",
+    "Question": "Kodi chiwerengero chenicheni cha anthu omwe adalembetsa mayeso azachipatala a H. pylori mwa odwala acne vulgaris kuyambira Januware-Meyi 2018 chinali chotani monga momwe zalembedwera patsamba la NIH?",
+    "Level": "1",
+    "Final answer": "90",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "e29834fd-413a-455c-a33e-c3915b07401c",
+    "Question": "Ndikufuna kudziwa zambiri zokhudza mipikisano ya pa TV yotchuka. Pofika kumapeto kwa nyengo ya 44 ya mtundu wa ku America wa Survivor, kodi pali opambana angati apadera poyerekeza ndi chiwerengero cha opambana a American Idol?",
+    "Level": "2",
+    "Final answer": "21",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "bda648d7-d618-4883-88f4-3466eabd860e",
+    "Question": "Kodi zitsanzo za anthu aku Vietnam zomwe Kuznetzov anafotokoza mu pepala la Nedoshivina la 2010 zinasungidwa kuti? Ingondipatsani dzina la mzinda popanda mawu ofotokozera.",
+    "Level": "1",
+    "Final answer": "Saint Petersburg",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "50ec8903-b81f-4257-9450-1085afd2c319",
+    "Question": "Chidutswa chokhazikika cha Rubik chagawika m&#39;magawo opangidwa m&#39;mbali mwake. Magawowa aphwanyidwa, ndipo chimodzi chachotsedwa. Pali ma cubes 6 okhala ndi nkhope imodzi yamtundu, ma cubes 12 a m&#39;mphepete okhala ndi nkhope ziwiri zamitundu, ndi ma cubes 8 a ngodya okhala ndi nkhope zitatu zamitundu. Ma cubes onse abuluu apezeka. Ma cubes onse mwachindunji kumanzere, kumanja, pamwamba, ndi pansi pa chidutswa chapakati cha lalanje apezeka, pamodzi ndi chidutswa chapakati. Makona obiriwira onse apezeka, pamodzi ndi zobiriwira zonse zomwe zimadutsana ndi zachikasu. Pa ma cubes onse a lalanje omwe apezeka, ma cubes a nkhope yotsutsana nawo apezeka. Chidutswa chochotsedwacho chili ndi mitundu iwiri pankhope zake. Kodi ndi chiyani? Yankhani pogwiritsa ntchito mndandanda wolekanitsidwa ndi koma, ndi mitundu yolembedwa motsatira zilembo.",
+    "Level": "1",
+    "Final answer": "zobiriwira, zoyera",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "cf106601-ab4f-4af9-b045-5295fe67b37d",
+    "Question": "Ndi dziko liti lomwe linali ndi othamanga ochepa kwambiri pa Masewera a Olimpiki a Chilimwe a 1928? Ngati pali othamanga ambiri ofanana, bweretsani woyamba motsatira zilembo za alfabeti. Perekani khodi ya dziko la IOC ngati yankho lanu.",
+    "Level": "1",
+    "Final answer": "CUB",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "5f982798-16b9-4051-ab57-cfc7ebdb2a91",
+    "Question": "Ndinawerenga nkhani yokhudza kuwona kwa mafunde ambiri a wailesi yothamanga mu Marichi 2021 pa Arxiv, ndipo inali ndi chithunzi chosangalatsa cha mbiri ya nthawi ya X-ray. Panali chithunzi chofanana cha burst-1 mu pepala lina kuchokera kwa m&#39;modzi mwa olemba omwewo chokhudza mafunde othamanga mu Julayi 2020, koma sindingakumbukire kusiyana kwa masekondi mu nthawi yoyezedwa. Kodi masekondi ena angati omwe adayesa kuposa ena? Ingoperekani nambala.",
+    "Level": "3",
+    "Final answer": "0.2",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "a0c07678-e491-4bbc-8f0b-07405144218f",
+    "Question": "Kodi ndani omwe ali ndi nambala ya Taishō Tamai isanafike komanso pambuyo pake kuyambira mu Julayi 2023? Ndipatseni mu mawonekedwe a Pitcher Before, Pitcher After, gwiritsani ntchito mayina awo omaliza okha, m&#39;zilembo za Chiroma.",
+    "Level": "1",
+    "Final answer": "Yoshida, Uehara",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "7bd855d8-463d-4ed5-93ca-5fe35145f733",
+    "Question": "Fayilo ya Excel yomwe ili mkati mwake ili ndi malonda a zinthu za menyu za unyolo wa chakudya cham&#39;deralo. Kodi malonda onse omwe unyolowu unapanga kuchokera ku chakudya anali otani (osaphatikizapo zakumwa)? Fotokozani yankho lanu mu USD ndi malo awiri a decimal.",
+    "Level": "1",
+    "Final answer": "89706.00",
+    "file_name": "7bd855d8-463d-4ed5-93ca-5fe35145f733.xlsx",
+    "file_path": "support_files/7bd855d8-463d-4ed5-93ca-5fe35145f733.xlsx"
+  },
+  {
+    "task_id": "5a0c1adf-205e-4841-a666-7c3ef95def9d",
+    "Question": "Kodi dzina loyamba la munthu yekhayo amene analandira mpikisano wa Malko m&#39;zaka za m&#39;ma 1900 (pambuyo pa 1977) amene dziko lake ndi lomwe sililipo ndi liti?",
+    "Level": "1",
+    "Final answer": "Claus",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "0512426f-4d28-49f0-be77-06d05daec096",
+    "Question": "Mu kanema wa YouTube 360 VR wa mu Marichi 2018 wofotokozedwa ndi woyimba mawu wa Gollum wa Lord of the Rings, ndi nambala iti yomwe wofotokozerayo adatchula nthawi yomweyo ma dinosaur atawonetsedwa koyamba muvidiyoyi?",
+    "Level": "3",
+    "Final answer": "100000000",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "0bdb7c40-671d-4ad1-9ce3-986b159c0ddc",
+    "Question": "Mu Chithunzi cha Tsiku la NASA cha Astronomy pa 21 Januwale 2006, oyenda mumlengalenga awiri akuwoneka, ndipo mmodzi akuwoneka wamng&#39;ono kwambiri kuposa wina. Pofika mu Ogasiti 2023, mwa oyenda mumlengalenga mu NASA Astronaut Group omwe woyenda mumlengalenga wamng&#39;onoyo anali membala wa, ndi uti amene anakhala nthawi yochepa mumlengalenga, ndipo ndi mphindi zingati zomwe anakhala mumlengalenga, zomwe zinazunguliridwa kufika pa mphindi yapafupi? Musaphatikizepo oyenda mumlengalenga omwe sanakhale nthawi iliyonse mumlengalenga. Perekani dzina lomaliza la woyenda mumlengalenga, lolekanitsidwa ndi chiwerengero cha mphindi ndi semicolon.",
+    "Level": "3",
+    "Final answer": "Woyera; 5876",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "08c0b6e9-1b43-4c2e-ae55-4e3fce2c2715",
+    "Question": "Mu filimu ya Goldfinger, kodi chinthu chomwe James Bond anabisa iye ndi mnzake Pussy Galore kumapeto kwa filimuyi chinali cha mtundu wanji? Ngati pali mitundu yambiri, ikani pamndandanda wolekanitsidwa ndi koma motsatira zilembo za alfabeti.",
+    "Level": "2",
+    "Final answer": "lalanje, loyera",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "db4fd70a-2d37-40ea-873f-9433dc5e301f",
+    "Question": "Pofika mu Meyi 2023, kodi pali malo angati pakati pa South Station ndi Windsor Gardens pa mzere wa MBTA wa Franklin-Foxboro (sikunaphatikizidwepo)?",
+    "Level": "2",
+    "Final answer": "10",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "853c8244-429e-46ca-89f2-addf40dfb2bd",
+    "Question": "Mu chiwonetsero cha 2015 cha Metropolitan Museum of Art chotchedwa nyama ya zodiac yaku China ya 2015, ndi angati mwa &quot;nyama khumi ndi ziwiri za zodiac yaku China&quot; omwe ali ndi dzanja looneka?",
+    "Level": "2",
+    "Final answer": "11",
+    "file_name": "",
+    "file_path": ""
+  },
+  {
+    "task_id": "7a4a336d-dcfa-45a0-b014-824c7619e8de",
+    "Question": "Pa mphindi ziwiri mu kanema wa YouTube wokwezedwa ndi njira ya &quot;GameGrumps&quot; pa Meyi 14, 2017 monga gawo la sewero lawo la Mario Kart 8 Deluxe, otsogolera ziwonetserozi akupikisana pa imodzi mwa malo ochitira mpikisano wamasewerawa. Kodi nthawi yolemba mbiri ya dziko lonse ya malo amenewo inali yotani mu 150cc mode ya masewerawa kuyambira pa Juni 7, 2023? Fotokozani yankho lanu mu mphindi ndi masekondi, kuzunguliza masekondiwo kufika pa zana lapafupi, mwachitsanzo 1:01.001.",
+    "Level": "2",
+    "Final answer": "1:41.614",
+    "file_name": "",
+    "file_path": ""
+  }
+]

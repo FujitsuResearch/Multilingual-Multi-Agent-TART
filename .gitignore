@@ -1,0 +1,32 @@
+# Secrets
+.env
+.env.*
+!.env_example
+
+# Python
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Runtime outputs
+results/
+tmp/
+logs/
+log/
+*.log
+
+# System / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Build/cache
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+build/
+dist/

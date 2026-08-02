@@ -1,0 +1,27 @@
+# Config for run_multitat_workforce_gpt4o.py --setup <name>
+#
+# `lang` must be one of MULTITAT's 11 ISO codes: bn de en es fr ja ru sw te th zh.
+# All 11 are currently downloaded (data/dev.<lang>.json). If any are ever
+# missing, re-fetch with:
+#   python mutitat_eval/download.py --langs <lang>
+#
+# `subset`/`idx` are optional (null = run the full 250-item split for that
+# language). Use `subset: 3` for a quick smoke test.
+configs:
+  - name: multitat_en
+    DOTENV_FILE: .env
+    lang: en
+    max_tries: 1
+    subset: null
+
+  - name: multitat_bn
+    DOTENV_FILE: .env
+    lang: bn
+    max_tries: 1
+    subset: null
+
+  - name: multitat_de
+    DOTENV_FILE: .env
+    lang: de
+    max_tries: 1
+    subset: null

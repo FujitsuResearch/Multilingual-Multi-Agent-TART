@@ -1,0 +1,33 @@
+configs:
+  - name: parser_hindi
+    DOTENV_FILE: .env
+    lang: hindi
+    data: gaia_data/high_mid_lang_data
+    level: all
+    icl: False
+    icl_k: 0
+    parser_model: azure/gpt-5-mini
+    input_ablations: False
+    input_operation_ablations: False
+
+  - name: parser_swahili
+    DOTENV_FILE: .env
+    lang: swahili
+    data: gaia_data/low_resource_lang_data
+    level: all
+    icl: False
+    icl_k: 0
+    parser_model: azure/gpt-5-mini
+    input_ablations: False
+    input_operation_ablations: False
+
+  - name: parser_kygryz
+    DOTENV_FILE: .env
+    lang: kygryz
+    data: gaia_data/high_mid_lang_data
+    level: all
+    icl: False
+    icl_k: 0
+    parser_model: azure/gpt-5-mini
+    input_ablations: False
+    input_operation_ablations: False
