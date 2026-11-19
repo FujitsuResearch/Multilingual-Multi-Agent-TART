@@ -1,4 +1,12 @@
-# TART
+# An Actionable Diagnosis of Multilingual, Multi-Agent Planning Failures (TART)
+
+### Official implementation of TART, accepted to EACL 2027 main conference.
+
+[![Paper arXiv](https://img.shields.io/badge/arXiv-2608.03735-b31b1b.svg)](https://arxiv.org/abs/2608.03735)
+
+## Entity grounding failure example for an Igbo query
+
+![TART Example](TART_image.png)
 
 This repository contains code for running baseline and TART-assisted agent experiments on GAIA/MAPS and MultiTAT. TART representations must be generated before running TART-assisted agent files. The `tart_data/` files included in this repository are reference/sample files only and are not a complete replacement for running the TART generator.
 
@@ -354,3 +362,20 @@ Make sure that server is running before executing the judge.
 - `results/`, `tmp/`, logs, caches, and `.env` are ignored by Git.
 - The provided `tart_data/` files are reference/sample data only. Full TART data should be regenerated with `tart_generator/run_tart_generator.py` before full experiments.
 - Update YAML config files if you add new languages or new model setups.
+
+## Citation
+
+If you use TART in your research, please cite:
+
+```bibtex
+@article{pahuja2026actionable,
+  title={An Actionable Diagnosis of Multilingual, Multi-Agent Planning Failures},
+  author={Pahuja, Vikas and Brokman, Jonathan and Hofman, Omer and Nizri, Tamir and Vishna, Daniel and Goldfarb-Tarrant, Seraphina and Marchisio, Kelly and Kojima, Hisashi and Vainshtein, Roman},
+  journal={arXiv preprint arXiv:2608.03735},
+  year={2026}
+}
+```
+
+## Licence
+
+TART is available for noncommercial use. Third-party software and assets remain subject to their respective licenses.
